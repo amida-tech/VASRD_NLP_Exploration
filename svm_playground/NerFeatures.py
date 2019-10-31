@@ -118,5 +118,5 @@ if __name__ == '__main__':
     model_output = '../model/svm_ner_model'
     count_vectorizer_model = '../model/cv_model'
     tf_idf_vectorizer_model = '../model/tf_idf_model'
-    tf_nn_vectorizer_model = '../model/tf_inn_model'
+    tf_nn_vectorizer_model = '../model/tf_nn_model'
     main(model_output, count_vectorizer_model, tf_idf_vectorizer_model, tf_nn_vectorizer_model)
