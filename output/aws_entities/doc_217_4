@@ -1,0 +1,1 @@
+{"Id": 2, "BeginOffset": 45, "EndOffset": 57, "Score": 0.7643291354179382, "Text": "loose motion", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SIGN", "Score": 0.6599114537239075}, {"Name": "NEGATION", "Score": 0.7396793961524963}]}

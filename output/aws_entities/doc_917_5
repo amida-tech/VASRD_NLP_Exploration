@@ -1,0 +1,1 @@
+{"Id": 2, "BeginOffset": 161, "EndOffset": 164, "Score": 0.3502718210220337, "Text": "ANC", "Category": "TEST_TREATMENT_PROCEDURE", "Type": "TEST_NAME", "Traits": [], "Attributes": [{"Type": "TEST_VALUE", "Score": 0.6387191414833069, "RelationshipScore": 0.9968259334564209, "Id": 3, "BeginOffset": 190, "EndOffset": 197, "Text": "1500/\u00b5l", "Traits": []}]}

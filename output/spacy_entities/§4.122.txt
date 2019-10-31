@@ -1,0 +1,6 @@
+macropsia	GPE
+dreamy states	GPE
+several minutes	TIME
+hours	TIME
+amnesia	GPE
+the National Anthem	ORG

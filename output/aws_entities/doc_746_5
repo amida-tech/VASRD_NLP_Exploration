@@ -1,0 +1,1 @@
+{"Id": 4, "BeginOffset": 157, "EndOffset": 163, "Score": 0.9924392700195312, "Text": "eczema", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SIGN", "Score": 0.4056137502193451}, {"Name": "DIAGNOSIS", "Score": 0.4045153856277466}, {"Name": "NEGATION", "Score": 0.6622593998908997}]}

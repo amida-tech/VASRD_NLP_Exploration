@@ -1,0 +1,1 @@
+{"Id": 6, "BeginOffset": 151, "EndOffset": 162, "Score": 0.9922000765800476, "Text": "hypotension", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "DIAGNOSIS", "Score": 0.8407840132713318}, {"Name": "NEGATION", "Score": 0.5372893810272217}]}

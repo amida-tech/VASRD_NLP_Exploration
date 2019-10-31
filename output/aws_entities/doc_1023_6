@@ -1,0 +1,1 @@
+{"Id": 4, "BeginOffset": 367, "EndOffset": 375, "Score": 0.9274017214775085, "Text": "myxedema", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "DIAGNOSIS", "Score": 0.5430377125740051}, {"Name": "NEGATION", "Score": 0.8028035163879395}]}

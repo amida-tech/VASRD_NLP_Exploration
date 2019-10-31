@@ -1,0 +1,1 @@
+{"Id": 5, "BeginOffset": 115, "EndOffset": 119, "Score": 0.8462487459182739, "Text": "DLCO", "Category": "TEST_TREATMENT_PROCEDURE", "Type": "TEST_NAME", "Traits": [], "Attributes": [{"Type": "TEST_VALUE", "Score": 0.6471199989318848, "RelationshipScore": 0.9293138980865479, "Id": 7, "BeginOffset": 128, "EndOffset": 155, "Text": "40- to 55-percent predicted", "Traits": []}]}

@@ -1,0 +1,1 @@
+{"Id": 0, "BeginOffset": 186, "EndOffset": 206, "Score": 0.5565763711929321, "Text": "ankle/brachial index", "Category": "TEST_TREATMENT_PROCEDURE", "Type": "TEST_NAME", "Traits": [], "Attributes": [{"Type": "TEST_VALUE", "Score": 0.7069672346115112, "RelationshipScore": 0.9970945119857788, "Id": 1, "BeginOffset": 210, "EndOffset": 213, "Text": "0.7", "Traits": []}]}

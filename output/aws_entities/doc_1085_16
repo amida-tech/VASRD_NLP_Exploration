@@ -1,0 +1,1 @@
+{"Id": 15, "BeginOffset": 371, "EndOffset": 403, "Score": 0.9175207614898682, "Text": "impaired awareness of disability", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SYMPTOM", "Score": 0.7085987329483032}, {"Name": "DIAGNOSIS", "Score": 0.467904269695282}]}

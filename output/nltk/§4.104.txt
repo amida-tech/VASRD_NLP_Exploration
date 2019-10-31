@@ -1,0 +1,9 @@
+If more than one extremity is affected, evaluate each extremity separately and combine
+(under §4.25), using the bilateral factor (§4.26), if applicable. If more than one extremity is involved, evaluate each extremity separately and combine
+(under §4.25), using the bilateral factor (§4.26), if applicable. Note (2): Evaluate each affected part (e.g., hand, foot, ear, nose) separately and combine the ratings in accordance with §§4.25 and 4.26. If more than one extremity is affected, evaluate each extremity separately and combine
+(under §4.25), using the bilateral factor, if applicable. Diseases of the Heart
+   Rating
+Note (1): Evaluate cor pulmonale, which is a form of secondary heart disease, as part of the pulmonary condition that causes it. Note (2): Evaluate hypertension due to aortic insufficiency or hyperthyroidism, which is usually the isolated systolic type, as part of the condition causing it
+rather than by a separate evaluation. 7112   Aneurysm, any small artery:
+Asymptomatic 0
+Note: If symptomatic, evaluate according to body system affected.

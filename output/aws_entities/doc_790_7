@@ -1,0 +1,1 @@
+{"Id": 5, "BeginOffset": 112, "EndOffset": 124, "Score": 0.9994926452636719, "Text": "constipation", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SYMPTOM", "Score": 0.6973646283149719}]}

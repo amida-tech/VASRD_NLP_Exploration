@@ -1,0 +1,1 @@
+{"Id": 12, "BeginOffset": 200, "EndOffset": 209, "Score": 0.9995135068893433, "Text": "dizziness", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SYMPTOM", "Score": 0.948790431022644}, {"Name": "NEGATION", "Score": 0.7256839871406555}]}

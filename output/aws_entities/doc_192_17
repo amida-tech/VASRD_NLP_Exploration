@@ -1,0 +1,1 @@
+{"Id": 8, "BeginOffset": 584, "EndOffset": 607, "Score": 0.701461136341095, "Text": "vertebral body fracture", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SIGN", "Score": 0.6221985816955566}, {"Name": "DIAGNOSIS", "Score": 0.5606980323791504}, {"Name": "NEGATION", "Score": 0.8471214771270752}]}

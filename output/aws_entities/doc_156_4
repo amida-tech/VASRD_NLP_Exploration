@@ -1,0 +1,1 @@
+{"Id": 2, "BeginOffset": 75, "EndOffset": 100, "Score": 0.4286395311355591, "Text": "ulnar or radial deviation", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SIGN", "Score": 0.9044740796089172}, {"Name": "NEGATION", "Score": 0.7511728405952454}]}

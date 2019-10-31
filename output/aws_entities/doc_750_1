@@ -1,0 +1,1 @@
+{"Id": 2, "BeginOffset": 0, "EndOffset": 11, "Score": 0.6446599960327148, "Text": "Cold injury", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SYMPTOM", "Score": 0.4329046905040741}, {"Name": "DIAGNOSIS", "Score": 0.43538302183151245}]}

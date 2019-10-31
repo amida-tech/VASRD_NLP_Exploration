@@ -1,0 +1,1 @@
+{"Id": 7, "BeginOffset": 112, "EndOffset": 127, "Score": 0.9920439720153809, "Text": "hemochromatosis", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "DIAGNOSIS", "Score": 0.9377564191818237}, {"Name": "NEGATION", "Score": 0.7538743019104004}]}

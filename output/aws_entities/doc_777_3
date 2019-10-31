@@ -1,0 +1,1 @@
+{"Id": 1, "BeginOffset": 32, "EndOffset": 49, "Score": 0.8814792633056641, "Text": "biliary cirrhosis", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "DIAGNOSIS", "Score": 0.9698806405067444}]}

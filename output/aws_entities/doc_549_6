@@ -1,0 +1,1 @@
+{"Id": 6, "BeginOffset": 218, "EndOffset": 227, "Score": 0.9933766722679138, "Text": "sinusitis", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SYMPTOM", "Score": 0.4577127695083618}, {"Name": "DIAGNOSIS", "Score": 0.510981559753418}]}

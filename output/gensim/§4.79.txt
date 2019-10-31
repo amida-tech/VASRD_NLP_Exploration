@@ -1,0 +1,43 @@
+General Rating Formula for Diseases of the Eye:
+Evaluate on the basis of either visual impairment due to the particular condition or on incapacitating episodes, whichever results in a higher evaluation
+With documented incapacitating episodes requiring at least 1 but less than 3 treatment visits for an eye condition during the past 12 months 10
+With documented incapacitating episodes requiring at least 1 but less than 3 treatment visits for an eye condition during the past 12 months 10
+With documented incapacitating episodes requiring at least 1 but less than 3 treatment visits for an eye condition during the past 12 months 10
+With documented incapacitating episodes requiring at least 1 but less than 3 treatment visits for an eye condition during the past 12 months 10
+Note (1): For the purposes of evaluation under 38 CFR 4.79, an incapacitating episode is an eye condition severe enough to require a clinic visit to a provider specifically for
+Note (3): For the purposes of evaluating visual impairment due to the particular condition, refer to 38 CFR 4.75-4.78 and to §4.79, diagnostic codes 6061-6091
+Note: This code includes orbital trauma, as well as penetrating or non-penetrating eye injury
+Localized scars, atrophy, or irregularities of the retina, unilateral or bilateral, that are centrally located and that result in an irregular, duplicated, enlarged, or diminished image 10
+Alternatively, evaluate based on the General Rating Formula for Diseases of the Eye, if this would result in a higher evaluation
+Evaluate under the General Rating Formula for Diseases of the Eye. Minimum evaluation if continuous medication is required 10
+Evaluate under the General Rating Formula for Diseases of the Eye. Minimum evaluation if continuous medication is required 10
+Malignant neoplasms of the eye, orbit, and adnexa (excluding skin) that require therapy that is comparable to those used for systemic malignancies, i.e., systemic
+Malignant neoplasms of the eye, orbit, and adnexa (excluding skin) that do not require therapy comparable to that for systemic malignancies:
+6015   Benign neoplasms of the eye, orbit, and adnexa (excluding skin):
+Separately evaluate visual and nonvisual impairment, e.g., disfigurement (diagnostic code 7800), and combine the evaluations
+Separately evaluate visual and nonvisual impairment, e.g., disfigurement (diagnostic code 7800), and combine the evaluations
+Active: Evaluate under the General Rating Formula for Diseases of the Eye, minimum rating 10
+Active: Evaluate under the General Rating Formula for Diseases of the Eye, minimum rating 10
+Inactive: Evaluate based on residuals, such as visual impairment and disfigurement (diagnostic code 7800)
+Inactive: Evaluate based on residuals, such as visual impairment and disfigurement (diagnostic code 7800)
+Evaluate based on visual impairment or, in the absence of visual impairment, on disfigurement (diagnostic code 7800).
+6023   Loss of eyebrows, complete, unilateral or bilateral 10
+6024   Loss of eyelashes, complete, unilateral or bilateral 10
+Preoperative: Evaluate under the General Rating Formula for Diseases of the Eye
+Postoperative: If a replacement lens is present (pseudophakia), evaluate under the General Rating Formula for Diseases of the Eye. If there is no replacement lens, evaluate
+Separately evaluate both visual impairment due to eyelid loss and nonvisual impairment, e.g., disfigurement (diagnostic code 7800), and combine the evaluations.
+Evaluate under the General Rating Formula for Diseases of the Eye, disfigurement (diagnostic code 7800), conjunctivitis (diagnostic code 6018), etc., depending on the
+Evaluate under the General Rating Formula for Diseases of the Eye. Minimum, if there is pain, photophobia, and glare sensitivity 10
+Evaluate based on disfigurement (diagnostic code 7800).
+6046   Post-chiasmal disorders
+Impairment of Central Visual Acuity
+6066   Visual acuity in one eye 10/200 (3/60) or better:
+Ratings for Impairment of Visual Fields
+Loss of temporal half of visual field:
+Loss of nasal half of visual field:
+Loss of inferior half of visual field:
+Loss of superior half of visual field:
+Or evaluate each affected eye as 20/50 (6/15)
+Or evaluate each affected eye as 20/50 (6/15)
+Alternatively, evaluate based on visual impairment due to scotoma, if that would result in a higher evaluation
+Evaluate under the General Rating Formula for Diseases of the Eye, lagophthalmos (diagnostic code 6022), disfigurement (diagnostic code 7800), etc., depending on the

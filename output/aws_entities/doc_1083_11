@@ -1,0 +1,1 @@
+{"Id": 0, "BeginOffset": 382, "EndOffset": 408, "Score": 0.751640796661377, "Text": "Visual spatial orientation", "Category": "TEST_TREATMENT_PROCEDURE", "Type": "TEST_NAME", "Traits": [], "Attributes": [{"Type": "TEST_VALUE", "Score": 0.967420756816864, "RelationshipScore": 1.0, "Id": 1, "BeginOffset": 409, "EndOffset": 416, "Text": "0Normal", "Traits": []}]}

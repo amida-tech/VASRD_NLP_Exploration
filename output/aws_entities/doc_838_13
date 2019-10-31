@@ -1,0 +1,1 @@
+{"Id": 13, "BeginOffset": 254, "EndOffset": 266, "Score": 0.9118138551712036, "Text": "malnutrition", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "DIAGNOSIS", "Score": 0.4722646176815033}, {"Name": "NEGATION", "Score": 0.4592386782169342}]}

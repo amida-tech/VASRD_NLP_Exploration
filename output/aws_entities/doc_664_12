@@ -1,0 +1,1 @@
+{"Id": 14, "BeginOffset": 235, "EndOffset": 258, "Score": 0.8735798597335815, "Text": "ventricular dysfunction", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SYMPTOM", "Score": 0.6726001501083374}, {"Name": "NEGATION", "Score": 0.6233652830123901}]}

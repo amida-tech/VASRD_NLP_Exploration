@@ -1,0 +1,1 @@
+{"Id": 4, "BeginOffset": 99, "EndOffset": 116, "Score": 0.9637439846992493, "Text": "pulmonary disease", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "DIAGNOSIS", "Score": 0.8145481944084167}]}

@@ -1,0 +1,1 @@
+{"Id": 0, "BeginOffset": 0, "EndOffset": 13, "Score": 0.7978953123092651, "Text": "Visual acuity", "Category": "TEST_TREATMENT_PROCEDURE", "Type": "TEST_NAME", "Traits": [], "Attributes": [{"Type": "TEST_VALUE", "Score": 0.6765435934066772, "RelationshipScore": 0.9999364614486694, "Id": 1, "BeginOffset": 25, "EndOffset": 31, "Text": "10/200", "Traits": []}]}

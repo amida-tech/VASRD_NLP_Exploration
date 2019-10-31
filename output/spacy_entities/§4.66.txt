@@ -1,0 +1,2 @@
+one	CARDINAL
+spinae spasm	PERSON

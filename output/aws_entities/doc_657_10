@@ -1,0 +1,1 @@
+{"Id": 7, "BeginOffset": 170, "EndOffset": 177, "Score": 0.996572732925415, "Text": "syncope", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SYMPTOM", "Score": 0.8434848785400391}, {"Name": "NEGATION", "Score": 0.891185998916626}]}

@@ -1,0 +1,1 @@
+{"Id": 6, "BeginOffset": 538, "EndOffset": 551, "Score": 0.624440610408783, "Text": "abnormal gait", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SIGN", "Score": 0.8525263667106628}, {"Name": "NEGATION", "Score": 0.8119539618492126}]}

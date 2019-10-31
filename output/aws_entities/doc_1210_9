@@ -1,0 +1,1 @@
+{"Id": 9, "BeginOffset": 286, "EndOffset": 327, "Score": 0.9244696497917175, "Text": "impairment of short- and long-term memory", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SIGN", "Score": 0.49539268016815186}, {"Name": "SYMPTOM", "Score": 0.7953415513038635}]}

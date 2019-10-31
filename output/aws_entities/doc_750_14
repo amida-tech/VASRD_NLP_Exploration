@@ -1,0 +1,1 @@
+{"Id": 12, "BeginOffset": 243, "EndOffset": 262, "Score": 0.7566966414451599, "Text": "X-ray abnormalities", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SYMPTOM", "Score": 0.5214939117431641}, {"Name": "DIAGNOSIS", "Score": 0.5787221193313599}]}

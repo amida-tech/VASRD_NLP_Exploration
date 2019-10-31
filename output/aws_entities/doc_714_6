@@ -1,0 +1,1 @@
+{"Id": 5, "BeginOffset": 122, "EndOffset": 132, "Score": 0.9975321292877197, "Text": "cellulitis", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "DIAGNOSIS", "Score": 0.8656452298164368}]}

@@ -1,0 +1,1 @@
+{"Id": 1, "BeginOffset": 29, "EndOffset": 47, "Score": 0.45969057083129883, "Text": "Rate complications", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SIGN", "Score": 0.526378870010376}, {"Name": "DIAGNOSIS", "Score": 0.6355697512626648}]}

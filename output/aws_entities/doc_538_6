@@ -1,0 +1,1 @@
+{"Id": 6, "BeginOffset": 129, "EndOffset": 138, "Score": 0.9915775060653687, "Text": "confusion", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SYMPTOM", "Score": 0.8823804259300232}]}

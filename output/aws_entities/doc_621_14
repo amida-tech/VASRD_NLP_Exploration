@@ -1,0 +1,1 @@
+{"Id": 18, "BeginOffset": 582, "EndOffset": 605, "Score": 0.7999352216720581, "Text": "ventricular hypertrophy", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SIGN", "Score": 0.43179550766944885}, {"Name": "DIAGNOSIS", "Score": 0.7380582690238953}]}

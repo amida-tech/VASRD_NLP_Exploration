@@ -1,0 +1,1 @@
+{"Id": 0, "BeginOffset": 25, "EndOffset": 39, "Score": 0.9341538548469543, "Text": "Platelet count", "Category": "TEST_TREATMENT_PROCEDURE", "Type": "TEST_NAME", "Traits": [], "Attributes": [{"Type": "TEST_VALUE", "Score": 0.4166819751262665, "RelationshipScore": 0.9998397827148438, "Id": 1, "BeginOffset": 46, "EndOffset": 52, "Text": "50,000", "Traits": []}]}

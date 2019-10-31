@@ -1,0 +1,1 @@
+{"Id": 2, "BeginOffset": 30, "EndOffset": 39, "Score": 0.9900057911872864, "Text": "cirrhosis", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "DIAGNOSIS", "Score": 0.9488207697868347}, {"Name": "NEGATION", "Score": 0.7249541878700256}]}

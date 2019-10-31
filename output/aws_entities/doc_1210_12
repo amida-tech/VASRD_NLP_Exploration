@@ -1,0 +1,1 @@
+{"Id": 12, "BeginOffset": 428, "EndOffset": 454, "Score": 0.943175733089447, "Text": "impaired abstract thinking", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SIGN", "Score": 0.47314950823783875}, {"Name": "SYMPTOM", "Score": 0.6809102892875671}]}

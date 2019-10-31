@@ -1,0 +1,1 @@
+{"Id": 2, "BeginOffset": 152, "EndOffset": 166, "Score": 0.5761266350746155, "Text": "Vital Capacity", "Category": "TEST_TREATMENT_PROCEDURE", "Type": "TEST_NAME", "Traits": [], "Attributes": [{"Type": "TEST_VALUE", "Score": 0.9713876843452454, "RelationshipScore": 0.5562726259231567, "Id": 4, "BeginOffset": 179, "EndOffset": 199, "Text": "less than 40 percent", "Traits": []}]}

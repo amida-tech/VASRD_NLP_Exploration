@@ -1,0 +1,1 @@
+{"Id": 7, "BeginOffset": 527, "EndOffset": 536, "Score": 0.9508584141731262, "Text": "scoliosis", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SIGN", "Score": 0.6556060314178467}, {"Name": "DIAGNOSIS", "Score": 0.44590526819229126}, {"Name": "NEGATION", "Score": 0.5006526112556458}]}

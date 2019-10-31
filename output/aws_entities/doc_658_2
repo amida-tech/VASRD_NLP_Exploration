@@ -1,0 +1,1 @@
+{"Id": 2, "BeginOffset": 61, "EndOffset": 82, "Score": 0.8335554599761963, "Text": "myocardial infarction", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "DIAGNOSIS", "Score": 0.9110510349273682}]}

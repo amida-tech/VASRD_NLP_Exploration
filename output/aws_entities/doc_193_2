@@ -1,0 +1,1 @@
+{"Id": 14, "BeginOffset": 89, "EndOffset": 113, "Score": 0.7768491506576538, "Text": "neurologic abnormalities", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SIGN", "Score": 0.4699842631816864}, {"Name": "NEGATION", "Score": 0.5039456486701965}]}

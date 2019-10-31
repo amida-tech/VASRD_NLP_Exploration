@@ -1,0 +1,1 @@
+{"Id": 6, "BeginOffset": 120, "EndOffset": 138, "Score": 0.7857416868209839, "Text": "abdominal distress", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SIGN", "Score": 0.5896546244621277}, {"Name": "SYMPTOM", "Score": 0.48931530117988586}]}

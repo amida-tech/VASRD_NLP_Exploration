@@ -1,0 +1,3 @@
+The diagnostic code numbers appearing opposite the listed ratable disabilities are arbitrary numbers for the purpose of showing the basis of the evaluation assigned and for
+When an unlisted disease, injury, or residual condition is encountered, requiring rating by analogy, the diagnostic code number
+be represented by the number assigned to the residual condition on the basis of which the rating is determined.

@@ -1,0 +1,12 @@
+August 19, 1968	DATE
+Rating
+	PERSON
+1 year	DATE
+100	CARDINAL
+the 1 year period after date	DATE
+5001-5250	DATE
+the 1 year	DATE
+34	CARDINAL
+Mar. 11, 1969	DATE
+59	CARDINAL
+Nov. 29, 1994	DATE

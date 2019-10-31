@@ -1,0 +1,1 @@
+{"Id": 11, "BeginOffset": 268, "EndOffset": 286, "Score": 0.5138028860092163, "Text": "slowing of thought", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SYMPTOM", "Score": 0.532448410987854}, {"Name": "DIAGNOSIS", "Score": 0.4733625650405884}, {"Name": "NEGATION", "Score": 0.4719265103340149}]}

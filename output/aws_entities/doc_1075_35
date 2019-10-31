@@ -1,0 +1,1 @@
+{"Id": 31, "BeginOffset": 1975, "EndOffset": 2004, "Score": 0.944374144077301, "Text": "emotional/behavioral symptoms", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SYMPTOM", "Score": 0.4883304536342621}, {"Name": "NEGATION", "Score": 0.4586617052555084}]}

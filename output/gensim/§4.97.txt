@@ -1,0 +1,49 @@
+Following radical surgery with chronic osteomyelitis, or; near constant sinusitis characterized by headaches, pain and tenderness of affected sinus, and purulent
+Three or more incapacitating episodes per year of sinusitis requiring prolonged (lasting four to six weeks) antibiotic treatment, or; more than six non-incapacitating
+One or two incapacitating episodes per year of sinusitis requiring prolonged (lasting four to six weeks) antibiotic treatment, or; three to six non-incapacitating episodes
+Note: An incapacitating episode of sinusitis means one that requires bed rest and treatment by a physician.
+With incapacitating episodes of infection of four to six weeks total duration per year, or; near constant findings of cough with purulent sputum associated with anorexia,
+Or rate according to pulmonary impairment as for chronic bronchitis (DC 6600).
+FEV-1 less than 40-percent predicted, or; FEV-1/FVC less than 40 percent, or; more than one attack per week with episodes of respiratory failure, or; requires daily use of
+6604   Chronic obstructive pulmonary disease:
+6701   Tuberculosis, pulmonary, chronic, far advanced, active 100
+6702   Tuberculosis, pulmonary, chronic, moderately advanced, active 100
+6703   Tuberculosis, pulmonary, chronic, minimal, active 100
+6704   Tuberculosis, pulmonary, chronic, active, advancement unspecified 100
+6721   Tuberculosis, pulmonary, chronic, far advanced, inactive
+6722   Tuberculosis, pulmonary, chronic, moderately advanced, inactive
+6723   Tuberculosis, pulmonary, chronic, minimal, inactive
+6724   Tuberculosis, pulmonary, chronic, inactive, advancement unspecified
+General Rating Formula for Inactive Pulmonary Tuberculosis: For two years after date of inactivity, following active tuberculosis, which was clinically identified during
+Note (1): The 100-percent rating under codes 6701 through 6724 is not subject to a requirement of precedent hospital treatment.
+Note (2): The graduated 50-percent and 30-percent ratings and the permanent 30 percent and 20 percent ratings for inactive pulmonary tuberculosis are not to be
+Ratings for Pulmonary Tuberculosis Initially Evaluated After August 19, 1968
+6730   Tuberculosis, pulmonary, chronic, active 100
+Note: Active pulmonary tuberculosis will be considered permanently and totally disabling for non-service-connected pension purposes in the following circumstances:
+6731   Tuberculosis, pulmonary, chronic, inactive:
+Note: A mandatory examination will be requested immediately following notification that active tuberculosis evaluated under DC 6730 has become inactive.
+Note: Evaluate other residuals following pulmonary embolism under the most appropriate diagnostic code, such as chronic bronchitis (DC 6600) or chronic pleural
+Note: A rating of 100 percent shall continue beyond the cessation of any surgical, X-ray, antineoplastic chemotherapy or other therapeutic procedure.
+General Rating Formula for Bacterial Infections of the Lung (diagnostic codes 6822 through 6824):
+General Rating Formula for Interstitial Lung Disease (diagnostic codes 6825 through 6833):
+Forced Vital Capacity (FVC) less than 50-percent predicted, or; Diffusion Capacity of the Lung for Carbon Monoxide by the Single Breath Method (DLCO (SB)) less than
+40-percent predicted, or; maximum exercise capacity less than 15 ml/kg/min oxygen consumption with cardiorespiratory limitation, or; cor pulmonale or pulmonary
+General Rating Formula for Mycotic Lung Disease (diagnostic codes 6834 through 6839):
+Chronic pulmonary mycosis requiring suppressive therapy with no more than minimal symptoms such as occasional minor hemoptysis or productive cough 50
+General Rating Formula for Restrictive Lung Disease (diagnostic codes 6840 through 6845):
+Diffusion Capacity of the Lung for Carbon Monoxide by the Single Breath Method (DLCO (SB)) less than 40-percent predicted, or; maximum exercise capacity less than
+Diffusion Capacity of the Lung for Carbon Monoxide by the Single Breath Method (DLCO (SB)) less than 40-percent predicted, or; maximum exercise capacity less than
+Diffusion Capacity of the Lung for Carbon Monoxide by the Single Breath Method (DLCO (SB)) less than 40-percent predicted, or; maximum exercise capacity less than
+Diffusion Capacity of the Lung for Carbon Monoxide by the Single Breath Method (DLCO (SB)) less than 40-percent predicted, or; maximum exercise capacity less than
+15 ml/kg/min oxygen consumption (with cardiac or respiratory limitation), or; cor pulmonale (right heart failure), or; right ventricular hypertrophy, or; pulmonary
+15 ml/kg/min oxygen consumption (with cardiac or respiratory limitation), or; cor pulmonale (right heart failure), or; right ventricular hypertrophy, or; pulmonary
+15 ml/kg/min oxygen consumption (with cardiac or respiratory limitation), or; cor pulmonale (right heart failure), or; right ventricular hypertrophy, or; pulmonary
+15 ml/kg/min oxygen consumption (with cardiac or respiratory limitation), or; cor pulmonale (right heart failure), or; right ventricular hypertrophy, or; pulmonary
+hypertension (shown by Echo or cardiac catheterization), or; episode(s) of acute respiratory failure, or; requires outpatient oxygen therapy
+hypertension (shown by Echo or cardiac catheterization), or; episode(s) of acute respiratory failure, or; requires outpatient oxygen therapy
+hypertension (shown by Echo or cardiac catheterization), or; episode(s) of acute respiratory failure, or; requires outpatient oxygen therapy
+Note (2): Following episodes of total spontaneous pneumothorax, a rating of 100 percent shall be assigned as of the date of hospital admission and shall continue for
+Cor pulmonale, or; cardiac involvement with congestive heart failure, or; progressive pulmonary disease with fever, night sweats, and weight loss despite treatment 100
+Pulmonary involvement with persistent symptoms requiring chronic low dose (maintenance) or intermittent corticosteroids 30
+Or rate active disease or residuals as chronic bronchitis (DC 6600) and extra-pulmonary involvement under specific body system involved
+Chronic respiratory failure with carbon dioxide retention or cor pulmonale, or; requires tracheostomy 100

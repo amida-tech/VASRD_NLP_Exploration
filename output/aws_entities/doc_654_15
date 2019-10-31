@@ -1,0 +1,1 @@
+{"Id": 0, "BeginOffset": 297, "EndOffset": 314, "Score": 0.8436425924301147, "Text": "ejection fraction", "Category": "TEST_TREATMENT_PROCEDURE", "Type": "TEST_NAME", "Traits": [], "Attributes": [{"Type": "TEST_VALUE", "Score": 0.9343760013580322, "RelationshipScore": 0.9997373223304749, "Id": 1, "BeginOffset": 318, "EndOffset": 334, "Text": "30 to 50 percent", "Traits": []}]}

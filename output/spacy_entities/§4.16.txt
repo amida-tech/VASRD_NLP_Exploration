@@ -1,0 +1,38 @@
+only one	CARDINAL
+60 percent	PERCENT
+two	CARDINAL
+at least one	CARDINAL
+40 percent	PERCENT
+70 percent	PERCENT
+one	CARDINAL
+60 percent	PERCENT
+one 40 percent	PERCENT
+one	CARDINAL
+1	CARDINAL
+one	CARDINAL
+one	CARDINAL
+2	CARDINAL
+3	CARDINAL
+4	CARDINAL
+5	CARDINAL
+annual	DATE
+the U.S. Department of Commerce	ORG
+one	CARDINAL
+annual	DATE
+38	CARDINAL
+501	CARDINAL
+the Department of Veterans Affairs	ORG
+the Director, Compensation Service	ORG
+40	CARDINAL
+42535, Sept. 15, 1975	DATE
+54	CARDINAL
+Jan. 30, 1989	DATE
+55	CARDINAL
+Aug. 3, 1990	DATE
+58	CARDINAL
+39664, July 26, 1993	DATE
+61	CARDINAL
+52700, Oct. 8, 1996	DATE
+79	CARDINAL
+2100, Jan. 13,
+2014	DATE

@@ -1,0 +1,1 @@
+{"Id": 1, "BeginOffset": 61, "EndOffset": 77, "Score": 0.7269139885902405, "Text": "muscular atrophy", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SIGN", "Score": 0.5835801362991333}, {"Name": "DIAGNOSIS", "Score": 0.4422139823436737}]}

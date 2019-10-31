@@ -1,0 +1,1 @@
+{"Id": 12, "BeginOffset": 150, "EndOffset": 169, "Score": 0.9233385324478149, "Text": "cardiac hypertrophy", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SYMPTOM", "Score": 0.46488210558891296}, {"Name": "NEGATION", "Score": 0.8224879503250122}]}

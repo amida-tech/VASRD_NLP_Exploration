@@ -1,0 +1,1 @@
+{"Id": 11, "BeginOffset": 409, "EndOffset": 426, "Score": 0.9234800338745117, "Text": "impaired judgment", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SIGN", "Score": 0.4399139881134033}, {"Name": "SYMPTOM", "Score": 0.7517331838607788}]}

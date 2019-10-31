@@ -1,0 +1,1 @@
+{"Id": 5, "BeginOffset": 186, "EndOffset": 194, "Score": 0.924220085144043, "Text": "jaundice", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "DIAGNOSIS", "Score": 0.456169068813324}, {"Name": "NEGATION", "Score": 0.5532549023628235}]}

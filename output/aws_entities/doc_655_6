@@ -1,0 +1,1 @@
+{"Id": 4, "BeginOffset": 74, "EndOffset": 97, "Score": 0.9827048182487488, "Text": "coronary artery disease", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "DIAGNOSIS", "Score": 0.9510226249694824}]}

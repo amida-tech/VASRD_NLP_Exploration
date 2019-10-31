@@ -1,0 +1,1 @@
+{"Id": 1, "BeginOffset": 42, "EndOffset": 61, "Score": 0.46475741267204285, "Text": "cardiac involvement", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SIGN", "Score": 0.41260263323783875}, {"Name": "DIAGNOSIS", "Score": 0.6353186964988708}, {"Name": "NEGATION", "Score": 0.8006601929664612}]}

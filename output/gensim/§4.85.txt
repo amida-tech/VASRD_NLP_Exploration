@@ -1,0 +1,5 @@
+(b) Table VI, “Numeric Designation of Hearing Impairment Based on Puretone Threshold Average and Speech Discrimination,” is used to determine a Roman numeral designation (I
+through XI) for hearing impairment based on a combination of the percent of speech discrimination (horizontal rows) and the puretone threshold average (vertical columns).
+Roman numeral designation is located at the point where the percentage of speech discrimination and puretone threshold average intersect.
+(c) Table VIa, “Numeric Designation of Hearing Impairment Based Only on Puretone Threshold Average,” is used to determine a Roman numeral designation (I through XI) for hearing
+(e) Table VII, “Percentage Evaluations for Hearing Impairment,” is used to determine the percentage evaluation by combining the Roman numeral designations for hearing

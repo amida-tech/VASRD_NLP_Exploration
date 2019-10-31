@@ -1,0 +1,1 @@
+{"Id": 3, "BeginOffset": 71, "EndOffset": 77, "Score": 0.9977046847343445, "Text": "nausea", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SYMPTOM", "Score": 0.8733363747596741}]}

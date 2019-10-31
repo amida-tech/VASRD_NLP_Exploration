@@ -1,0 +1,1 @@
+{"Id": 4, "BeginOffset": 87, "EndOffset": 97, "Score": 0.9977090358734131, "Text": "hemoptysis", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SYMPTOM", "Score": 0.7406880855560303}]}

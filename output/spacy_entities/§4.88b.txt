@@ -1,0 +1,148 @@
+Brucellosis	ORG
+Campylobacter jejuni	PERSON
+Malaria	GPE
+Nontyphoid Salmonella	PERSON
+Shigella	PERSON
+West Nile	LOC
+Rating Formula	PERSON
+100	CARDINAL
+0 percent	PERCENT
+Cholera	PERSON
+the General Rating Formula	LAW
+100	CARDINAL
+1	CARDINAL
+100 percent	PERCENT
+Six months	DATE
+VA	GPE
+Thereafter	PERSON
+2	CARDINAL
+Leprosy	PERSON
+Hansen	PERSON
+100	CARDINAL
+100 percent	PERCENT
+Six months	DATE
+VA	GPE
+§3.105(e	PERSON
+Thereafter	PERSON
+1	CARDINAL
+2	CARDINAL
+Rating Formula	PERSON
+6306	DATE
+the General Rating Formula	LAW
+Plague	PERSON
+Rating Formula	PERSON
+Relapsing Fever	PERSON
+Rating Formula	PERSON
+Rating Formula	PERSON
+Syphilis	PERSON
+DC 9301	PERSON
+Tuberculosis	ORG
+100	CARDINAL
+4.89	CARDINAL
+1	CARDINAL
+2	CARDINAL
+4.88c	CARDINAL
+100	CARDINAL
+1	CARDINAL
+100 percent	PERCENT
+§3.105(e	PERSON
+2	CARDINAL
+3	CARDINAL
+4.88c	CARDINAL
+100	CARDINAL
+60
+	QUANTITY
+40	CARDINAL
+20	CARDINAL
+10	CARDINAL
+Beriberi	PERSON
+Wernicke-Korsakoff	NORP
+100	CARDINAL
+60	CARDINAL
+100	CARDINAL
+60
+	QUANTITY
+40	CARDINAL
+20	CARDINAL
+10	CARDINAL
+the General Rating Formula	LAW
+1	CARDINAL
+2	CARDINAL
+Rating Formula	PERSON
+1	CARDINAL
+2	CARDINAL
+African	NORP
+Rocky Mountain	FAC
+the General Rating Formula	LAW
+1	CARDINAL
+2	CARDINAL
+Rating Formula	PERSON
+Bell	ORG
+the General Rating Formula	LAW
+100	CARDINAL
+100 percent	PERCENT
+§3.105(e	PERSON
+6326	DATE
+0	CARDINAL
+Hemorrhagic	PERSON
+Rating Formula	PERSON
+Campylobacter	PERSON
+Rating Formula	PERSON
+Guillain-Barre	PERSON
+Coxiella	ORG
+Rating Formula	PERSON
+6333	DATE
+Nontyphoid	ORG
+Rating Formula	PERSON
+Rating Formula	PERSON
+West Nile	LOC
+Rating Formula	PERSON
+6350	DATE
+Lupus	PERSON
+DC 7809 Acute	ORG
+100	CARDINAL
+a week	DATE
+2	CARDINAL
+3	CARDINAL
+60	CARDINAL
+the past 2 years	DATE
+6350	DATE
+3	CARDINAL
+T4	CARDINAL
+less than 200	CARDINAL
+T4	CARDINAL
+between 200 and 500	CARDINAL
+T4	PRODUCT
+1	CARDINAL
+2	CARDINAL
+3	CARDINAL
+one	CARDINAL
+CD4	ORG
+cryptococcosis	ORG
+one month	DATE
+Kaposi	GPE
+carinii) pneumonia	ORG
+pneumonia	GPE
+salmonella septicemia	PERSON
+Chronic	ORG
+CFS	ORG
+daily	DATE
+100	CARDINAL
+daily	DATE
+less than 50 percent	PERCENT
+at least six weeks	DATE
+daily	DATE
+50 to 75 percent	PERCENT
+four	CARDINAL
+less than six weeks	DATE
+daily	DATE
+less than 25 percent	PERCENT
+at least two	CARDINAL
+less than four weeks	DATE
+at least one	CARDINAL
+less than two weeks	DATE
+10	CARDINAL
+61	CARDINAL
+39875, July 31, 1996	DATE
+84	CARDINAL
+June 18, 2019	DATE

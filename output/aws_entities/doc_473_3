@@ -1,0 +1,1 @@
+{"Id": 2, "BeginOffset": 50, "EndOffset": 67, "Score": 0.21900711953639984, "Text": "Vision in one eye", "Category": "TEST_TREATMENT_PROCEDURE", "Type": "TEST_NAME", "Traits": [], "Attributes": [{"Type": "TEST_VALUE", "Score": 0.7042220234870911, "RelationshipScore": 0.9999934434890747, "Id": 3, "BeginOffset": 68, "EndOffset": 73, "Text": "20/40", "Traits": []}]}

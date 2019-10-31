@@ -1,0 +1,1 @@
+{"Id": 3, "BeginOffset": 51, "EndOffset": 62, "Score": 0.983889102935791, "Text": "hepatitis B", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "DIAGNOSIS", "Score": 0.9367110133171082}, {"Name": "NEGATION", "Score": 0.8187723159790039}]}

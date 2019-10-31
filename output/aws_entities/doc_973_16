@@ -1,0 +1,1 @@
+{"Id": 5, "BeginOffset": 216, "EndOffset": 225, "Score": 0.9444482326507568, "Text": "asymmetry", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SIGN", "Score": 0.8962070941925049}, {"Name": "NEGATION", "Score": 0.4676869809627533}]}

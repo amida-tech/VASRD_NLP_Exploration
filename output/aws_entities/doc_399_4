@@ -1,0 +1,1 @@
+{"Id": 1, "BeginOffset": 42, "EndOffset": 61, "Score": 0.47996091842651367, "Text": "soft tissue sarcoma", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "DIAGNOSIS", "Score": 0.9239275455474854}]}

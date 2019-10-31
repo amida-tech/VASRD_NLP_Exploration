@@ -1,0 +1,32 @@
+Fifth Edition	ORG
+American Psychiatric Association	ORG
+2013	DATE
+the Federal Register	ORG
+under 5	DATE
+U.S.C.	GPE
+1	CARDINAL
+CFR	ORG
+51	CARDINAL
+the Department of Veterans Affairs	ORG
+the Federal Register	ORG
+the American Psychiatric Association	ORG
+1000	CARDINAL
+Wilson Boulevard	ORG
+1825	DATE
+Arlington	GPE
+22209-3901	DATE
+703	CARDINAL
+the Office of Regulation Policy and Management, Department of Veterans Affairs	ORG
+810	CARDINAL
+Vermont Avenue	FAC
+Washington	GPE
+the National Archives and Records Administration	ORG
+NARA	ORG
+NARA	ORG
+202	CARDINAL
+38	CARDINAL
+1155	DATE
+61	CARDINAL
+52700, Oct. 8, 1996	DATE
+79	CARDINAL
+Aug. 4, 2014	DATE

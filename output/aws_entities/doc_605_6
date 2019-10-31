@@ -1,0 +1,1 @@
+{"Id": 5, "BeginOffset": 156, "EndOffset": 178, "Score": 0.8946478366851807, "Text": "pulmonary hypertension", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "DIAGNOSIS", "Score": 0.8561307787895203}, {"Name": "NEGATION", "Score": 0.7164177894592285}]}

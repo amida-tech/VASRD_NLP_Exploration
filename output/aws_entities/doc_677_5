@@ -1,0 +1,1 @@
+{"Id": 4, "BeginOffset": 105, "EndOffset": 112, "Score": 0.9990990161895752, "Text": "fatigue", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SYMPTOM", "Score": 0.9301109910011292}, {"Name": "NEGATION", "Score": 0.6863825917243958}]}

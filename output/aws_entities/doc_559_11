@@ -1,0 +1,1 @@
+{"Id": 6, "BeginOffset": 140, "EndOffset": 161, "Score": 0.9834005236625671, "Text": "granulomatous disease", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "DIAGNOSIS", "Score": 0.791201651096344}, {"Name": "NEGATION", "Score": 0.5994455814361572}]}

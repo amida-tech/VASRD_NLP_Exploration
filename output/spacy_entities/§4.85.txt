@@ -1,0 +1,31 @@
+Maryland
+CNC	ORG
+Numeric Designation of Hearing Impairment Based	WORK_OF_ART
+Threshold Average and Speech Discrimination	WORK_OF_ART
+Roman	LOC
+Numeric Designation of Hearing Impairment Based	WORK_OF_ART
+Roman	LOC
+4.86	CARDINAL
+Tables VI	PRODUCT
+1000, 2000	DATE
+3000	CARDINAL
+4000	CARDINAL
+Hertz	PERSON
+four	CARDINAL
+§4.86	DATE
+Roman	PRODUCT
+Table VI	ORG
+Percentage Evaluations for Hearing Impairment	WORK_OF_ART
+Roman	LOC
+only one	CARDINAL
+Roman
+Numeral	ORG
+3.383	CARDINAL
+3.350	CARDINAL
+monthly	DATE
+VI	ORG
+VIA	ORG
+VII	ORG
+64	CARDINAL
+25206	DATE
+May 11, 1999	DATE

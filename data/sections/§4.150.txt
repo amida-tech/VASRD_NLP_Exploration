@@ -1,0 +1,2372 @@
+   Rating
+Note (1): For VA compensation purposes, diagnostic imaging studies include, but are not limited to, conventional radiography (X-ray), computed tomography (CT), magnetic
+resonance imaging (MRI), positron emission tomography (PET), radionuclide bone scanning, or ultrasonography
+Note (2): Separately evaluate loss of vocal articulation, loss of smell, loss of taste, neurological impairment, respiratory dysfunction, and other impairments under the
+appropriate diagnostic code and combine under §4.25 for each separately rated condition
+9900   Maxilla or mandible, chronic osteomyelitis, osteonecrosis or osteoradionecrosis of:
+Rate as osteomyelitis, chronic under diagnostic code 5000.
+9901   Mandible, loss of, complete, between angles 100
+9902   Mandible, loss of, including ramus, unilaterally or bilaterally:
+Loss of one-half or more,
+Involving temporomandibular articulation
+Not replaceable by prosthesis 70
+Replaceable by prosthesis 50
+Not involving temporomandibular articulation.
+Not replaceable by prosthesis 40
+Replaceable by prosthesis 30
+Loss of less than one-half,
+Involving temporomandibular articulation.
+Not replaceable by prosthesis 70
+Replaceable by prosthesis 50
+Not involving temporomandibular articulation.
+Not replaceable by prosthesis 20
+Replaceable by prosthesis 10
+9903   Mandible, nonunion of, confirmed by diagnostic imaging studies:
+Severe, with false motion 30
+Moderate, without false motion 10
+9904   Mandible, malunion of:
+Displacement, causing severe anterior or posterior open bite 20
+Displacement, causing moderate anterior or posterior open bite 10
+Displacement, not causing anterior or posterior open bite 0
+9905   Temporomandibular disorder (TMD):
+Interincisal range:
+0 to 10 millimeters (mm) of maximum unassisted vertical opening.
+With dietary restrictions to all mechanically altered foods 50
+Without dietary restrictions to mechanically altered foods 40
+11 to 20 mm of maximum unassisted vertical opening.
+With dietary restrictions to all mechanically altered foods 40
+Without dietary restrictions to mechanically altered foods 30
+21 to 29 mm of maximum unassisted vertical opening.
+With dietary restrictions to full liquid and pureed foods 40
+With dietary restrictions to soft and semi-solid foods 30
+Without dietary restrictions to mechanically altered foods 20
+30 to 34 mm of maximum unassisted vertical opening.
+With dietary restrictions to full liquid and pureed foods 30
+With dietary restrictions to soft and semi-solid foods 20
+Without dietary restrictions to mechanically altered foods 10
+Lateral excursion range of motion:
+0 to 4 mm 10
+Note (1): Ratings for limited interincisal movement shall not be combined with ratings for limited lateral excursion
+Note (2): For VA compensation purposes, the normal maximum unassisted range of vertical jaw opening is from 35 to 50 mm
+Note (3): For VA compensation purposes, mechanically altered foods are defined as altered by blending, chopping, grinding or mashing so that they are easy to chew and
+swallow. There are four levels of mechanically altered foods: full liquid, puree, soft, and semisolid foods. To warrant elevation based on mechanically altered foods, the use of
+texture-modified diets must be recorded or verified by a physician
+9908   Condyloid process, loss of, one or both sides 30
+9909   Coronoid process, loss of:
+Bilateral 20
+Unilateral 10
+9911   Hard palate, loss of:
+Loss of half or more, not replaceable by prosthesis 30
+Loss of less than half, not replaceable by prosthesis 20
+Loss of half or more, replaceable by prosthesis 10
+Loss of less than half, replaceable by prosthesis 0
+9913   Teeth, loss of, due to loss of substance of body of maxilla or mandible without loss of continuity:
+Where the lost masticatory surface cannot be restored by suitable prosthesis:
+Loss of all teeth 40
+Loss of all upper teeth 30
+Loss of all lower teeth 30
+All upper and lower posterior teeth missing 20
+All upper and lower anterior teeth missing 20
+All upper anterior teeth missing 10
+All lower anterior teeth missing 10
+All upper and lower teeth on one side missing 10
+Where the loss of masticatory surface can be restored by suitable prosthesis 0
+Note—These ratings apply only to bone loss through trauma or disease such as osteomyelitis, and not to the loss of the alveolar process as a result of periodontal disease,
+since such loss is not considered disabling
+9914   Maxilla, loss of more than half:
+Not replaceable by prosthesis 100
+Replaceable by prosthesis 50
+9915   Maxilla, loss of half or less:
+Loss of 25 to 50 percent:
+Not replaceable by prosthesis 40
+Replaceable by prosthesis 30
+Loss of less than 25 percent:
+Not replaceable by prosthesis 20
+Replaceable by prosthesis 0
+9916   Maxilla, malunion or nonunion of:
+Nonunion,
+With false motion 30
+Without false motion 10
+Malunion,
+With displacement, causing severe anterior or posterior open bite 30
+With displacement, causing moderate anterior or posterior open bite 10
+With displacement, causing mild anterior or posterior open bite 0
+Note: For VA compensation purposes, the severity of maxillary nonunion is dependent upon the degree of abnormal mobility of maxilla fragments following treatment (i.e.,
+presence or absence of false motion), and maxillary nonunion must be confirmed by diagnostic imaging studies
+9917   Neoplasm, hard and soft tissue, benign:
+Rate as loss of supporting structures (bone or teeth) and/or functional impairment due to scarring.
+9918   Neoplasm, hard and soft tissue, malignant 100
+Note: A rating of 100 percent shall continue beyond the cessation of any surgical, radiation, antineoplastic chemotherapy or other therapeutic procedure. Six months after
+discontinuance of such treatment, the appropriate disability rating shall be determined by mandatory VA examination. Any change in evaluation based upon that or any
+subsequent examination shall be subject to the provisions of §3.105(e) of this chapter. If there has been no local recurrence or metastasis, rate on residuals such as loss of
+supporting structures (bone or teeth) and/or functional impairment due to scarring
+[59 FR 2530, Jan. 18, 1994, as amended at 82 FR 36083, Aug. 3, 2017]
+Appendix A to Part 4—Table of Amendments and Effective Dates Since 1946
+Sec.
+Diagnostic
+code No.
+4.71a 5000Evaluation February 1, 1962.
+   5001Evaluation March 11, 1969.
+   5002Evaluation March 1, 1963.
+   5003Added July 6, 1950.
+   5012Criterion March 10, 1976.
+   5024Criterion March 1, 1963.
+   5025Added May 7, 1996.
+   5051Added September 22, 1978. Note July 16, 2015.
+   5052Added September 22, 1978. Note July 16, 2015.
+   5053Added September 22, 1978. Note July 16, 2015.
+   5054Added September 22, 1978. Note July 16, 2015.
+   5055Added September 22, 1978. Note July 16, 2015.
+   5056Added September 22, 1978. Note July 16, 2015.
+   5100-5103Removed March 10, 1976.
+   5104Criterion March 10, 1976.
+   5105Criterion March 10, 1976.
+   5164Evaluation June 9, 1952.
+   5166Criterion September 22, 1978.
+   5172Added July 6, 1950.
+   5173Added June 9, 1952.
+   5174Added September 9, 1975; removed September 22, 1978.
+   5211Criterion September 22, 1978.
+   5212Criterion September 22, 1978.
+   5214Criterion September 22, 1978.
+   5216Preceding paragraph criterion September 22, 1978.
+   5217Criterion August 26, 2002.
+   5218Criterion August 26, 2002.
+   5219Criterion September 22, 1978; criterion August 26, 2002.
+   5220Preceding paragraph criterion September 22, 1978; criterion August 26, 2002.
+   5223Criterion August 26, 2002.
+   5224Criterion August 26, 2002.
+   5225Criterion August 26, 2002.
+   5226Criterion August 26, 2002.
+   5227Criterion September 22, 1978; criterion August 26, 2002.
+   5228Added August 26, 2002.
+   5229Added August 26, 2002.
+   5230Added August 26, 2002.
+   5235-5243Replaces 5285-5295 September 26, 2003.
+   5243Criterion September 26, 2003.
+   5255Criterion July 6, 1950.
+   5257Evaluation July 6, 1950.
+   5264Added September 9, 1975; removed September 22, 1978.
+   5275Criterion March 10, 1976; criterion September 22, 1978.
+   5285-5292Revised to 5235-5243 September 26, 2003.
+   5293Criterion March 10, 1976; criterion September 23, 2002; revised and moved to 5235-5243 September 26, 2003.
+   5294Evaluation March 10, 1976; revised and moved to 5235-5243 September 26, 2003.
+   5295Evaluation March 10, 1976; revised and moved to 5235-5243 September 26, 2003.
+   5296Criterion March 10, 1976.
+   5297Criterion August 23, 1948; criterion February 1, 1962.
+   5298Added August 23, 1948.
+4.73 Introduction NOTE criterion July 3, 1997.
+   5317Criterion September 22, 1978.
+   5324Added February 1, 1962.
+   5325Criterion July 3, 1997.
+   5327Added March 10, 1976; criterion October 15, 1991; criterion July 3, 1997.
+   5328Added NOTE March 10, 1976.
+   5329Added NOTE July 3, 1997.
+4.77 Revised May 13, 2018.
+4.78 Revised May 13, 2018.
+4.79 Introduction criterion May 13, 2018; Revised General Rating Formula for Diseases of the Eye NOTE revised May 13, 2018.
+   6000Criterion May 13, 2018.
+   6001Criterion May 13, 2018.
+   6002Criterion May 13, 2018.
+   6006Title May 13, 2018. Criterion May 13, 2018.
+   6007Criterion May 13, 2018.
+   6008Criterion May 13, 2018.
+   6009Criterion May 13, 2018.
+   6011Evaluation May 13, 2018.
+   6012Evaluation May 13, 2018.
+   6013Evaluation May 13, 2018.
+   6014Title May 13, 2018.
+   6015Title May 13, 2018.
+   6017Evaluation May 13, 2018.
+   6018Evaluation May 13, 2018.
+   6019Evaluation.
+   6026Evaluation May 13, 2018.
+   6027Evaluation May 13, 2018.
+   6034Evaluation May 13, 2018.
+   6035Evaluation May 13, 2018.
+   6036Evaluation May 13, 2018.
+   6040Added May 13, 2018.
+   6042Added May 13, 2018.
+   6046Added May 13, 2018.
+   6091Evaluation May 13, 2018.
+4.84a Table V criterion July 1, 1994.
+   6010Criterion March 11, 1969.
+   6019Criterion September 22, 1978.
+   6029NOTE August 23, 1948; criterion September 22, 1978.
+   6035Added September 9, 1975.
+   6050-6062Removed March 10, 1976.
+   6061Added March 10, 1976.
+   6062Added March 10, 1976.
+   6063-6079Criterion September 22, 1978.
+   6064Criterion March 10, 1976.
+   6071Criterion March 10, 1976.
+   6076Evaluation August 23, 1948.
+   6080Criterion September 22, 1978.
+   6081Criterion March 10, 1976.
+   6090Criterion September 22, 1978; criterion September 12, 1988.
+4.84b 6260Added October 1, 1961; criterion October 1, 1961; evaluation March 10, 1976; removed December 18, 1987; re-designated §4.87a December 18, 1987.
+4.87 Tables VI and VII replaced by new Tables VI, VIA, and VII December 18, 1987. 6200-6260 revised and re-designated §4.87 June 10, 1999.
+4.87a 6200-6260Moved to §4.87 June 10, 1999.
+   6275-6276Moved from §4.87b June 10, 1999.
+   6277-6297
+March 23, 1956 removed, December 17, 1987; Table II revised Table V March 10, 1976; Table II revised to Table VII September 22, 1978; text from §4.84b
+Schedule of ratings-ear re-designated from §4.87 December 17, 1987.
+   6286Removed December 17, 1987.
+   6291Criterion March 10, 1976; removed December 17, 1987.
+   6297Criterion March 10, 1976; removed December 17, 1987.
+4.87b Removed June 10, 1999.
+4.88a March 11, 1969; re-designated §4.88b November 29, 1994; §4.88a added to read “Chronic fatigue syndrome”; criterion November 29, 1994.
+4.88b
+Added March 11, 1969; re-designated §4.88c November 29, 1994; §4.88a re-designated to §4.88b November 29, 1994; General Rating Formula for
+Infectious Diseases added August 11, 2019.
+   6300Criterion August 30, 1996; title, criterion, and note August 11, 2019.
+   6301Criterion, note August 11, 2019.
+   6302Criterion September 22, 1978; criterion August 30, 1996; criterion, note August 11, 2019.
+   6304Evaluation August 30, 1996; criterion, note August 11, 2019.
+   6305Criterion March 1, 1989; evaluation August 30, 1996; title, criterion, note August 11, 2019.
+   6306Evaluation August 30, 1996; criterion, note August 11, 2019.
+   6307Criterion May 13, 2018; criterion, note August 11, 2019.
+   6308Criterion August 30, 1996; criterion, note August 11, 2019.
+   6309Added March 1, 1963; criterion March 1, 1989; criterion August 30, 1996; criterion, note August 11, 2019.
+   6310Criterion, note August 11, 2019.
+   6311Criterion, note August 11, 2019.
+   6312Added August 11, 2019.
+   6314Evaluation March 1, 1989; evaluation August 30, 1996.
+   6315Criterion August 30, 1996.
+   6316Evaluation March 1, 1989; evaluation August 30, 1996; criterion, note August 11, 2019.
+   6317Criterion August 30, 1996; title, criterion, note August 11, 2019.
+   6318Added March 1, 1989; criterion August 30, 1996; criterion, note August 11, 2019.
+   6319Added August 30, 1996; criterion, note August 11, 2019.
+   6320Added August 30, 1996; criterion, note August 11, 2019.
+   6325Added August 11, 2019.
+   6326Added August 11, 2019.
+   6329Added August 11, 2019.
+   6330Added August 11, 2019.
+   6331Added August 11, 2019.
+   6333Added August 11, 2019.
+   6334Added August 11, 2019.
+   6335Added August 11, 2019.
+   6350Evaluation March 1, 1963; evaluation March 10, 1976; evaluation August 30, 1996.
+   6351Added March 1, 1989; evaluation March 24, 1992; criterion August 30, 1996; criterion, note August 11, 2019.
+   6352Added March 1, 1989; removed March 24, 1992.
+   6353Added March 1, 1989; removed March 24, 1992.
+   6354Added November 29, 1994; criterion August 30, 1996; title, criterion, note August 11, 2019.
+4.88c Re-designated from §4.88b November 29, 1994.
+4.89 Ratings for nonpulmonary TB December 1, 1949; criterion March 11, 1969.
+4.97 6502Criterion October 7, 1996.
+   6504Criterion October 7, 1996.
+   6510-6514Criterion October 7, 1996.
+   6515Criterion March 11, 1969.
+   6516Criterion October 7, 1996.
+   6517Removed October 7, 1996.
+   6518Criterion October 7, 1996.
+   6519Criterion October 7, 1996.
+   6520Criterion October 7, 1996.
+   6521Added October 7, 1996.
+   6522Added October 7, 1996.
+   6523Added October 7, 1996.
+   6524Added October 7, 1996.
+   6600Evaluation September 9, 1975; criterion October 7, 1996.
+   6601Criterion October 7, 1996.
+   6602Criterion September 9, 1975; criterion October 7, 1996.
+   6603Added September 9, 1975; criterion October 7, 1996.
+   6604Added October 7, 1996.
+   6701Evaluation October 7, 1996.
+   6702Evaluation October 7, 1996.
+   6703Evaluation October 7, 1996.
+   6704Subparagraph (1) following December 1, 1949; criterion March 11, 1969; criterion September 22, 1978.
+   6705Removed March 11, 1969.
+   6707-6710Added March 11, 1969; removed September 22, 1978.
+   6721Criterion July 6, 1950; criterion September 22, 1978.
+   6724Second note following December 1, 1949; criterion March 11, 1969; evaluation October 7, 1996.
+   6725-6728Added March 11, 1969; removed September 22, 1978.
+   6730Added September 22, 1978; criterion October 7, 1996.
+   6731Evaluation September 22, 1978; criterion October 7, 1996.
+   6732Criterion March 11, 1969.
+   6800Criterion September 9, 1975; removed October 7, 1996.
+   6801Removed October 7, 1996.
+   6802Criterion September 9, 1975; removed October 7, 1996.
+   6810-6813Removed October 7, 1996.
+   6814Criterion March 10, 1976; removed October 7, 1996.
+   6815Removed October 7, 1996.
+   6816Removed October 7, 1996.
+   6817Evaluation October 7, 1996.
+   6818Removed October 7, 1996.
+   6819Criterion March 10, 1976; criterion October 7, 1996.
+   6821Evaluation August 23, 1948.
+   6822-6847Added October 7, 1996.
+4.104 7000Evaluation July 6, 1950; evaluation September 22, 1978; evaluation January 12, 1998.
+   7001Evaluation January 12, 1998.
+   7002Evaluation January 12, 1998.
+   7003Evaluation January 12, 1998.
+   7004Criterion September 22, 1978; evaluation January 12, 1998.
+   7005Evaluation September 9, 1975; evaluation September 22, 1978; evaluation January 12, 1998.
+   7006Evaluation January 12, 1998.
+   7007Evaluation September 22, 1978; evaluation January 12, 1998.
+   7008Evaluation January 12, 1998; criterion December 10, 2017.
+   7010Evaluation January 12, 1998.
+   7011Evaluation January 12, 1998.
+   7013Removed January 12, 1998.
+   7014Removed January 12, 1998.
+   7015Evaluation September 9, 1975; criterion January 12, 1998.
+   7016Added September 9, 1975; evaluation January 12, 1998.
+   7017Added September 22, 1978; evaluation January 12, 1998.
+   7018Added January 12, 1998.
+   7019Added January 12, 1998.
+   7020Added January 12, 1998.
+   7100Evaluation July 6, 1950.
+   7101Criterion September 1, 1960; criterion September 9, 1975; criterion January 12, 1998.
+   7110Evaluation September 9, 1975; evaluation January 12, 1998.
+   7111Criterion September 9, 1975; evaluation January 12, 1998.
+   7112Evaluation January 12, 1998.
+   7113Evaluation January 12, 1998.
+   7114Added June 9, 1952; evaluation January 12, 1998.
+   7115Added June 9, 1952; evaluation January 12, 1998.
+   7116Added June 9, 1952; evaluation March 10, 1976; removed January 12, 1998.
+   7117Added June 9, 1952; evaluation January 12, 1998.
+   7118Criterion January 12, 1998.
+   7119Evaluation January 12, 1998.
+   7120Note following July 6, 1950; evaluation January 12, 1998.
+   7121Criterion July 6, 1950; evaluation March 10, 1976; evaluation January 12, 1998.
+   7122Last sentence of Note following July 6, 1950; evaluation January 12, 1998; criterion August 13, 1998.
+   7123Added October 15, 1991; criterion January 12, 1998.
+4.114 Introduction paragraph revised March 10, 1976.
+   7304Evaluation November 1, 1962.
+   7305Evaluation November 1, 1962.
+   7308Evaluation April 8, 1959.
+   7311Criterion July 2, 2001.
+   7312Evaluation March 10, 1976; evaluation July 2, 2001.
+   7313Evaluation March 10, 1976; removed July 2, 2001.
+   7319Evaluation November 1, 1962.
+   7321Evaluation July 6, 1950; criterion March 10, 1976.
+   7328Evaluation November 1, 1962.
+   7329Evaluation November 1, 1962.
+   7330Evaluation November 1, 1962.
+   7331Criterion March 11, 1969.
+   7332Evaluation November 1, 1962.
+   7334Evaluation July 6, 1950; evaluation November 1, 1962.
+   7339Criterion March 10, 1976.
+   7341Removed March 10, 1976.
+   7343Criterion March 10, 1976; criterion July 2, 2001.
+   7344Criterion July 2, 2001.
+   7345Evaluation August 23, 1948; evaluation February 17, 1955; evaluation July 2, 2001.
+   7346Evaluation February 1, 1962.
+   7347Added September 9, 1975.
+   7348Added March 10, 1976.
+   7351Added July 2, 2001.
+   7354Added July 2, 2001.
+4.115a Re-designated and revised as §4.115b; new §4.115a “Ratings of the genitourinary system-dysfunctions” added February 17, 1994.
+4.115b 7500Note July 6, 1950; evaluation February 17, 1994, criterion September 8, 1994.
+   7501Evaluation February 17, 1994.
+   7502Evaluation February 17, 1994.
+   7503Removed February 17, 1994.
+   7504Criterion February 17, 1994.
+   7505Criterion March 11, 1969; evaluation February 17, 1994.
+   7507Criterion February 17, 1994.
+   7508Evaluation February 17, 1994.
+   7509Criterion February 17, 1994.
+   7510Evaluation February 17, 1994.
+   7511Evaluation February 17, 1994.
+   7512Evaluation February 17, 1994.
+   7513Removed February 17, 1994.
+   7514Criterion March 11, 1969; removed February 17, 1994.
+   7515Criterion February 17, 1994.
+   7516Criterion February 17, 1994.
+   7517Criterion February 17, 1994.
+   7518Evaluation February 17, 1994.
+   7519Evaluation March 10, 1976; evaluation February 17, 1994.
+   7520Criterion February 17, 1994.
+   7521Criterion February 17, 1994.
+   7522Criterion September 8, 1994.
+   7523Criterion September 8, 1994.
+   7524Note July 6, 1950; evaluation February 17, 1994; evaluation September 8, 1994.
+   7525Criterion March 11, 1969; evaluation February 17, 1994.
+   7526Removed February 17, 1994.
+   7527Criterion February 17, 1994.
+   7528Criterion March 10, 1976; criterion February 17, 1994.
+   7529Criterion February 17, 1994.
+   7530Added September 9, 1975; evaluation February 17, 1994.
+   7531Added September 9, 1975; criterion February 17, 1994.
+   7532-7542Added February 17, 1994.
+4.116 §4.116 removed and §4.116a re-designated §4.116 “Schedule of ratings-gynecological conditions and disorders of the breasts” May 22, 1995.
+   7610Criterion May 22, 1995; title May 13, 2018.
+   7611Criterion May 22, 1995.
+   7612Criterion May 22, 1995.
+   7613Criterion May 22, 1995.
+   7614Criterion May 22, 1995.
+   7615Criterion May 22, 1995; note May 13, 2018.
+   7617Criterion May 22, 1995.
+   7618Criterion May 22, 1995.
+   7619Criterion May 22, 1995; note May 13, 2018.
+   7620Criterion May 22, 1995.
+   7621Criterion May 22, 1995; evaluation May 13, 2018.
+   7622Removed May 13, 2018.
+   7623Removed May 13, 2018.
+   7624Criterion August 9, 1976; evaluation May 22, 1995.
+   7625Criterion August 9, 1976; evaluation May 22, 1995.
+   7626Criterion May 22, 1995; criterion March 18, 2002.
+   7627Criterion March 10, 1976; criterion May 22, 1995; title, note May 13, 2018.
+   7628Added May 22, 1995; title, criterion May 13, 2018.
+   7629Added May 22, 1995.
+   7630Added May 13, 2018.
+   7631Added May 13, 2018.
+   7632Added May 13, 2018.
+4.117 7700Removed December 9, 2018.
+   7701Removed October 23, 1995.
+   7702Evaluation October 23, 1995; title December 9, 2018; evaluation December 9, 2018.
+   7703Evaluation August 23, 1948; criterion October 23, 1995; evaluation December 9, 2018; criterion December 9, 2018.
+   7704Evaluation October 23, 1995; evaluation December 9, 2018.
+   7705Evaluation October 23, 1995; title December 9, 2018; evaluation December 9, 2018; criterion December 9, 2018.
+   7706Evaluation October 23, 1995; note December 9, 2018; criterion October 23, 1995.
+   7707Criterion October 23, 1995.
+   7709Evaluation March 10, 1976; criterion October 23, 1995; title December 9, 2018; criterion December 9, 2018.
+   7710Criterion October 23, 1995; criterion December 9, 2018.
+   7711Criterion October 23, 1995.
+   7712Added December 9, 2018.
+   7713Removed October 23, 1995.
+   7714Added September 9, 1975; criterion October 23, 1995; criterion December 9, 2018.
+   7715Added October 26, 1990; criterion December 9, 2018.
+   7716Added October 23, 1995; evaluation December 9, 2018; criterion December 9, 2018.
+   7717Added March 9, 2012.
+   7718Added December 9, 2018.
+   7719Added December 9, 2018.
+   7720Added December 9, 2018.
+   7721Added December 9, 2018.
+   7722Added December 9, 2018.
+   7723Added December 9, 2018.
+   7724Added December 9, 2018.
+   7725Added December 9, 2018.
+4.118 7800Evaluation August 30, 2002; criterion October 23, 2008.
+   7801Criterion July 6, 1950; criterion August 30, 2002; criterion October 23, 2008; title, note 1, note 2 August 13, 2018.
+   7802Criterion September 22, 1978; criterion August 30, 2002; criterion October 23, 2008; title, note 1, note 2 August 13, 2018.
+   7803Criterion August 30, 2002; removed October 23, 2008.
+   7804Criterion July 6, 1950; criterion September 22, 1978; criterion and evaluation October 23, 2008.
+   7805Criterion October 23, 2008; title August 13, 2018.
+   General Rating Formula for DCs 7806, 7809, 7813-7816, 7820-7822, and 7824 added August 13, 2018.
+   7806Criterion September 9, 1975; evaluation August 30, 2002; criterion August 13, 2018.
+   7807Criterion August 30, 2002.
+   7808Criterion August 30, 2002.
+   7809Criterion August 30, 2002; title, criterion August 13, 2018.
+   7810Removed August 30, 2002.
+   7811Criterion March 11, 1969; evaluation August 30, 2002.
+   7812Removed August 30, 2002.
+   7813Criterion August 30, 2002; title, criterion August 13, 2018.
+   7814Removed August 30, 2002.
+   7815Evaluation August 30, 2002; criterion, note August 13, 2018.
+   7816Evaluation August 30, 2002; criterion, note August 13, 2018.
+   7817Evaluation August 30, 2002; title, criterion, note August 13, 2018.
+   7818Criterion August 30, 2002.
+   7819Criterion August 30, 2002.
+   7820Added August 30, 2002; criterion August 13, 2018.
+   7821Added August 30, 2002; title, criterion August 13, 2018.
+   7822Added August 30, 2002; title, criterion August 13, 2018.
+   7823Added August 30, 2002; criterion August 13, 2018.
+   7824Added August 30, 2002; criterion August 13, 2018.
+   7825Added August 30, 2002; title, criterion August 13, 2018.
+   7826Added August 30, 2002; criterion August 13, 2018.
+   7827Added August 30, 2002; criterion August 13, 2018.
+   7828Added August 30, 2002; criterion August 13, 2018.
+   7829Added August 30, 2002; criterion August 13, 2018.
+   7830Added August 30, 2002; criterion August 13, 2018.
+   7831Added August 30, 2002; criterion August 13, 2018.
+   7832Added August 30, 2002; criterion August 13, 2018.
+   7833Added August 30, 2002; criterion August 13, 2018.
+4.119 7900
+Criterion August 13, 1981; evaluation June 9, 1996; title December 10, 2017; evaluation December 10, 2017; criterion December 10, 2017; note December
+10, 2017.
+   7901
+Criterion August 13, 1981; evaluation June 9, 1996; title December 10, 2017; evaluation December 10, 2017; criterion December 10, 2017; note December
+10, 2017.
+   7902
+Evaluation August 13, 1981; criterion June 9, 1996; title December 10, 2017; evaluation December 10, 2017; criterion December 10, 2017; note December
+10, 2017.
+   7903Criterion August 13, 1981; evaluation June 9, 1996; evaluation December 10, 2017; criterion December 10, 2017; note December 10, 2017.
+   7904Criterion August 13, 1981; evaluation June 9, 1996; evaluation December 10, 2017; criterion December 10, 2017; note December 10, 2017.
+   7905Evaluation; August 13, 1981; evaluation June 9, 1996; evaluation December 10, 2017; criterion December 10, 2017.
+   7906Added December 10, 2017.
+   7907Evaluation; August 13, 1981; evaluation June 9, 1996; criterion December 10, 2017; note December 10, 2017.
+   7908Criterion August 13, 1981; criterion June 9, 1996; criterion December 10, 2017.
+   7909
+Evaluation August 13, 1981; criterion June 9, 1996; evaluation June 9, 1996; criterion December 10, 2017; evaluation December 10, 2017; note December
+10, 2017.
+   7910Removed June 9, 1996.
+   7911Evaluation March 11, 1969; evaluation August 13, 1981; criterion June 9, 1996; title December 10, 2017; note December 10, 2017.
+   7912Title December 10, 2017; criterion December 10, 2017.
+   7913
+Criterion September 9, 1975; criterion August 13, 1981; criterion June 6, 1996; evaluation June 9, 1996; criterion December 10, 2017; note December 10,
+2017.
+   7914Criterion March 10, 1976; criterion August 13, 1981; criterion June 9, 1996.
+   7915Criterion June 9, 1996; criterion December 10, 2017.
+   7916Added June 9, 1996; note December 10, 2017.
+   7917Added June 9, 1996; note December 10, 2017.
+   7918Added June 9, 1996; note December 10, 2017.
+   7919Added June 9, 1996; evaluation June 9, 1996; criterion December 10, 2017; note December 10, 2017.
+4.124a 8002Criterion September 22, 1978.
+   8021Criterion September 22, 1978; criterion October 1, 1961; criterion March 10, 1976; criterion March 1, 1989.
+   8045Criterion and evaluation October 23, 2008.
+   8046Added October 1, 1961; criterion March 10, 1976; criterion March 1, 1989.
+   8100Evaluation June 9, 1953.
+   8540Added October 15, 1991.
+   8910Added October 1, 1961.
+   8911Added October 1, 1961; evaluation September 9, 1975.
+   8912Added October 1, 1961.
+   8913Added October 1, 1961.
+   8914Added October 1, 1961; criterion September 9, 1975; criterion March 10, 1976.
+   8910-8914Evaluations September 9, 1975.
+4.125—
+4.132
+All Diagnostic Codes under Mental Disorders October 1, 1961; except as to evaluation for Diagnostic Codes 9500 through 9511 September 9, 1975.
+4.130 Re-designated from §4.132 November 7, 1996.
+   9200Removed February 3, 1988.
+   9201Criterion February 3, 1988; Title August 4, 2014.
+   9202Criterion February 3, 1988; removed August 4, 2014.
+   9203Criterion February 3, 1988; removed August 4, 2014.
+   9204Criterion February 3, 1988; removed August 4, 2014.
+   9205Criterion February 3, 1988; criterion November 7, 1996; Removed August 4, 2014.
+   9206Criterion February 3, 1988; removed November 7, 1996.
+   9207Criterion February 3, 1988; removed November 7, 1996.
+   9208Criterion February 3, 1988; removed November 7, 1996.
+   9209Criterion March 10, 1976; criterion February 3, 1988; removed November 7, 1996.
+   9210Criterion March 10, 1976; criterion February 3, 1988; criterion November 7, 1996; Title August 4, 2014.
+   9211Added November 7, 1996.
+   9300Criterion March 10, 1976; criterion February 3, 1988; criterion November 7, 1996.
+   9301Criterion March 10, 1976; criterion February 3, 1988; criterion November 7, 1996; Title August 4, 2014.
+   9302Criterion March 10, 1976; criterion February 3, 1988; removed November 7, 1996.
+   9303Criterion March 10, 1976; criterion February 3, 1988; removed November 7, 1996.
+   9304Criterion March 10, 1976; criterion February 3, 1988; criterion November 7, 1996; Title August 4, 2014.
+   9305Criterion March 10, 1976; criterion February 3, 1988; criterion November 7, 1996; Title August 4, 2014.
+   9306Criterion March 10, 1976; criterion February 3, 1988; removed November 7, 1996.
+   9307Criterion March 10, 1976; criterion February 3, 1988; removed November 7, 1996.
+   9308Criterion March 10, 1976; criterion February 3, 1988; removed November 7, 1996.
+   9309Criterion March 10, 1976; criterion February 3, 1988; removed November 7, 1996.
+   9310Criterion March 10, 1976; criterion February 3, 1988; criterion November 7, 1996; Title August 4, 2014.
+   9311Criterion March 10, 1976; criterion February 3, 1988; removed November 7, 1996.
+   9312Added March 10, 1976; criterion February 3, 1988; criterion November 7, 1996; Title August 4, 2014.
+   9313Added March 10, 1976; removed February 3, 1988.
+   9314Added March 10, 1976; removed February 3, 1988.
+   9315Added March 10, 1976; criterion February 3, 1988; removed November 7, 1996.
+   9316-9321Added March 10, 1976; removed February 3, 1988.
+   9322Added March 10, 1976; criterion February 3, 1988; removed November 7, 1996.
+   9323Added March 10, 1976; removed February 3, 1988.
+   9324Added March 10, 1976; criterion February 3, 1988; removed November 7, 1996.
+   9325Added March 10, 1976; criterion February 3, 1988; removed November 7, 1996.
+   9326Added March 10, 1976; removed February 3, 1988; added November 7, 1996; Title August 4, 2014.
+   9327Added November 7, 1996; removed August 4, 2014.
+   9400-9411Evaluations February 3, 1988.
+   9400Criterion March 10, 1976; criterion February 3, 1988.
+   9401Criterion March 10, 1976; criterion February 3, 1988; removed November 7, 1996.
+   9402Criterion March 10, 1976; criterion February 3, 1988; removed November 7, 1996.
+   9403Criterion March 10, 1976; criterion February 3, 1988; criterion November 7, 1996; Title August 4, 2014.
+   9410Added March 10, 1976; criterion February 3, 1988; Title August 4, 2014.
+   9411Added February 3, 1988.
+   9412Added November 7, 1996.
+   9413Added November 7, 1996; Title August 4, 2014.
+   9416Added November 7, 1996; Title August 4, 2014.
+   9417Added November 7, 1996; Title August 4, 2014.
+   9421Added November 7, 1996; Title August 4, 2014.
+   9422Added November 7, 1996; Title August 4, 2014.
+   9423Added November 7, 1996; Title August 4, 2014.
+   9424Added November 7, 1996; Title August 4, 2014.
+   9425Added November 7, 1996; Title August 4, 2014.
+   9431Added November 7, 1996.
+   9432Added November 7, 1996.
+   9433Added November 7, 1996; Title August 4, 2014.
+   9434Added November 7, 1996.
+   9435Added November 7, 1996; Title August 4, 2014.
+   9440Added November 7, 1996.
+   9500Criterion March 10, 1976; criterion February 3, 1988.
+   9501Criterion March 10, 1976; criterion February 3, 1988.
+   9502Criterion March 10, 1976; criterion February 3, 1988.
+   9503Removed March 10, 1976.
+   9504Criterion September 9, 1975; removed March 10, 1976.
+   9505Added March 10, 1976; criterion February 3, 1988.
+   9506Added March 10, 1976; criterion February 3, 1988.
+   9507Added March 10, 1976; criterion February 3, 1988.
+   9508Added March 10, 1976; criterion February 3, 1988.
+   9509Added March 10, 1976; criterion February 3, 1988.
+   9510Added March 10, 1976; criterion February 3, 1988.
+   9511Added March 10, 1976; criterion February 3, 1988.
+   9520Added November 7, 1996.
+   9521Added November 7, 1996.
+4.132 Re-designated as §4.130 November 7, 1996.
+4.150 9900Criterion September 22, 1978; criterion February 17, 1994; title September 10, 2017.
+   9901Criterion February 17, 1994.
+   9902Criterion February 17, 1994; evaluation September 10, 2017; title September 10, 2017.
+   9903Criterion February 17, 1994; evaluation September 10, 2017; title September 10, 2017.
+   9904Criterion September 10, 2017.
+   9905Criterion September 22, 1978; evaluation February 17, 1994; evaluation September 10, 2017; title September 10, 2017.
+   9906Removed September 10, 2017.
+   9907Removed September 10, 2017.
+   9910Removed February 17, 1994.
+   9911Criterion and title September 10, 2017.
+   9912Removed September 10, 2017.
+   9913Criterion February 17, 1994.
+   9914Added February 17, 1994.
+   9915Added February 17, 1994.
+   9916Added February 17, 1994; criterion September 10, 2017.
+   9917Added September 10, 2017.
+   9918Added September 10, 2017.
+[72 FR 12983, Mar. 20, 2007; 72 FR 16728, Apr. 5, 2007, as amended at 73 FR 54708, 54711, Sept. 23, 2008; 73 FR 69554, Nov. 19, 2008; 77 FR 6467, Feb. 8, 2012; 79 FR 45101,
+Aug. 4, 2014; 80 FR 42042, July 16, 2015; 82 FR 36084, Aug. 3, 2017; 82 FR 50806, Nov. 2, 2017; 83 FR 15072, Apr. 9, 2018; 83 FR 15323, Apr. 10, 2018; 83 FR 32600, July 13,
+2018; 83 FR 54257, Oct. 29, 2018; 84 FR 28233, June 18, 2019]
+Appendix B to Part 4—Numerical Index of Disabilities
+Diagnostic Code No.    
+THE MUSCULOSKELETAL SYSTEM
+Acute, Subacute, or Chronic Diseases
+5000 Osteomyelitis, acute, subacute, or chronic.
+5001 Bones and Joints, tuberculosis.
+5002 Arthritis, rheumatoid (atrophic).
+5003 Arthritis, degenerative (hypertrophic or osteoarthritis).
+5004 Arthritis, gonorrheal.
+5005 Arthritis, pneumococcic.
+5006 Arthritis, typhoid.
+5007 Arthritis, syphilitic.
+5008 Arthritis, streptococcic.
+5009 Arthritis, other types (specify).
+5010 Arthritis, due to trauma.
+5011 Bones, caisson disease.
+5012 Bones, new growths, malignant.
+5013 Osteoporosis, with joint manifestations.
+5014 Osteomalacia.
+5015 Bones, new growths, benign.
+5016 Osteitis deformans.
+5017 Gout.
+5018 Hydrarthrosis, intermittent.
+5019 Bursitis.
+5020 Synovitis.
+5021 Myositis.
+5022 Periostitis.
+5023 Myositis ossificans.
+5024 Tenosynovitis.
+5025 Fibromyalgia.
+Prosthetic Implants
+5051 Shoulder replacement (prosthesis).
+5052 Elbow replacement (prosthesis).
+5053 Wrist replacement (prosthesis).
+5054 Hip replacement (prosthesis).
+5055 Knee replacement (prosthesis).
+5056 Ankle replacement (prosthesis).
+Combination of Disabilities
+5104 Anatomical loss of one hand and loss of use of one foot.
+5105 Anatomical loss of one foot and loss of use of one hand.
+5106 Anatomical loss of both hands.
+5107 Anatomical loss of both feet.
+5108 Anatomical loss of one hand and one foot.
+5109 Loss of use of both hands.
+5110 Loss of use of both feet.
+5111 Loss of use of one hand and one foot.
+Amputations: Upper Extremity
+Arm amputation of:
+5120 Disarticulation.
+5121 Above insertion of deltoid.
+5122 Below insertion of deltoid.
+Forearm amputation of:
+5123 Above insertion of pronator teres.
+5124 Below insertion of pronator teres.
+5125 Hand, loss of use of.
+Multiple Finger Amputations
+5126 Five digits of one hand.
+Four digits of one hand:
+5127 Thumb, index, long and ring.
+5128 Thumb, index, long and little.
+5129 Thumb, index, ring and little.
+5130 Thumb, long, ring and little.
+5131 Index, long, ring and little.
+Three digits of one hand:
+5132 Thumb, index and long.
+5133 Thumb, index and ring.
+5134 Thumb, index and little.
+5135 Thumb, long and ring.
+5136 Thumb, long and little.
+5137 Thumb, ring and little.
+5138 Index, long and ring.
+5139 Index, long and little.
+5140 Index, ring and little.
+5141 Long, ring and little.
+Two digits of one hand:
+5142 Thumb and index.
+5143 Thumb and long.
+5144 Thumb and ring.
+5145 Thumb and little.
+5146 Index and long.
+5147 Index and ring.
+5148 Index and little.
+5149 Long and ring.
+5150 Long and little.
+5151 Ring and little.
+Single finger:
+5152 Thumb.
+5153 Index finger.
+5154 Long finger.
+5155 Ring finger.
+5156 Little finger.
+Amputations: Lower Extremity
+Thigh amputation of:
+5160 Disarticulation.
+5161 Upper third.
+5162 Middle or lower thirds.
+Leg amputation of:
+5163 With defective stump.
+5164 Not improvable by prosthesis controlled by natural knee action.
+5165 At a lower level, permitting prosthesis.
+5166 Forefoot, proximal to metatarsal bones.
+5167 Foot, loss of use of.
+5170 Toes, all, without metatarsal loss.
+5171 Toe, great.
+5172 Toes, other than great, with removal of metatarsal head.
+5173 Toes, three or more, without metatarsal involvement.
+Shoulder and Arm
+5200 Scapulohumeral articulation, ankylosis.
+5201 Arm, limitation of motion.
+5202 Humerus, other impairment.
+5203 Clavicle or scapula, impairment.
+Elbow and Forearm
+5205 Elbow, ankylosis.
+5206 Forearm, limitation of flexion.
+5207 Forearm, limitation of extension.
+5208 Forearm, flexion limited.
+5209 Elbow, other impairment.
+5210 Radius and ulna, nonunion.
+5211 Ulna, impairment.
+5212 Radius, impairment.
+5213 Supination and pronation, impairment.
+Wrist
+5214 Wrist, ankylosis.
+5215 Wrist, limitation of motion.
+Limitation of Motion
+Multiple Digits: Unfavorable Ankylosis:
+5216 Five digits of one hand.
+5217 Four digits of one hand.
+5218 Three digits of one hand.
+5219 Two digits of one hand.
+Multiple Digits: Favorable
+Ankylosis:
+5220 Five digits of one hand.
+5221 Four digits of one hand.
+5222 Three digits of one hand.
+5223 Two digits of one hand.
+Ankylosis of Individual Digits:
+5224 Thumb.
+5225 Index finger.
+5226 Long finger.
+5227 Ring or little finger.
+Limitation of Motion of Individual Digits:
+5228 Thumb.
+5229 Index or long finger.
+5230 Ring or little finger.
+Spine
+5235 Vertebral fracture or dislocation.
+5236 Sacroiliac injury and weakness.
+5237 Lumbosacral or cervical strain.
+5238 Spinal stenosis.
+5239 Spondylolisthesis or segmental instability.
+5240 Ankylosing spondylitis.
+5241 Spinal fusion.
+5242 Degenerative arthritis.
+5243 Intervertebral disc syndrome.
+Hip and Thigh
+5250 Hip, ankylosis.
+5251 Thigh, limitation of extension.
+5252 Thigh, limitation of flexion.
+5253 Thigh, impairment.
+5254 Hip, flail joint.
+5255 Femur, impairment.
+Knee and Leg
+5256 Knee, ankylosis.
+5257 Knee, other impairment.
+5258 Cartilage, semilunar, dislocated.
+5259 Cartilage, semilunar, removal.
+5260 Leg, limitation of flexion.
+5261 Leg, limitation of extension.
+5262 Tibia and fibula, impairment.
+5263 Genu recurvatum.
+Ankle
+5270 Ankle, ankylosis.
+5271 Ankle, limited motion.
+5272 Subastragalar or tarsal joint, ankylosis.
+5273 Os calcis or astragalus, malunion.
+5274 Astragalectomy.
+Shortening of the Lower Extremity
+5275 Bones, of the lower extremity
+The Foot
+5276 Flatfoot, acquired.
+5277 Weak foot, bilateral.
+5278 Claw foot (pes cavus), acquired.
+5279 Metatarsalgia, anterior (Morton's disease).
+5280 Hallux valgus.
+5281 Hallux rigidus.
+5282 Hammer toe.
+5283 Tarsal or metatarsal bones.
+5284 Foot injuries, other.
+The Skull
+5296 Loss of part of.
+The Ribs
+5297 Removal of.
+The Coccyx
+5298 Removal of.
+MUSCLE INJURIES
+Shoulder Girdle and Arm
+5301 Group I Function: Upward rotation of scapula.
+5302 Group II Function: Depression of arm.
+5303 Group III Function: Elevation and abduction of arm.
+5304 Group IV Function: Stabilization of shoulder.
+5305 Group V Function: Elbow supination.
+5306 Group VI Function: Extension of elbow.
+Forearm and Hand
+5307 Group VII Function: Flexion of wrist and fingers.
+5308 Group VIII Function: Extension of wrist, fingers, thumb.
+5309 Group IX Function: Forearm muscles.
+Foot and Leg
+5310 Group X Function: Movement of forefoot and toes.
+5311 Group XI Function: Propulsion of foot.
+5312 Group XII Function: Dorsiflexion.
+Pelvic Girdle and Thigh
+5313 Group XIII Function: Extension of hip and flexion of knee.
+5314 Group XIV Function: Extension of knee.
+5315 Group XV Function: Adduction of hip.
+5316 Group XVI Function: Flexion of hip.
+5317 Group XVII Function: Extension of hip.
+5318 Group XVIII Function: Outward rotation of thigh.
+Torso and Neck
+5319 Group XIX Function: Abdominal wall and lower thorax.
+5320 Group XX Function: Postural support of body.
+5321 Group XXI Function: Respiration.
+5322 Group XXII Function: Rotary and forward movements, head.
+5323 Group XXIII Function: Movements of head.
+Miscellaneous
+5324 Diaphragm, rupture.
+5325 Muscle injury, facial muscles.
+5326 Muscle hernia.
+5327 Muscle, neoplasm of, malignant.
+5328 Muscle, neoplasm of, benign.
+5329 Sarcoma, soft tissue.
+THE EYE
+Diseases of the Eye
+6000 Choroidopathy, including uveitis, iritis, cyclitis, or choroiditis.
+6001 Keratopathy.
+6002 Scleritis.
+6003 Iritis.
+6004 Cyclitis.
+6005 Choroiditis.
+6006 Retinopathy or maculopathy not otherwise specified.
+6007 Intraocular hemorrhage.
+6008 Detachment of retina.
+6009 Unhealed eye injury.
+6010 Tuberculosis of eye.
+6011 Retinal scars, atrophy, or irregularities.
+6012 Angle-closure glaucoma.
+6013 Open-angle glaucoma.
+6014 Malignant neoplasms of the eye, orbit, and adnexa (excluding skin).
+6015 Benign neoplasms of the eye, orbit, and adnexa (excluding skin).
+6016 Nystagmus, central.
+6017 Conjunctivitis, trachomatous, chronic.
+6018 Conjunctivitis, other, chronic.
+6019 Ptosis unilateral or bilateral.
+6020 Ectropion.
+6021 Entropion.
+6022 Lagophthalmos.
+6023 Eyebrows, loss.
+6024 Eyelashes, loss.
+6025 Disorders of the lacrimal apparatus (epiphora, dacrocystitis, etc.).
+6026 Optic neuropathy.
+6027 Cataract.
+6028 Cataract, senile, and others.
+6029 Aphakia.
+6030 Accommodation, paralysis.
+6031 Dacryocystitis.
+6032 Eyelids, loss of portion.
+6033 Lens, crystalline, dislocation.
+6034 Pterygium.
+6035 Keratoconus.
+6036 Status post corneal transplant.
+6040 Diabetic retinopathy.
+6042
+Retinal dystrophy (including retinitis pigmentosa, wet or dry macular degeneration, early-onset macular degeneration, rod and/or cone
+dystrophy).
+6046 Post-chiasmal disorders.
+Impairment of Central Visual Acuity
+6061 Anatomical loss both eyes.
+6062 Blindness, both eyes, only light perception.
+Anatomical loss of 1 eye:
+6063 Other eye 5/200 (1.5/60).
+6064 Other eye 10/200 (3/60).
+6064 Other eye 15/200 (4.5/60).
+6064 Other eye 20/200 (6/60).
+6065 Other eye 20/100 (6/30).
+6065 Other eye 20/70 (6/21).
+6065 Other eye 20/50 (6/15).
+6066 Other eye 20/40 (6/12).
+Blindness in 1 eye, only light perception:
+6067 Other eye 5/200 (1.5/60).
+6068 Other eye 10/200 (3/60).
+6068 Other eye 15/200 (4.5/60).
+6068 Other eye 20/200 (6/60).
+6069 Other eye 20/100 (6/30).
+6069 Other eye 20/70 (6/21).
+6069 Other eye 20/50 (6/15).
+6070 Other eye 20/40 (6/12).
+Vision in 1 eye 5/200 (1.5/60):
+6071 Other eye 5/200 (1.5/60).
+6072 Other eye 10/200 (3/60).
+6072 Other eye 15/200 (4.5/60).
+6072 Other eye 20/200 (6/60).
+6073 Other eye 20/100 (6/30).
+6073 Other eye 20/70 (6/21).
+6073 Other eye 20/50 (6/15).
+6074 Other eye 20/40 (6/12).
+Vision in 1 eye 10/200 (3/60):
+6075 Other eye 10/200 (3/60).
+6075 Other eye 15/200 (4.5/60).
+6075 Other eye 20/200 (6/60).
+6076 Other eye 20/100 (6/30).
+6076 Other eye 20/70 (6/21).
+6076 Other eye 20/50 (6/15).
+6077 Other eye 20/40 (6/12).
+Vision in 1 eye 15/200 (4.5/60):
+6075 Other eye 15/200 (4.5/60).
+6075 Other eye 20/200 (6/60).
+6076 Other eye 20/100 (6/30).
+6076 Other eye 20/70 (6/21).
+6076 Other eye 20/50 (6/15).
+6077 Other eye 20/40 (6/12).
+Vision in 1 eye 20/200 (6/60):
+6075 Other eye 20/200 (6/60).
+6076 Other eye 20/100 (6/30).
+6076 Other eye 20/70 (6/21).
+6076 Other eye 20/50 (6/15).
+6077 Other eye 20/40 (6/12).
+Vision in 1 eye 20/100 (6/30):
+6078 Other eye 20/100 (6/30).
+6078 Other eye 20/70 (6/21).
+6078 Other eye 20/50 (6/15).
+6079 Other eye 20/40 (6/12).
+Vision in 1 eye 20/70 (6/21):
+6078 Other eye 20/70 (6/21).
+6078 Other eye 20/50 (6/15).
+6079 Other eye 20/40 (6/12).
+Vision in 1 eye 20/50 (6/15):
+6078 Other eye 20/50 (6/15).
+6079 Other eye 20/40 (6/12).
+Impairment of Field Vision:
+6080 Field vision, impairment.
+6081 Scotoma.
+Impairment of Muscle Function:
+6090 Diplopia.
+6091 Symblepharon.
+6092 Diplopia, limited muscle function.
+THE EAR
+6200 Chronic suppurative otitis media.
+6201 Chronic nonsuppurative otitis media.
+6202 Otosclerosis.
+6204 Peripheral vestibular disorders.
+6205 Meniere's syndrome.
+6207 Loss of auricle.
+6208 Malignant neoplasm.
+6209 Benign neoplasm.
+6210 Chronic otitis externa.
+6211 Tympanic membrane.
+6260 Tinnitus, recurrent.
+OTHER SENSE ORGANS
+6275 Smell, complete loss.
+6276 Taste, complete loss.
+INFECTIOUS DISEASES, IMMUNE DISORDERS AND NUTRITIONAL DEFICIENCIES
+6300 Vibriosis (Cholera, Non-cholera).
+6301 Visceral Leishmaniasis.
+6302 Leprosy (Hansen's Disease).
+6304 Malaria.
+6305 Lymphatic filariasis, to include elephantiasis.
+6306 Bartonellosis.
+6307 Plague.
+6308 Relapsing fever.
+6309 Rheumatic fever.
+6310 Syphilis.
+6311 Tuberculosis, miliary.
+6312 Nontuberculosis mycobacterium infection.
+6313 Avitaminosis.
+6314 Beriberi.
+6315 Pellagra.
+6316 Brucellosis.
+6317 Rickettsial, ehrlichia, and anaplasma infections.
+6318 Melioidosis.
+6319 Lyme disease.
+6320 Parasitic diseases.
+6325 Hyperinfection syndrome or disseminated strongyloidiasis.
+6326 Schistosomiasis.
+6329 Hemorrhagic fevers, including dengue, yellow fever, and others.
+6330 Campylobacter jejuni infection.
+6331 Coxiella burnetii infection (Q Fever).
+6333 Nontyphoid salmonella infections.
+6334 Shigella infections.
+6335 West Nile virus infection.
+6350 Lupus erythematosus.
+6351 HIV-Related Illness.
+6354 Chronic Fatigue Syndrome (CFS).
+THE RESPIRATORY SYSTEM
+Nose and Throat
+6502 Septum, nasal, deviation.
+6504 Nose, loss of part of, or scars.
+6510 Sinusitis, pansinusitis, chronic.
+6511 Sinusitis, ethmoid, chronic.
+6512 Sinusitis, frontal, chronic.
+6513 Sinusitis, maxillary, chronic.
+6514 Sinusitis, sphenoid, chronic.
+6515 Laryngitis, tuberculous.
+6516 Laryngitis, chronic.
+6518 Laryngectomy, total.
+6519 Aphonia, complete organic.
+6520 Larynx, stenosis of.
+6521 Pharynx, injuries to.
+6522 Allergic or vasomotor rhinitis.
+6523 Bacterial rhinitis.
+6524 Granulomatous rhinitis.
+Trachea and Bronchi
+6600 Bronchitis, chronic.
+6601 Bronchiectasis.
+6602 Asthma, bronchial.
+6603 Emphysema, pulmonary.
+6604 Chronic obstructive pulmonary disease.
+Lungs and Pleura Tuberculosis
+Ratings for Pulmonary Tuberculosis (Chronic) Entitled on August 19, 1968:
+6701 Active, far advanced.
+6702 Active, moderately advanced.
+6703 Active, minimal.
+6704 Active, advancement unspecified.
+6721 Inactive, far advanced.
+6722 Inactive, moderately advanced.
+6723 Inactive, minimal.
+6724 Inactive, advancement unspecified.
+Ratings for Pulmonary Tuberculosis Initially Evaluated After August 19, 1968:
+6730 Chronic, active.
+6731 Chronic, inactive.
+6732 Pleurisy, active or inactive.
+Nontuberculous Diseases
+6817 Pulmonary Vascular Disease.
+6819 Neoplasms, malignant.
+6820 Neoplasms, benign.
+Bacterial Infections of the Lung
+6822 Actinomycosis.
+6823 Nocardiosis.
+6824 Chronic lung abscess.
+Interstitial Lung Disease
+6825 Fibrosis of lung, diffuse interstitial.
+6826 Desquamative interstitial pneumonitis.
+6827 Pulmonary alveolar proteinosis.
+6828 Eosinophilic granuloma.
+6829 Drug-induced, pneumonitis & fibrosis.
+6830 Radiation-induced, pneumonitis & fibrosis.
+6831 Hypersensitivity pneumonitis.
+6832 Pneumoconiosis.
+6833 Asbestosis.
+Mycotic Lung Disease
+6834 Histoplasmosis.
+6835 Coccidioidomycosis.
+6836 Blastomycosis.
+6837 Cryptococcosis.
+6838 Aspergillosis.
+6839 Mucormycosis.
+Restrictive Lung Disease
+6840 Diaphragm paralysis or paresis.
+6841 Spinal cord injury with respiratory insufficiency.
+6842 Kyphoscoliosis, pectus excavatum/carinatum.
+6843 Traumatic chest wall defect.
+6844 Post-surgical residual.
+6845 Pleural effusion or fibrosis.
+6846 Sarcoidosis.
+6847 Sleep Apnea Syndromes.
+THE CARDIOVASCULAR SYSTEM
+Diseases of the Heart
+7000 Valvular heart disease.
+7001 Endocarditis.
+7002 Pericarditis.
+7003 Pericardial adhesions.
+7004 Syphilitic heart disease.
+7005 Arteriosclerotic heart disease.
+7006 Myocardial infarction.
+7007 Hypertensive heart disease.
+7008 Hyperthyroid heart disease.
+7010 Supraventricular arrhythmias.
+7011 Ventricular arrhythmias.
+7015 Atrioventricular block.
+7016 Heart valve replacement.
+7017 Coronary bypass surgery.
+7018 Implantable cardiac pacemakers.
+7019 Cardiac transplantation.
+7020 Cardiomyopathy.
+Diseases of the Arteries and Veins
+7101 Hypertensive vascular disease.
+7110 Aortic aneurysm.
+7111 Aneurysm, large artery.
+7112 Aneurysm, small artery.
+7113 Arteriovenous fistula, traumatic.
+7114 Arteriosclerosis obliterans.
+7115 Thrombo-angiitis obliterans (Buerger's Disease).
+7117 Raynaud's syndrome.
+7118 Angioneurotic edema.
+7119 Erythromelalgia.
+7120 Varicose veins.
+7121 Post-phlebitic syndrome.
+7122 Cold injury residuals.
+7123 Soft tissue sarcoma.
+THE DIGESTIVE SYSTEM
+7200 Mouth, injuries.
+7201 Lips, injuries.
+7202 Tongue, loss.
+7203 Esophagus, stricture.
+7204 Esophagus, spasm.
+7205 Esophagus, diverticulum.
+7301 Peritoneum, adhesions.
+7304 Ulcer, gastric.
+7305 Ulcer, duodenal.
+7306 Ulcer, marginal.
+7307 Gastritis, hypertrophic.
+7308 Postgastrectomy syndromes.
+7309 Stomach, stenosis.
+7310 Stomach, injury of, residuals.
+7311 Liver, injury of, residuals.
+7312 Liver, cirrhosis.
+7314 Cholecystitis, chronic.
+7315 Cholelithiasis, chronic.
+7316 Cholangitis, chronic.
+7317 Gall bladder, injury.
+7318 Gall bladder, removal.
+7319 Colon, irritable syndrome.
+7321 Amebiasis.
+7322 Dysentery, bacillary.
+7323 Colitis, ulcerative.
+7324 Distomiasis, intestinal or hepatic.
+7325 Enteritis, chronic.
+7326 Enterocolitis, chronic.
+7327 Diverticulitis.
+7328 Intestine, small, resection.
+7329 Intestine, large, resection.
+7330 Intestine, fistula.
+7331 Peritonitis.
+7332 Rectum & anus, impairment.
+7333 Rectum & anus, stricture.
+7334 Rectum, prolapse.
+7335 Ano, fistula in.
+7336 Hemorrhoids.
+7337 Pruritus ani.
+7338 Hernia, inguinal.
+7339 Hernia, ventral, postoperative.
+7340 Hernia, femoral.
+7342 Visceroptosis.
+7343 Neoplasms, malignant.
+7344 Neoplasms, benign.
+7345 Liver disease, chronic, without cirrhosis.
+7346 Hernia, hiatal.
+7347 Pancreatitis.
+7348 Vagotomy.
+7351 Liver transplant.
+7354 Hepatitis C.
+THE GENITOURINARY SYSTEM
+7500 Kidney, removal.
+7501 Kidney, abscess.
+7502 Nephritis, chronic.
+7504 Pyelonephritis, chronic.
+7505 Kidney, tuberculosis.
+7507 Nephrosclerosis, arteriolar.
+7508 Nephrolithiasis.
+7509 Hydronephrosis.
+7510 Ureterolithiasis.
+7511 Ureter, stricture.
+7512 Cystitis, chronic.
+7515 Bladder, calculus.
+7516 Bladder, fistula.
+7517 Bladder, injury.
+7518 Urethra, stricture.
+7519 Urethra, fistula.
+7520 Penis, removal of half or more.
+7521 Penis, removal of glans.
+7522 Penis, deformity, with loss of erectile power.
+7523 Testis, atrophy, complete.
+7524 Testis, removal.
+7525 Epididymo-orchitis, chronic only.
+7527 Prostate gland.
+7528 Malignant neoplasms.
+7529 Benign neoplasms.
+7530 Renal disease, chronic.
+7531 Kidney transplant.
+7532 Renal tubular disorders.
+7533 Kidneys, cystic diseases.
+7534 Atherosclerotic renal disease.
+7535 Toxic nephropathy.
+7536 Glomerulonephritis.
+7537 Interstitial nephritis.
+7538 Papillary necrosis.
+7539 Renal amyloid disease.
+7540 Disseminated intravascular coagulation.
+7541 Renal involvement in systemic diseases.
+7542 Neurogenic bladder.
+GYNECOLOGICAL CONDITIONS AND DISORDERS OF THE BREAST
+7610 Vulva or clitoris, disease or injury of (including vulvovaginitis).
+7611 Vagina, disease or injury.
+7612 Cervix, disease or injury.
+7613 Uterus, disease or injury.
+7614 Fallopian tube, disease or injury.
+7615 Ovary, disease or injury.
+7617 Uterus and both ovaries, removal.
+7618 Uterus, removal.
+7619 Ovary, removal.
+7620 Ovaries, atrophy of both.
+7621 Complete or incomplete pelvic organ prolapse due to injury or disease or surgical complications of pregnancy.
+7624 Fistula, rectovaginal.
+7625 Fistula, urethrovaginal.
+7626 Breast, surgery.
+7627 Malignant neoplasms of gynecological system.
+7628 Benign neoplasms of gynecological system.
+7629 Endometriosis.
+7630 Malignant neoplasms of the breast.
+7631 Benign neoplasms of the breast and other injuries of the breast.
+7632 Female sexual arousal disorder (FSAD).
+The Hematologic and Lymphatic Systems
+7700 [Removed]
+7702 Agranulocytosis, acquired.
+7703 Leukemia.
+7704 Polycythemia vera.
+7705 Immune thrombocytopenia.
+7706 Splenectomy.
+7707 Spleen, injury of, healed.
+7709 Hodgkin's lymphoma.
+7710 Adenitis, tuberculous.
+7712 Multiple myeloma
+7714 Sickle cell anemia.
+7715 Non-Hodgkin's lymphoma.
+7716 Aplastic anemia.
+7717 AL amyloidosis (primary amyloidosis).
+7718 Essential thrombocythemia and primary myelofibrosis.
+7719 Chronic myelogenous leukemia (CML) (chronic myeloid leukemia or chronic granulocytic leukemia).
+7720 Iron deficiency anemia.
+7721 Folic acid deficiency.
+7722 Pernicious anemia and Vitamin B12 deficiency anemia.
+7723 Acquired hemolytic anemia.
+7724 Solitary plasmacytoma.
+7725 Myelodysplastic syndromes.
+THE SKIN
+7800 Burn scar(s) of the head, face, or neck; scar(s) of the head, face, or neck due to other causes; or other disfigurement of the head, face, or neck.
+7801 Burn scar(s) or scar(s) due to other causes, not of the head, face, or neck that are associated with underlying soft tissue damage.
+7802 Burn scar(s) or scar(s) due to other causes, not of the head, face, or neck that are not associated with underlying soft tissue damage.
+7804 Scar(s), unstable or painful.
+7805 Scars, other; and other effects of scars evaluated under diagnostic codes 7800, 7801, 7802, or 7804.
+7806 Dermatitis or eczema.
+7807 Leishmaniasis, American (New World).
+7808 Leishmaniasis, Old World.
+7809 Discoid lupus erythematosus.
+7811 Tuberculosis luposa (lupus vulgaris).
+7813 Dermatophytosis.
+7815 Bullous disorders.
+7816 Psoriasis.
+7817 Erythroderma.
+7818 Malignant skin neoplasms.
+7819 Benign skin neoplasms.
+7820 Infections of the skin.
+7821 Cutaneous manifestations of collagen-vascular diseases not listed elsewhere.
+7822 Papulosquamous disorders not listed elsewhere.
+7823 Vitiligo.
+7824 Keratinization, diseases.
+7825 Chronic urticaria.
+7826 Vasculitis, primary cutaneous.
+7827 Erythema multiforme.
+7828 Acne.
+7829 Chloracne.
+7830 Scarring alopecia.
+7831 Alopecia areata.
+7832 Hyperhidrosis.
+7833 Malignant melanoma.
+THE ENDOCRINE SYSTEM
+7900 Hyperthyroidism, including, but not limited to, Graves' disease.
+7901 Thyroid enlargement, toxic.
+7902 Thyroid enlargement, nontoxic.
+7903 Hypothyroidism.
+7904 Hyperparathyroidism.
+7905 Hypoparathyroidism.
+7906 Thyroiditis.
+7907 Cushing's syndrome.
+7908 Acromegaly.
+7909 Diabetes insipidus.
+7911 Addison's disease (adrenocortical insufficiency).
+7912 Polyglandular syndrome (multiple endocrine neoplasia, autoimmune polyglandular syndrome).
+7913 Diabetes mellitus.
+7914 Malignant neoplasm.
+7915 Benign neoplasm.
+7916 Hyperpituitarism.
+7917 Hyperaldosteronism.
+7918 Pheochromocytoma.
+7919 C-cell hyperplasia, thyroid.
+NEUROLOGICAL CONDITIONS AND CONVULSIVE DISORDERS
+Organic Diseases of the Central Nervous System
+8000 Encephalitis, epidemic, chronic.
+Brain, New Growth of
+8002 Malignant.
+8003 Benign.
+8004 Paralysis agitans.
+8005 Bulbar palsy.
+8007 Brain, vessels, embolism.
+8008 Brain, vessels, thrombosis.
+8009 Brain, vessels, hemorrhage.
+8010 Myelitis.
+8011 Poliomyelitis, anterior.
+8012 Hematomyelia.
+8013 Syphilis, cerebrospinal.
+8014 Syphilis, meningovascular.
+8015 Tabes dorsalis.
+8017 Amyotrophic lateral sclerosis.
+8018 Multiple sclerosis.
+8019 Meningitis, cerebrospinal, epidemic.
+8020 Brain, abscess.
+Spinal Cord, New Growths
+8021 Malignant.
+8022 Benign.
+8023 Progressive muscular atrophy.
+8024 Syringomyelia.
+8025 Myasthenia gravis.
+8045 Residuals of traumatic brain injury (TBI).
+8046 Cerebral arteriosclerosis.
+Miscellaneous Diseases
+8100 Migraine
+8103 Tic, convulsive.
+8104 Paramyoclonus multiplex.
+8105 Chorea, Sydenham's.
+8106 Chorea, Huntington's.
+8107 Athetosis, acquired.
+8108 Narcolepsy.
+The Cranial Nerves
+8205 Fifth (trigeminal), paralysis.
+8207 Seventh (facial), paralysis.
+8209 Ninth (glossopharyngeal), paralysis.
+8210 Tenth (pneumogastric, vagus), paralysis.
+8211 Eleventh (spinal accessory, external branch), paralysis.
+8212 Twelfth (hypoglossal), paralysis.
+8305 Neuritis, fifth cranial nerve.
+8307 Neuritis, seventh cranial nerve.
+8309 Neuritis, ninth cranial nerve.
+8310 Neuritis, tenth cranial nerve.
+8311 Neuritis, eleventh cranial nerve.
+8312 Neuritis, twelfth cranial nerve.
+8405 Neuralgia, fifth cranial nerve.
+8407 Neuralgia, seventh cranial nerve.
+8409 Neuralgia, ninth cranial nerve.
+8410 Neuralgia, tenth cranial nerve.
+8411 Neuralgia, eleventh cranial nerve.
+8412 Neuralgia, twelfth cranial nerve.
+Peripheral Nerves
+8510 Upper radicular group, paralysis.
+8511 Middle radicular group, paralysis.
+8512 Lower radicular group, paralysis.
+8513 All radicular groups, paralysis.
+8514 Musculospiral nerve (radial), paralysis.
+8515 Median nerve, paralysis.
+8516 Ulnar nerve, paralysis.
+8517 Musculocutaneous nerve, paralysis.
+8518 Circumflex nerve, paralysis.
+8519 Long thoracic nerve, paralysis.
+8520 Sciatic nerve, paralysis.
+8521 External popliteal nerve (common peroneal), paralysis.
+8522 Musculocutaneous nerve (superficial peroneal), paralysis.
+8523 Anterior tibial nerve (deep peroneal), paralysis.
+8524 Internal popliteal nerve (tibial), paralysis.
+8525 Posterior tibial nerve, paralysis.
+8526 Anterior crural nerve (femoral), paralysis.
+8527 Internal saphenous nerve, paralysis.
+8528 Obturator nerve, paralysis.
+8529 External cutaneous nerve of thigh, paralysis.
+8530 Ilio-inguinal nerve, paralysis.
+8540 Soft-tissue sarcoma (Neurogenic origin).
+8610 Neuritis, upper radicular group.
+8611 Neuritis, middle radicular group.
+8612 Neuritis, lower radicular group.
+8613 Neuritis, all radicular group.
+8614 Neuritis, musculospiral (radial) nerve.
+8615 Neuritis, median nerve.
+8616 Neuritis, ulnar nerve.
+8617 Neuritis, musculocutaneous nerve.
+8618 Neuritis, circumflex nerve.
+8619 Neuritis, long thoracic nerve.
+8620 Neuritis, sciatic nerve.
+8621 Neuritis, external popliteal (common peroneal) nerve.
+8622 Neuritis, musculocutaneous (superficial peroneal) nerve.
+8623 Neuritis, anterior tibial (deep peroneal) nerve.
+8624 Neuritis, internal popliteal (tibial) nerve.
+8625 Neuritis, posterior tibial nerve.
+8626 Neuritis, anterior crural (femoral) nerve.
+8627 Neuritis, internal saphenous nerve.
+8628 Neuritis, obturator nerve.
+8629 Neuritis, external cutaneous nerve of thigh.
+8630 Neuritis, ilio-inguinal nerve.
+8710 Neuralgia, upper radicular group.
+8711 Neuralgia, middle radicular group.
+8712 Neuralgia, lower radicular group.
+8713 Neuralgia, all radicular groups.
+8714 Neuralgia, musculospiral nerve (radial).
+8715 Neuralgia, median nerve.
+8716 Neuralgia, ulnar nerve.
+8717 Neuralgia, musculocutaneous nerve.
+8718 Neuralgia, circumflex nerve.
+8719 Neuralgia, long thoracic nerve.
+8720 Neuralgia, sciatic nerve.
+8721 Neuralgia, external popliteal nerve (common peroneal).
+8722 Neuralgia, musculocutaneous nerve (superficial peroneal).
+8723 Neuralgia, anterior tibial nerve (deep peroneal).
+8724 Neuralgia, internal popliteal nerve (tibial).
+8725 Neuralgia, posterior tibial nerve.
+8726 Neuralgia, anterior crural nerve (femoral).
+8727 Neuralgia, internal saphenous nerve.
+8728 Neuralgia, obturator nerve.
+8729 Neuralgia, external cutaneous nerve of thigh.
+8730 Neuralgia, ilio-inguinal nerve.
+The Epilepsies
+8910 Grand mal.
+8911 Petit mal.
+8912 Jacksonian and focal motor or sensory.
+8913 Diencephalic.
+8914 Psychomotor.
+Mental Disorders
+9201 Schizophrenia.
+9208 Delusional disorder.
+9210 Other specified and unspecified schizophrenia spectrum and other psychotic disorders.
+9211 Schizoaffective Disorder.
+9300 Delirium.
+9301 Major or mild neurocognitive disorder due to HIV or other infections.
+9304 Major or mild neurocognitive disorder due to traumatic brain injury.
+9305 Major or mild vascular neurocognitive disorder.
+9310 Unspecified neurocognitive disorder.
+9312 Major or mild neurocognitive disorder due to Alzheimer's disease.
+9326 Major or mild neurocognitive disorder due to another medical condition or substance/medication-induced major or mild neurocognitive disorder.
+9400 Generalized anxiety disorder.
+9403 Specific phobia; social anxiety disorder (social phobia).
+9404 Obsessive compulsive disorder.
+9410 Other specified anxiety disorder.
+9411 Posttraumatic stress disorder.
+9412 Panic disorder and/or agoraphobia.
+9413 Unspecified anxiety disorder.
+9416 Dissociative amnesia; dissociative identity disorder.
+9417 Depersonalization/derealization disorder.
+9421 Somatic symptom disorder.
+9422 Other specified somatic symptom and related disorder.
+9423 Unspecified somatic symptom and related disorder.
+9424 Conversion disorder (functional neurological symptom disorder).
+9425 Illness anxiety disorder.
+9431 Cyclothymic disorder.
+9432 Bipolar disorder.
+9433 Persistent depressive disorder (dysthymia).
+9434 Major depressive disorder.
+9435 Unspecified depressive disorder.
+9440 Chronic adjustment disorder.
+9520 Anorexia nervosa.
+9521 Bulimia nervosa.
+DENTAL AND ORAL CONDITIONS
+9900 Maxilla or mandible, chronic osteomyelitis, osteonecrosis, or osteoradionecrosis of.
+9901 Mandible, loss of, complete.
+9902 Mandible loss of, including ramus, unilaterally or bilaterally.
+9903 Mandible, nonunion of, confirmed by diagnostic imaging studies.
+9904 Mandible, malunion.
+9905 Temporomandibular disorder (TMD).
+9908 Condyloid process.
+9909 Coronoid process.
+9911 Hard palate, loss of.
+9913 Teeth, loss of.
+9914 Maxilla, loss of more than half.
+9915 Maxilla, loss of half or less.
+9916 Maxilla, malunion or nonunion of.
+9917 Neoplasm, hard and soft tissue, benign.
+9918 Neoplasm, hard and soft tissue, malignant.
+[72 FR 12990, Mar. 20, 2007, as amended at 73 FR 54708, 54711, Sept. 23, 2008; 74 FR 18467, Apr. 23, 2009; 77 FR 6467, Feb. 8, 2012; 79 FR 45102, Aug. 4, 2014; 82 FR 36085,
+Aug. 3, 2017; 82 FR 50807, Nov. 2, 2017; 83 FR 15073, Apr. 9, 2018; 83 FR 15323, Apr. 10, 2018; 83 FR 32600, July 13, 2018; 83 FR 54258, Oct. 29, 2018; 84 FR 28234, June 18,
+2019]
+Appendix C to Part 4—Alphabetical Index of Disabilities
+Diagnostic
+code No.
+Abscess:
+Brain 8020
+Kidney 7501
+Lung 6824
+Acne 7828
+Acromegaly 7908
+Actinomycosis 6822
+Addison's disease 7911
+Agranulocytosis, acquired 7702
+AL amyloidosis 7717
+Alopecia areata 7831
+Amebiasis 7321
+Amputation:
+Arm:
+Disarticulation 5120
+Above insertion of deltoid 5121
+Below insertion of deltoid 5122
+Digits, five of one hand 5126
+Digits, four of one hand:
+Thumb, index, long and ring 5127
+Thumb, index, long and little 5128
+Thumb, index, ring and little 5129
+Thumb, long, ring and little 5130
+Index, long, ring and little 5131
+Digits, three of one hand:
+Thumb, index and long 5132
+Thumb, index and ring 5133
+Thumb, index and little 5134
+Thumb, long and ring 5135
+Thumb, long and little 5136
+Thumb, ring and little 5137
+Index, long and ring 5138
+Index, long and little 5139
+Index, ring and little 5140
+Long, ring and little 5141
+Digits, two of one hand:
+Thumb and index 5142
+Thumb and long 5143
+Thumb and ring 5144
+Thumb and little 5145
+Index and long 5146
+Index and ring 5147
+Index and little 5148
+Long and ring 5149
+Long and little 5150
+Ring and little 5151
+Single finger:
+Thumb 5152
+Index finger 5153
+Long finger 5154
+Ring finger 5155
+Little finger 5156
+Forearm:
+Above insertion of pronator teres 5123
+Below insertion of pronator teres 5124
+Leg:
+With defective stump 5163
+Not improvable by prosthesis controlled by natural knee action 5164
+At a lower level, permitting prosthesis 5165
+Forefoot, proximal to metatarsal bones 5166
+Toes, all, without metatarsal loss 5170
+Toe, great 5171
+Toes, other than great, with removal of metatarsal head 5172
+Toes, three or more, without metatarsal involvement 5173
+Thigh:
+Disarticulation 5160
+Upper third 5161
+Middle or lower thirds 5162
+Amyotrophic lateral sclerosis 8017
+Anatomical loss of:
+Both eyes 6061
+One eye, with visual acuity of other eye:
+5/200 (1.5/60) 6063
+10/200 (3/60); 15/200 (4.5/60); 20/200 (6/60) 6064
+20/100 (6/30); 20/70 (6/21); 20/50 (6/15) 6065
+20/40 (6/12) 6066
+Both feet 5107
+Both hands 5106
+One hand and one foot 5108
+One foot and loss of use of one hand 5105
+One hand and loss of use of one foot 5104
+Anemia:
+Acquired hemolytic anemia 7723
+Folic acid deficiency 7721
+Iron deficiency anemia 7720
+Pernicious anemia and Vitamin B12 deficiency anemia 7722
+Aneurysm:
+Aortic 7110
+Large artery 7111
+Small artery 7112
+Angioneurotic edema 7118
+Ankylosis:
+Ankle 5270
+Digits, individual:
+Thumb 5224
+Index finger 5225
+Long finger 5226
+Ring or little finger 5227
+Elbow 5205
+Hand
+Favorable:
+Five digits of one hand 5220
+Four digits of one hand 5221
+Three digits of one hand 5222
+Two digits of one hand 5223
+Unfavorable:
+Five digits of one hand 5216
+Four digits of one hand 5217
+Three digits of one hand 5218
+Two digits of one hand 5219
+Hip 5250
+Knee 5256
+Scapulohumeral articulation 5200
+Subastragalar or tarsal joint 5272
+Wrist 5214
+Ankylosing spondylitis 5240
+Aphakia 6029
+Aphonia, organic 6519
+Aplastic anemia 7716
+Arrhythmia:
+Supraventricular 7010
+Ventricular 7011
+Arteriosclerosis obliterans 7114
+Arteriosclerotic heart disease 7005
+Arteriovenous fistula 7113
+Arthritis:
+Degenerative (hypertrophic or osteoarthritis) 5003
+Due to trauma 5010
+Gonorrheal 5004
+Other types 5009
+Pneumococcic 5005
+Rheumatoid (atrophic) 5002
+Streptococcic 5008
+Syphilitic 5007
+Typhoid 5006
+Asbestosis 6833
+Aspergillosis 6838
+Asthma, bronchial 6602
+Astragalectomy 5274
+Atherosclerotic renal disease 7534
+Athetosis 8107
+Atrioventricular block 7015
+Avitaminosis 6313
+Bartonellosis 6306
+Beriberi 6314
+Bladder:
+Calculus in 7515
+Fistula in 7516
+Injury of 7517
+Neurogenic 7542
+Blastomycosis 6836
+Blindness: see also Vision and Anatomical Loss
+Both eyes, only light perception 6062
+One eye, only light perception and other eye:
+5/200 (1.5/60) 6067
+10/200 (3/60); 15/200 (4.5/60); 20/200 (6/60) 6068
+20/100 (6/30); 20/70 (6/21); 20/50 (6/15) 6069
+20/40 (6/12) 6070
+Bones:
+Caisson disease 5011
+New growths, benign 5015
+New growths, malignant 5012
+Shortening of the lower extremity 5275
+Brain:
+Abscess 8020
+Breast surgery 7626
+Bronchiectasis 6601
+Bronchitis 6600
+Brucellosis 6316
+Buerger's disease 7115
+Bulbar palsy 8005
+Bullous disorders 7815
+Bursitis 5019
+Campylobacter jejuni infection 6330
+Cardiac:
+Pacemakers, implantable 7018
+Transplantation 7019
+Cardiomyopathy 7020
+C-cell hyperplasia, thyroid 7919
+Cataract:
+Senile and others 6028
+Traumatic 6027
+Cerebral arteriosclerosis 8046
+Cervical strain 5237
+Cervix disease or injury 7612
+Chorea:
+Huntington's 8106
+Sydenham's 8105
+Chloracne 7829
+Cholangitis, chronic 7316
+Cholecystitis, chronic 7314
+Cholelithiasis, chronic 7315
+Choroiditis 6005
+Chronic Fatigue Syndrome (CFS) 6354
+Chronic lung abscess 6824
+Chronic obstructive pulmonary disease 6604
+Coccidioidomycosis 6835
+Cold injury residuals 7122
+Colitis, ulcerative 7323
+Complete or incomplete pelvic organ prolapse due to injury or disease or surgical complications of pregnancy, including uterine or vaginal vault prolapse, cystocele,
+urethrocele, rectocele, enterocele, or combination
+7621
+Conjunctivitis:
+Trachomatous 6017
+Other 6018
+Coronary bypass surgery 7017
+Coxiella burnetii infection (Q Fever) 6331
+Cryptococcosis 6837
+Cushing's syndrome 7907
+Cutaneous manifestations of collagen-vascular diseases not listed elsewhere 7821
+Cyclitis 6004
+Cystitis, chronic 7512
+Dacryocystitis 6031
+Dermatitis or eczema 7806
+Dermatophytosis 7813
+Desquamative interstitial pneumonitis 6826
+Diabetes:
+Insipidus 7909
+Mellitus 7913
+Diaphragm:
+Paralysis or paresis 6840
+Rupture 5324
+Diplopia 6090
+Diplopia, limited muscle function, eye 6092
+Disease:
+Addison's 7911
+Buerger's 7115
+Chronic obstructive pulmonary disease 6604
+Hodgkin's 7709
+Leprosy (Hansen's) 6302
+Lyme 6319
+Morton's 5279
+Parasitic 6320
+Disfigurement of, head, face or neck 7800
+Dislocated:
+Cartilage, semilunar 5258
+Lens, crystalline 6033
+Disseminated intravascular coagulation 7540
+Distomiasis, intestinal or hepatic 7324
+Diverticulitis 7327
+Dysentery, bacillary 7322
+Ectropion 6020
+Embolism, brain 8007
+Emphysema, pulmonary 6603
+Encephalitis, epidemic, chronic 8000
+Endocarditis 7001
+Endometriosis 7629
+Enteritis, chronic 7325
+Enterocolitis, chronic 7326
+Entropion 6021
+Eosinophilic granuloma of lung 6828
+Epididymo-orchitis 7525
+Epilepsies:
+Diencephalic 8913
+Grand mal 8910
+Jacksonian and focal motor or sensory 8912
+Petit mal 8911
+Psychomotor 8914
+Epiphora 6025
+Erythema multiforme 7827
+Erythroderma 7817
+Erythromelalgia 7119
+Esophagus:
+Diverticulum 7205
+Spasm 7204
+Stricture 7203
+Fallopian tube 7614
+Female sexual arousal disorder (FSAD) 7632
+Fever:
+Relapsing 6308
+Rheumatic 6309
+Fibrosis of lung, diffuse interstitial 6825
+Fibromyalgia 5025
+Fistula in ano 7335
+Fistula:
+Rectovaginal 7624
+Urethrovaginal 7625
+Flatfoot, acquired 5276
+Gastritis, hypertrophic 7307
+Genu recurvatum 5263
+Glaucoma:
+Congestive or inflammatory 6012
+Simple, primary, noncongestive 6013
+Glomerulonephritis 7536
+Gout 5017
+Graves' disease 7900
+Hallux:
+Rigidus 5281
+Valgus 5280
+Hammer toe 5282
+Heart valve replacement 7016
+Hematologic:
+Essential thrombocythemia and primary myelofibrosis 7718
+Immune thrombocytopenia 7705
+Multiple myeloma 7712
+Myelodysplastic syndromes 7725
+Solitary plasmacytoma 7724
+Hematomyelia 8012
+Hemorrhage:
+Brain 8009
+Intra-ocular 6007
+Hemorrhagic fevers, including dengue, yellow fever, and others 6329
+Hemorrhoids 7336
+Hepatitis C 7354
+Hernia:
+Femoral 7340
+Hiatal 7346
+Inguinal 7338
+Muscle 5326
+Ventral 7339
+Hip:
+Degenerative arthritis 5242
+Flail joint 5254
+Histoplasmosis 6834
+HIV-Related Illness 6351
+Hodgkin's disease 7709
+Hodgkin's lymphoma 7709
+Hydrarthrosis, intermittent 5018
+Hydronephrosis 7509
+Hyperaldosteronism 7917
+Hyperhidrosis 7832
+Hyperinfection syndrome or disseminated strongyloidiasis 6325
+Hyperparathyroidism 7904
+Hyperpituitarism 7916
+Hypersensitivity 6831
+Hypertensive:
+Heart disease 7007
+Vascular disease 7101
+Hyperthyroid heart disease 7008
+Hyperthyroidism 7900
+Hypoparathyroidism 7905
+Hypothyroidism 7903
+Impairment of:
+Humerus 5202
+Clavicle or scapula 5203
+Elbow 5209
+Thigh 5253
+Femur 5255
+Knee, other 5257
+Field vision 6080
+Tibia and fibula 5262
+Rectum & anus 7332
+Ulna 5211
+Implantable cardiac pacemakers 7018
+Infections of the skin 7820
+Injury:
+Bladder 7517
+Breast 7631
+Eye, unhealed 6009
+Foot 5284
+Gall bladder 7317
+Lips 7201
+Liver, residuals 7311
+Mouth 7200
+Muscle:
+Facial 5325
+Group I Function: Upward rotation of scapula 5301
+Group II Function: Depression of arm 5302
+Group III Function: Elevation and abduction of arm 5303
+Group IV Function: Stabilization of shoulder 5304
+Group V Function: Elbow supination 5305
+Group VI Function: Extension of elbow 5306
+Group VII Function: Flexion of wrist and fingers 5307
+Group VIII Function: Extension of wrist, fingers, thumb 5308
+Group IX Function: Forearm muscles 5309
+Group X Function: Movement of forefoot and toes 5310
+Group XI Function: Propulsion of foot 5311
+Group XII Function: Dorsiflexion 5312
+Group XIII Function: Extension of hip and flexion of knee 5313
+Group XIV Function: Extension of knee 5314
+Group XV Function: Adduction of hip 5315
+Group XVI Function: Flexion of hip 5316
+Group XVII Function: Extension of hip 5317
+Group XVIII Function: Outward rotation of thigh 5318
+Group XIX Function: Abdominal wall and lower thorax 5319
+Group XX Function: Postural support of body 5320
+Group XXI Function: Respiration 5321
+Group XXII Function: Rotary and forward movements, head 5322
+Group XXIII Function: Movements of head 5323
+Pharynx 6521
+Sacroiliac 5236
+Spinal cord 6841
+Stomach, residuals of 7310
+Iritis 6003
+Interstitial nephritis 7537
+Intervertebral disc syndrome 5243
+Intestine, fistula of 7330
+Irritable colon syndrome 7319
+Keratinization, diseases of 7824
+Keratitis 6001
+Keratoconus 6035
+Kidney:
+Abscess 7501
+Cystic diseases 7533
+Removal 7500
+Transplant 7531
+Tuberculosis 7505
+Kyphoscoliosis, pectus excavatum / carinatum 6842
+Lagophthalmos 6022
+Laryngectomy 6518
+Laryngitis:
+Tuberculous 6515
+Chronic 6516
+Larynx, stenosis of 6520
+Leishmaniasis:
+American (New World) 7807
+Old World 7808
+Leprosy (Hansen's Disease) 6302
+Leukemia:
+Chronic myelogenous leukemia (CML) (chronic myeloid leukemia or chronic granulocytic leukemia) 7719
+Leukemia 7703
+Limitation of extension:
+Forearm 5207
+Leg 5261
+Radius 5212
+Supination and pronation 5213
+Thigh 5251
+Limitation of extension and flexion:
+Forearm 5208
+Limitation of flexion:
+Forearm 5206
+Leg 5260
+Thigh 5252
+Limitation of motion:
+Ankle 5271
+Arm 5201
+Index or long finger 5229
+Ring or little finger 5230
+Temporomandibular 9905
+Thumb 5228
+Wrist, limitation of motion 5215
+Liver:
+Disease, chronic, without cirrhosis 7345
+Transplant 7351
+Cirrhosis 7312
+Loss of:
+Auricle 6207
+Condyloid process 9908
+Coronoid process 9909
+Eyebrows 6023
+Eyelashes 6024
+Eyelids 6032
+Palate, hard 9911
+Mandible:
+Including ramus, unilaterally or bilaterally 9902
+Maxilla:
+More than half 9914
+Less than half 9915
+Nose, part of, or scars 6504
+Skull, part of 5296
+Smell, sense of 6275
+Taste, sense of 6276
+Teeth, loss of 9913
+Tongue, loss of whole or part 7202
+Loss of use of:
+Both feet 5110
+Both hands 5109
+Foot 5167
+Hand 5125
+One hand and one foot 5111
+Lumbosacral strain 5237
+Lupus:
+Erythematosus 6350
+Erythematosus, discoid 7809
+Lyme disease 6319
+Lymphatic filariasis, to include elephantiasis 6305
+Malaria 6304
+Malignant melanoma 7833
+Malunion:
+Mandible 9904
+Os calcis or astragalus 5273
+Maxilla, malunion or nonunion 9916
+Maxilla or mandible, chronic osteomyelitis, osteonecrosis, or osteoradionecrosis of 9900
+Melioidosis 6318
+Meniere's syndrome 6205
+Meningitis, cerebrospinal, epidemic 8019
+Mental disorders:
+Anorexia nervosa 9520
+Bipolar disorder 9432
+Bulimia nervosa 9521
+Chronic adjustment disorder 9440
+Conversion disorder (functional neurological symptom disorder). 9424
+Cyclothymic disorder 9431
+Delirium 9300
+Delusional disorder 9208
+Depersonalization/derealization disorder 9417
+Dissociative amnesia; dissociative identity disorder 9416
+Generalized anxiety disorder 9400
+Illness anxiety disorder 9425
+Major depressive disorder 9434
+Major or mild neurocognitive disorder due to Alzheimer's disease 9312
+Major or mild neurocognitive disorder due to another medical condition or substance/medication-induced major or mild neurocognitive disorder 9326
+Major or mild neurocognitive disorder due to HIV or other infections 9301
+Major or mild neurocognitive disorder due to traumatic brain injury 9304
+Major or mild vascular neurocognitive disorder 9305
+Obsessive compulsive disorder 9404
+Other specified and unspecified schizophrenia spectrum and other psychotic disorders 9210
+Other specified anxiety disorder 9410
+Other specified somatic symptom and related disorder 9422
+Panic disorder and/or agoraphobia 9412
+Persistent depressive disorder (dysthymia) 9433
+Posttraumatic stress disorder 9411
+Schizoaffective disorder 9211
+Schizophrenia 9201
+Somatic symptom disorder 9421
+Specific phobia; social anxiety disorder (social phobia) 9403
+Unspecified somatic symptom and related disorder 9423
+Unspecified anxiety disorder 9413
+Unspecified depressive disorder 9435
+Unspecified neurocognitive disorder 9310
+Metatarsalgia 5279
+Migraine 8100
+Morton's disease 5279
+Mucormycosis 6839
+Multiple sclerosis 8018
+Myasthenia gravis 8025
+Myelitis 8010
+Myocardial infarction 7006
+Myositis ossificans 5023
+Myositis 5021
+Narcolepsy 8108
+Neoplasms:
+Benign:
+Breast 7631
+Digestive system 7344
+Ear 6209
+Endocrine 7915
+Genitourinary 7529
+Gynecological 7628
+Hard and soft tissue 9917
+Muscle 5328
+Respiratory 6820
+Skin 7819
+Malignant:
+Breast 7630
+Digestive system 7343
+Ear 6208
+Endocrine 7914
+Genitourinary 7528
+Gynecological 7627
+Hard and soft tissue 9918
+Muscle 5327
+Respiratory 6819
+Skin 7818
+Nephritis, chronic 7502
+Nephrolithiasis 7508
+Nephrosclerosis, arteriolar 7507
+Neuralgia:
+Cranial Nerves
+Fifth (trigeminal) 8405
+Seventh (facial) 8407
+Ninth (glossopharyngeal) 8409
+Tenth (pneumogastric, vagus) 8410
+Eleventh (spinal accessory, external branch) 8411
+Twelfth (hypoglossal) 8412
+Peripheral Nerves
+Upper radicular group 8710
+Middle radicular group 8711
+Lower radicular group 8712
+All radicular groups 8713
+Musculospiral (radial) 8714
+Median 8715
+Ulnar 8716
+Musculocutaneous 8717
+Circumflex 8718
+Long thoracic 8719
+Sciatic 8720
+External popliteal (common peroneal) 8721
+Musculocutaneous (superficial peroneal) 8722
+Anterior tibial (deep peroneal) 8723
+Internal popliteal (tibial) 8724
+Posterior tibial 8725
+Anterior crural (femoral) 8726
+Internal saphenous 8727
+Obturator 8728
+External cutaneous nerve of thigh 8729
+Ilio-inguinal 8730
+Neuritis:
+Cranial nerves
+Fifth (trigeminal) 8305
+Seventh (facial) 8307
+Ninth (glossopharyngeal) 8309
+Tenth (pneumogastric, vagus) 8310
+Eleventh (spinal accessory, external branch) 8311
+Twelfth (hypoglossal) 8312
+Optic 6026
+Peripheral Nerves
+Upper radicular group 8610
+Middle radicular group 8611
+Lower radicular group 8612
+All radicular groups 8613
+Musculospiral (radial) 8614
+Median 8615
+Ulnar 8616
+Musculocutaneous 8617
+Circumflex 8618
+Long thoracic 8619
+Sciatic 8620
+External popliteal (common peroneal) 8621
+Musculocutaneous (superficial peroneal) 8622
+Anterior tibial (deep peroneal) 8623
+Internal popliteal (tibial) 8624
+Posterior tibial 8625
+Anterior crural (femoral) 8626
+Internal saphenous 8627
+Obturator 8628
+External cutaneous nerve of thigh 8629
+Ilio-inguinal 8630
+Neurogenic bladder 7542
+New growths:
+Benign
+Bones 5015
+Brain 8003
+Eye, orbit, and adnexa 6015
+Spinal cord 8022
+Malignant
+Bones 5012
+Brain 8002
+Eye, orbit, and adnexa 6014
+Spinal cord 8021
+Nocardiosis 6823
+Non-Hodgkin's lymphoma 7715
+Nontuberculosis mycobacterium infection 6312
+Nontyphoid salmonella infection 6333
+Nonunion:
+Mandible, confirmed by diagnostic imaging studies 9903
+Radius and ulna 5210
+Nystagmus, central 6016
+Osteitis deformans 5016
+Osteomalacia 5014
+Osteomyelitis 5000
+Osteoporosis, with joint manifestations 5013
+Otitis media:
+Externa 6210
+Nonsuppurative 6201
+Suppurative 6200
+Otosclerosis 6202
+Ovaries, atrophy of both 7620
+Ovary:
+Disease or injury 7615
+Removal 7619
+Palsy, bulbar 8005
+Pancreatitis 7347
+Papillary necrosis 7538
+Papulosquamous disorders 7822
+Paralysis:
+Accommodation 6030
+Agitans 8004
+Paralysis, nerve:
+Cranial nerves
+Fifth (trigeminal) 8205
+Seventh (facial) 8207
+Ninth (glossopharyngeal) 8209
+Tenth (pneumogastric, vagus) 8210
+Eleventh (spinal accessory, external branch) 8211
+Twelfth (hypoglossal) 8212
+Peripheral Nerves:
+Upper radicular group 8510
+Middle radicular group 8511
+Lower radicular group 8512
+All radicular groups 8513
+Musculospiral (radial) 8514
+Median 8515
+Ulnar 8516
+Musculocutaneous 8517
+Circumflex 8518
+Long thoracic 8519
+Sciatic 8520
+External popliteal (common peroneal) 8521
+Musculocutaneous (superficial peroneal) 8522
+Anterior tibial nerve (deep peroneal) 8523
+Internal popliteal (tibial) 8524
+Posterior tibial nerve 8525
+Anterior crural nerve (femoral) 8526
+Internal saphenous 8527
+Obturator 8528
+External cutaneous nerve of thigh 8529
+Ilio-inguinal 8530
+Paramyoclonus multiplex 8104
+Parasitic disease 6320
+Pellagra 6315
+Penis
+Deformity, with loss of erectile power 7522
+Removal of glans 7521
+Removal of half or more 7520
+Pericardial adhesions 7003
+Pericarditis 7002
+Periostitis 5022
+Peripheral vestibular disorders 6204
+Peritoneum, adhesions 7301
+Peritonitis 7331
+Pes cavus (Claw foot) acquired 5278
+Pheochromocytoma 7918
+Plague 6307
+Pleural effusion or fibrosis 6845
+Pluriglandular syndrome 7912
+Pneumoconiosis 6832
+Pneumonitis & fibrosis:
+Drug-induced 6829
+Radiation-induced 6830
+Poliomyelitis, anterior 8011
+Polycythemia vera 7704
+Polyglandular syndrome 7912
+Post-chiasmal disorders 6046
+Postgastrectomy syndromes 7308
+Post-phlebitic syndrome 7121
+Post-surgical residual 6844
+Progressive muscular atrophy 8023
+Prostate gland 7527
+Prosthetic Implants:
+Ankle replacement 5056
+Elbow replacement 5052
+Hip replacement 5054
+Knee replacement 5055
+Shoulder replacement 5051
+Wrist replacement 5053
+Psoriasis 7816
+Pterygium 6034
+Ptosis 6019
+Pulmonary:
+Alveolar proteinosis 6827
+Vascular disease 6817
+Pruritus ani 7337
+Pyelonephritis, chronic 7504
+Raynaud's syndrome 7117
+Rectum:
+Rectum & anus, stricture 7333
+Prolapse 7334
+Removal:
+Cartilage, semilunar 5259
+Coccyx 5298
+Gall bladder 7318
+Kidney 7500
+Penis glans 7521
+Penis half or more 7520
+Ribs 5297
+Testis 7524
+Ovary 7619
+Uterus 7618
+Uterus and both ovaries 7617
+Renal:
+Amyloid disease 7539
+Disease, chronic 7530
+Involvement in systemic diseases 7541
+Tubular disorders 7532
+Resection of intestine:
+Large 7329
+Small 7328
+Retina detachment of 6008
+Retinal dystrophy (including retinitis pigmentosa, wet or dry macular degeneration, early-onset macular degeneration, rod and/or cone dystrophy) 6042
+Retinopathy, diabetic 6040
+Retinopathy or maculopathy not otherwise specified 6006
+Rhinitis:
+Allergic or vasomotor 6522
+Bacterial 6523
+Granulomatous 6524
+Rickettsial, ehrlichia, and anaplasma Infections 6317
+Sarcoidosis 6846
+Scarring alopecia 7830
+Scars:
+Burn scar(s) of the head, face, or neck; scar(s) of the head, face, or neck due to other causes; or other disfigurement of the head, face, or neck 7800
+Burn scar(s) or scar(s) due to other causes, not of the head, face, or neck that are associated with underlying soft tissue damage 7801
+Burn scar(s) or scar(s) due to other causes, not of the head, face, or neck that are not associated with underlying soft tissue damage 7802
+Retina 6011
+Scars, other; and other effects of scars evaluated under diagnostic codes 7800, 7801, 7802, or 7804 7805
+Unstable or painful 7804
+Schistosomiasis 6326
+Shigella infections 6334
+Sinusitis:
+Ethmoid 6511
+Frontal 6512
+Maxillary 6513
+Pansinusitis 6510
+Sphenoid 6514
+Sleep Apnea Syndrome 6847
+Soft tissue sarcoma:
+Muscle, fat, or fibrous connected 5329
+Neurogenic origin 8540
+Vascular origin 7123
+Spinal fusion 5241
+Spinal stenosis 5238
+Spleen, injury of, healed 7707
+Splenectomy 7706
+Spondylolisthesis or segmental instability, spine 5239
+Stomach, stenosis of 7309
+Symblepharon 6091
+Syndromes:
+Chronic Fatigue Syndrome (CFS) 6354
+Cushing's 7907
+Meniere's 6205
+Raynaud's 7117
+Sleep Apnea 6847
+Synovitis 5020
+Syphilis 6310
+Syphilis:
+Cerebrospinal 8013
+Meningovascular 8014
+Syphilitic heart disease 7004
+Syringomyelia 8024
+Tabes dorsalis 8015
+Tarsal or metatarsal bones 5283
+Tenosynovitis 5024
+Testis:
+Atrophy, complete 7523
+Removal 7524
+Thrombocytopenia 7705
+Thrombosis, brain 8008
+Thyroid gland:
+Nontoxic thyroid enlargement 7902
+Toxic thyroid enlargement 7901
+Thyroiditis 7906
+Tic, convulsive 8103
+Tinnitus, recurrent 6260
+Toxic nephropathy 7535
+Traumatic brain injury residuals 8045
+Traumatic chest wall defect 6843
+Tuberculosis:
+Adenitis 7710
+Bones and joints 5001
+Eye 6010
+Kidney 7505
+Luposa (lupus vulgaris) 7811
+Miliary 6311
+Pleurisy, active or inactive 6732
+Pulmonary:
+Active, far advanced 6701
+Active, moderately advanced 6702
+Active, minimal 6703
+Active, advancement unspecified 6704
+Active, chronic 6730
+Inactive, chronic 6731
+Inactive, far advanced 6721
+Inactive, moderately advanced 6722
+Inactive, minimal 6723
+Inactive, advancement unspecified 6724
+Tuberculosis luposa (lupus vulgaris) 7811
+Tympanic membrane 6211
+Ulcer:
+Duodenal 7305
+Gastric 7304
+Marginal 7306
+Ureter, stricture of 7511
+Ureterolithiasis 7510
+Urethra
+Fistula 7519
+Stricture 7518
+Urticaria, chronic. 7825
+Uterus:
+And both ovaries, removal 7617
+Disease or injury 7613
+Prolapse 7621
+Removal 7618
+Uveitis 6000
+Vagina, disease or injury 7611
+Vagotomy 7348
+Valvular heart disease 7000
+Varicose veins 7120
+Vasculitis, primary cutaneous 7826
+Vertebral fracture or dislocation 5235
+Vibriosis (Cholera, Non-cholera) 6300
+Visceral Leishmaniasis 6301
+Visceroptosis 7342
+Vision: see also Blindness and Loss of
+One eye 5/200 (1.5/60), with visual acuity of other eye:
+5/200 (1.5/60) 6071
+10/200 (3/60); 15/200 (4.5/60); 20/200 (6/60) 6072
+20/100 (6/30); 20/70 (6/21); 20/50 (6/15) 6073
+20/40 (6/12) 6074
+One eye 10/200 (3/60), with visual acuity of other eye:
+10/200 (3/60); 15/200 (4.5/60); 20/200 (6/60) 6075
+20/100 (6/30); 20/70 (6/21); 20/50 (6/15) 6076
+20/40 (6/12) 6077
+One eye 15/200 (4.5/60), with visual acuity of other eye:
+15/200 (4.5/60) or 20/200 (6/60) 6075
+20/100 (6/30); 20/70 (6/21); 20/50 (6/15) 6076
+20/40 (6/12) 6077
+One eye 20/200 (6/60), with visual acuity of other eye:
+20/200 (6/60) 6075
+20/100 (6/30); 20/70 (6/21); 20/50 (6/15) 6076
+20/40 (6/12) 6077
+One eye 20/100 (6/30), with visual acuity of other eye: and other eye:
+20/100 (6/30); 20/70 (6/21); 20/50 (6/15) 6078
+20/40 (6/12) 6079
+One eye 20/70 (6/21), with visual acuity of other eye:
+20/70 (6/21) or 20/50 (6/15) 6078
+20/40 (6/12) 6079
+One eye 20/50 (6/15), with visual acuity of other eye:
+20/50 (6/15) 6078
+20/40 (6/12) 6079
+Each eye 20/40 (6/12) 6079
+Vitiligo 7823
+Vulva or clitoris, disease or injury of 7610
+Weak foot 5277
+West Nile virus infection 6335

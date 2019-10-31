@@ -1,0 +1,1 @@
+{"Id": 6, "BeginOffset": 149, "EndOffset": 166, "Score": 0.9804033041000366, "Text": "sleep disturbance", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SYMPTOM", "Score": 0.9491482973098755}, {"Name": "NEGATION", "Score": 0.761981189250946}]}

@@ -1,0 +1,1 @@
+{"Id": 11, "BeginOffset": 621, "EndOffset": 642, "Score": 0.9211946725845337, "Text": "loss of grip strength", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SIGN", "Score": 0.7623973488807678}, {"Name": "SYMPTOM", "Score": 0.471427857875824}]}

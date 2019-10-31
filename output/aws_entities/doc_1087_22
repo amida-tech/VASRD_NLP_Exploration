@@ -1,0 +1,1 @@
+{"Id": 21, "BeginOffset": 1151, "EndOffset": 1171, "Score": 0.9210631847381592, "Text": "cognitive impairment", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "DIAGNOSIS", "Score": 0.8708438277244568}, {"Name": "NEGATION", "Score": 0.6357114315032959}]}

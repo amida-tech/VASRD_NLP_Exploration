@@ -1,0 +1,58 @@
+100 percent	PERCENT
+a Department of Veterans Affairs	ORG
+21 days	DATE
+Department of Veterans Affairs	ORG
+21 days	DATE
+the first day	DATE
+the last day of the month	DATE
+the last day of the month	DATE
+Department of Veterans Affairs	ORG
+1	CARDINAL
+4 days	DATE
+the first 21 days	DATE
+the first day
+	DATE
+4 days	DATE
+more than 8 days	DATE
+the first 21 days	DATE
+the ninth day	DATE
+2	CARDINAL
+21 days	DATE
+14 days	DATE
+third	ORDINAL
+14 days	DATE
+the last day of the month	DATE
+14 days	DATE
+third	ORDINAL
+14
+day	DATE
+21 days	DATE
+the first day	DATE
+the first day	DATE
+Department of Veterans Affairs	ORG
+1	CARDINAL
+2	DATE
+3 months	DATE
+1	CARDINAL
+2 or 3 months	DATE
+the initial 3 months	DATE
+the Veterans Service Center	ORG
+the Director, Compensation Service	ORG
+29	CARDINAL
+6718	DATE
+May 22, 1964	DATE
+41	CARDINAL
+Mar. 18, 1976	DATE
+41	CARDINAL
+34256, Aug. 13, 1976	DATE
+54	CARDINAL
+4281, Jan. 30, 1989	DATE
+54	CARDINAL
+34981	DATE
+Aug. 23, 1989	DATE
+71	CARDINAL
+28586	DATE
+May
+17, 2006	DATE
+79	CARDINAL
+2100, Jan. 13, 2014	DATE

@@ -1,0 +1,1 @@
+{"Id": 0, "BeginOffset": 21, "EndOffset": 33, "Score": 0.27452316880226135, "Text": "Dorsiflexion", "Category": "TEST_TREATMENT_PROCEDURE", "Type": "TEST_NAME", "Traits": [], "Attributes": [{"Type": "TEST_VALUE", "Score": 0.7343777418136597, "RelationshipScore": 0.9994199275970459, "Id": 1, "BeginOffset": 35, "EndOffset": 36, "Text": "1", "Traits": []}]}

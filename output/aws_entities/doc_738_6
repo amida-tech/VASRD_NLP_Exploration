@@ -1,0 +1,1 @@
+{"Id": 6, "BeginOffset": 97, "EndOffset": 107, "Score": 0.9840638637542725, "Text": "ulceration", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SIGN", "Score": 0.623092770576477}, {"Name": "NEGATION", "Score": 0.8573276400566101}]}

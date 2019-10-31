@@ -1,0 +1,1 @@
+{"Id": 5, "BeginOffset": 87, "EndOffset": 95, "Score": 0.9985525012016296, "Text": "numbness", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SYMPTOM", "Score": 0.9442049860954285}]}

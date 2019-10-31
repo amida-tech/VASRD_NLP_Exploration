@@ -1,0 +1,9 @@
+Note: Evaluate hearing impairment, and complications such as labyrinthitis, tinnitus, facial nerve paralysis, or bone loss of skull, separately.
+Note: Objective findings supporting the diagnosis of vestibular disequilibrium are required before a compensable evaluation can be assigned under this code.
+impairment or suppuration shall be separately rated and combined.
+Hearing impairment with attacks of vertigo and cerebellar gait occurring more than once weekly, with or without tinnitus 100
+Hearing impairment with attacks of vertigo and cerebellar gait occurring from one to four times a month, with or without tinnitus 60
+Hearing impairment with vertigo less than once a month, with or without tinnitus 30
+Note: Evaluate Meniere's syndrome either under these criteria or by separately evaluating vertigo (as a peripheral vestibular disorder), hearing impairment, and tinnitus,
+But do not combine an evaluation for hearing impairment, tinnitus, or vertigo with an evaluation under diagnostic
+Note (3): Do not evaluate objective tinnitus (in which the sound is audible to other people and has a definable cause that may or may not be pathologic) under this diagnostic

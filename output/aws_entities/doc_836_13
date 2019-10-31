@@ -1,0 +1,1 @@
+{"Id": 15, "BeginOffset": 224, "EndOffset": 236, "Score": 0.9268182516098022, "Text": "hepatomegaly", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SYMPTOM", "Score": 0.7872005105018616}, {"Name": "NEGATION", "Score": 0.9452778100967407}]}

@@ -1,0 +1,1 @@
+{"Id": 1, "BeginOffset": 8, "EndOffset": 20, "Score": 0.9382944107055664, "Text": "lung abscess", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "DIAGNOSIS", "Score": 0.9571981430053711}]}

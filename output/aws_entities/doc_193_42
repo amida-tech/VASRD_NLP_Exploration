@@ -1,0 +1,1 @@
+{"Id": 62, "BeginOffset": 2306, "EndOffset": 2317, "Score": 0.960587739944458, "Text": "dislocation", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "DIAGNOSIS", "Score": 0.5541405081748962}, {"Name": "NEGATION", "Score": 0.779280424118042}]}

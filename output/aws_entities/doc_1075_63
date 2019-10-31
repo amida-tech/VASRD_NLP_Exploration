@@ -1,0 +1,1 @@
+{"Id": 60, "BeginOffset": 2666, "EndOffset": 2688, "Score": 0.8954878449440002, "Text": "endocrine dysfunctions", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SYMPTOM", "Score": 0.47755199670791626}, {"Name": "DIAGNOSIS", "Score": 0.6746687293052673}]}

@@ -1,0 +1,1 @@
+{"Id": 4, "BeginOffset": 138, "EndOffset": 152, "Score": 0.7166686654090881, "Text": "muscle wasting", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SIGN", "Score": 0.4713118374347687}, {"Name": "DIAGNOSIS", "Score": 0.4017236828804016}]}

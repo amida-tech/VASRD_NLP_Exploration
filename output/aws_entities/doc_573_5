@@ -1,0 +1,1 @@
+{"Id": 1, "BeginOffset": 89, "EndOffset": 100, "Score": 0.399035781621933, "Text": "antibiotics", "Category": "MEDICATION", "Type": "GENERIC_NAME", "Traits": [], "Attributes": [{"Type": "FREQUENCY", "Score": 0.5070927739143372, "RelationshipScore": 0.9908995628356934, "Id": 2, "BeginOffset": 110, "EndOffset": 122, "Text": "twice a year", "Traits": []}]}

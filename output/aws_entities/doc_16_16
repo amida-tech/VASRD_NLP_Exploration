@@ -1,0 +1,1 @@
+{"Id": 13, "BeginOffset": 253, "EndOffset": 276, "Score": 0.9422574639320374, "Text": "Raynaud's-like symptoms", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SYMPTOM", "Score": 0.9178829789161682}, {"Name": "NEGATION", "Score": 0.8444612622261047}]}

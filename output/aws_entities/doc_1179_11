@@ -1,0 +1,1 @@
+{"Id": 4, "BeginOffset": 162, "EndOffset": 185, "Score": 0.7903658747673035, "Text": "muscle in sole can move", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SIGN", "Score": 0.9343400001525879}, {"Name": "NEGATION", "Score": 0.5902801752090454}]}

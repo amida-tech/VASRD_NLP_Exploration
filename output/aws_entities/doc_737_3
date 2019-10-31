@@ -1,0 +1,1 @@
+{"Id": 2, "BeginOffset": 29, "EndOffset": 34, "Score": 0.9856496453285217, "Text": "edema", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SYMPTOM", "Score": 0.44735148549079895}]}

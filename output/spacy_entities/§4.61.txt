@@ -1,0 +1,2 @@
+Heberden	GPE
+Haygarth	LOC

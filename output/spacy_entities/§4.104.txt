@@ -1,0 +1,447 @@
+2	CARDINAL
+One	CARDINAL
+3.5	CARDINAL
+METs	GPE
+angina	PERSON
+METs	GPE
+dyspnea	GPE
+angina	PERSON
+three months	DATE
+100	CARDINAL
+3 METs	QUANTITY
+dyspnea	GPE
+angina	PERSON
+less than 30 percent	PERCENT
+the past year	DATE
+dyspnea	GPE
+angina	PERSON
+30 to 50 percent	PERCENT
+7	CARDINAL
+dyspnea	GPE
+angina	PERSON
+echocardiogram	PERSON
+7	QUANTITY
+10	QUANTITY
+dyspnea	GPE
+angina	PERSON
+10	CARDINAL
+three months	DATE
+100	CARDINAL
+echocardiogram	PERSON
+Doppler echocardiogram	PERSON
+3 METs	QUANTITY
+dyspnea	GPE
+angina	PERSON
+less than 30 percent	PERCENT
+the past year	DATE
+dyspnea	GPE
+angina	PERSON
+30 to 50 percent	PERCENT
+7	CARDINAL
+dyspnea	GPE
+angina	PERSON
+echocardiogram	PERSON
+7	QUANTITY
+10	QUANTITY
+dyspnea	GPE
+angina	PERSON
+10	CARDINAL
+Pericarditis	NORP
+three months	DATE
+100	CARDINAL
+3 METs	QUANTITY
+dyspnea	GPE
+angina	PERSON
+less than 30 percent	PERCENT
+the past year	DATE
+dyspnea	GPE
+angina	PERSON
+30 to 50 percent	PERCENT
+7	CARDINAL
+dyspnea	GPE
+angina	PERSON
+echocardiogram	PERSON
+7	QUANTITY
+10	QUANTITY
+dyspnea	GPE
+angina	PERSON
+10	CARDINAL
+3 METs	QUANTITY
+dyspnea	GPE
+angina	PERSON
+less than 30 percent	PERCENT
+the past year	DATE
+dyspnea	GPE
+angina	PERSON
+30 to 50 percent	PERCENT
+7	CARDINAL
+dyspnea	GPE
+angina	PERSON
+echocardiogram	PERSON
+7	QUANTITY
+10	QUANTITY
+dyspnea	GPE
+angina	PERSON
+10	CARDINAL
+Syphilitic	PERSON
+3 METs	QUANTITY
+dyspnea	GPE
+angina	PERSON
+less than 30 percent	PERCENT
+the past year	DATE
+dyspnea	GPE
+angina	PERSON
+30 to 50 percent	PERCENT
+7	CARDINAL
+dyspnea	GPE
+angina	PERSON
+echocardiogram	PERSON
+7	QUANTITY
+10	QUANTITY
+dyspnea	GPE
+angina	PERSON
+10	CARDINAL
+DC 7110	ORG
+Arteriosclerotic	NORP
+3 METs	QUANTITY
+dyspnea	GPE
+angina	PERSON
+less than 30 percent	PERCENT
+the past year	DATE
+dyspnea	GPE
+angina	PERSON
+30 to 50 percent	PERCENT
+7	CARDINAL
+dyspnea	GPE
+angina	PERSON
+echocardiogram	PERSON
+7	QUANTITY
+10	QUANTITY
+dyspnea	GPE
+angina	PERSON
+10	CARDINAL
+7006	DATE
+three months	DATE
+100	CARDINAL
+3 METs	QUANTITY
+dyspnea	GPE
+angina	PERSON
+less than 30 percent	PERCENT
+the past year	DATE
+dyspnea	GPE
+angina	PERSON
+30 to 50 percent	PERCENT
+7	CARDINAL
+dyspnea	GPE
+angina	PERSON
+echocardiogram	PERSON
+7	QUANTITY
+10	QUANTITY
+dyspnea	GPE
+angina	PERSON
+10	CARDINAL
+3 METs	QUANTITY
+dyspnea	GPE
+angina	PERSON
+less than 30 percent	PERCENT
+the past year	DATE
+dyspnea	GPE
+angina	PERSON
+30 to 50 percent	PERCENT
+7	CARDINAL
+dyspnea	GPE
+angina	PERSON
+echocardiogram	PERSON
+7	QUANTITY
+10	QUANTITY
+dyspnea	GPE
+angina	PERSON
+10	CARDINAL
+7010	DATE
+Supraventricular	PRODUCT
+more than four	CARDINAL
+ECG	ORG
+Holter	ORG
+30	CARDINAL
+one to four	CARDINAL
+ECG	ORG
+Holter	ORG
+Cardioverter-Defibrillator	ORG
+3 METs	QUANTITY
+dyspnea	GPE
+angina	PERSON
+less than 30 percent	PERCENT
+the past year	DATE
+dyspnea	GPE
+angina	PERSON
+30 to 50 percent	PERCENT
+7	CARDINAL
+dyspnea	GPE
+angina	PERSON
+echocardiogram	PERSON
+7	QUANTITY
+10	QUANTITY
+dyspnea	GPE
+angina	PERSON
+10	CARDINAL
+100 percent	PERCENT
+Six months	DATE
+§3.105(e	PERSON
+3 METs	QUANTITY
+dyspnea	GPE
+angina	PERSON
+less than 30 percent	PERCENT
+the past year	DATE
+dyspnea	GPE
+angina	PERSON
+30 to 50 percent	PERCENT
+7	CARDINAL
+dyspnea	GPE
+angina	PERSON
+echocardiogram	PERSON
+7	QUANTITY
+10	QUANTITY
+dyspnea	GPE
+angina	PERSON
+the Director, Compensation Service	ORG
+100	CARDINAL
+3 METs	QUANTITY
+dyspnea	GPE
+angina	PERSON
+less than 30 percent	PERCENT
+the past year	DATE
+dyspnea	GPE
+angina	PERSON
+30 to 50 percent	PERCENT
+7	CARDINAL
+dyspnea	GPE
+angina	PERSON
+echocardiogram	PERSON
+7	QUANTITY
+10	QUANTITY
+dyspnea	GPE
+angina	PERSON
+10	CARDINAL
+100 percent	PERCENT
+Six months	DATE
+VA	GPE
+§3.105(e	PERSON
+three months	DATE
+100	CARDINAL
+3 METs	QUANTITY
+dyspnea	GPE
+angina	PERSON
+less than 30 percent	PERCENT
+the past year	DATE
+dyspnea	GPE
+angina	PERSON
+30 to 50 percent	PERCENT
+60	CARDINAL
+greater than 5	CARDINAL
+dyspnea	GPE
+angina	PERSON
+echocardiogram	PERSON
+7	QUANTITY
+10	QUANTITY
+dyspnea	GPE
+angina	PERSON
+10	CARDINAL
+two months	DATE
+100	CARDINAL
+10	CARDINAL
+Cardioverter-Defibrillators	ORG
+DC 7011	DATE
+Cardiac	ORG
+100
+Thereafter	MONEY
+3 METs	QUANTITY
+dyspnea	GPE
+angina	PERSON
+less than 30 percent	PERCENT
+the past year	DATE
+dyspnea	GPE
+angina	PERSON
+30 to 50 percent	PERCENT
+30	CARDINAL
+100 percent	PERCENT
+One year	DATE
+§3.105(e	PERSON
+Cardiomyopathy	PERSON
+3 METs	QUANTITY
+dyspnea	GPE
+angina	PERSON
+less than 30 percent	PERCENT
+the past year	DATE
+dyspnea	GPE
+angina	PERSON
+30 to 50 percent	PERCENT
+7	CARDINAL
+dyspnea	GPE
+angina	PERSON
+echocardiogram	PERSON
+7	QUANTITY
+10	QUANTITY
+dyspnea	GPE
+angina	PERSON
+10	CARDINAL
+130 or more 60	CARDINAL
+120 or more 40	CARDINAL
+110	CARDINAL
+200 or more 20	CARDINAL
+100	CARDINAL
+160	CARDINAL
+100	CARDINAL
+1	CARDINAL
+two	CARDINAL
+at least three	CARDINAL
+90mm	QUANTITY
+160mm	QUANTITY
+less than 90mm	QUANTITY
+2	CARDINAL
+3	CARDINAL
+five centimeters	QUANTITY
+100	CARDINAL
+60	CARDINAL
+100 percent	PERCENT
+Six months	DATE
+VA	GPE
+§3.105(e	ORG
+Aneurysm	PERSON
+100	CARDINAL
+0.4 or less	QUANTITY
+less than 25 yards	QUANTITY
+2 miles per hour	QUANTITY
+one	CARDINAL
+0.5	CARDINAL
+between 25 and 100 yards	QUANTITY
+2 miles per hour	QUANTITY
+0.7	CARDINAL
+more than 100 yards	QUANTITY
+0.9 or less	QUANTITY
+20	CARDINAL
+1	CARDINAL
+1.0	CARDINAL
+2	CARDINAL
+more than one	CARDINAL
+4.25	CARDINAL
+3	CARDINAL
+100 percent	PERCENT
+Six months	DATE
+VA	GPE
+§3.105(e	PERSON
+Aneurysm	PERSON
+100	CARDINAL
+60	CARDINAL
+50	CARDINAL
+40	CARDINAL
+30	CARDINAL
+20	CARDINAL
+Arteriosclerosis	ORG
+0.4 or less	QUANTITY
+less than 25 yards	QUANTITY
+2 miles per hour	QUANTITY
+0.5	CARDINAL
+between 25 and 100 yards	QUANTITY
+2 miles per hour	QUANTITY
+0.7	CARDINAL
+more than 100 yards	QUANTITY
+0.9 or less	QUANTITY
+20	CARDINAL
+1	CARDINAL
+1.0	CARDINAL
+2	CARDINAL
+3	CARDINAL
+more than one	CARDINAL
+4.25	CARDINAL
+4.26	CARDINAL
+Thrombo-angiitis	LOC
+0.4 or less 100	CARDINAL
+less than 25 yards	QUANTITY
+2 miles per hour	QUANTITY
+0.5	CARDINAL
+between 25 and 100 yards	QUANTITY
+2 miles per hour	QUANTITY
+0.7	CARDINAL
+more than 100 yards	QUANTITY
+0.9 or less	QUANTITY
+20	CARDINAL
+1	CARDINAL
+1.0	CARDINAL
+2	CARDINAL
+more than one	CARDINAL
+4.25	CARDINAL
+4.26	CARDINAL
+Raynaud	PERSON
+two	CARDINAL
+one	CARDINAL
+100	CARDINAL
+two	CARDINAL
+60	CARDINAL
+at least daily	CARDINAL
+four to six	CARDINAL
+a week 20	DATE
+one	CARDINAL
+three	CARDINAL
+a week 10	DATE
+one	CARDINAL
+minutes to
+hours	TIME
+one to seven days	DATE
+more than eight	CARDINAL
+more than twice	CARDINAL
+one to seven days	DATE
+five to eight	CARDINAL
+20	CARDINAL
+one to seven days	DATE
+two to four	CARDINAL
+more than two hours	TIME
+daily	DATE
+more than two hours	TIME
+daily	DATE
+daily	DATE
+30	CARDINAL
+at least three	CARDINAL
+10	CARDINAL
+100	CARDINAL
+60	CARDINAL
+40	CARDINAL
+20	CARDINAL
+0
+	QUANTITY
+more than one	CARDINAL
+4.25	CARDINAL
+4.26	CARDINAL
+100	CARDINAL
+60	CARDINAL
+40	CARDINAL
+20	CARDINAL
+0
+	QUANTITY
+more than one	CARDINAL
+4.25	CARDINAL
+4.26	CARDINAL
+two	CARDINAL
+10	CARDINAL
+1	CARDINAL
+Raynaud	ORG
+2	CARDINAL
+4.25	CARDINAL
+4.26	CARDINAL
+100	CARDINAL
+100 percent	PERCENT
+Six
+months	DATE
+VA	GPE
+§3.105(e	PERSON
+38	CARDINAL
+1155	DATE
+62	CARDINAL
+65219	DATE
+Dec. 11, 1997	DATE
+63	CARDINAL
+71	CARDINAL
+Sept. 6, 2006	DATE
+79	CARDINAL
+2100, Jan. 13, 2014	DATE
+82	CARDINAL
+50804, Nov. 2, 2017	DATE

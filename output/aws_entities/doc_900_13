@@ -1,0 +1,1 @@
+{"Id": 8, "BeginOffset": 207, "EndOffset": 219, "Score": 0.6774794459342957, "Text": "wrist motion", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SIGN", "Score": 0.5853817462921143}, {"Name": "SYMPTOM", "Score": 0.4649776220321655}]}

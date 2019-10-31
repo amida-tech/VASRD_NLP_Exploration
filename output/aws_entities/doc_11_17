@@ -1,0 +1,1 @@
+{"Id": 11, "BeginOffset": 645, "EndOffset": 653, "Score": 0.9886375069618225, "Text": "swelling", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SIGN", "Score": 0.4760045111179352}, {"Name": "SYMPTOM", "Score": 0.44604527950286865}]}

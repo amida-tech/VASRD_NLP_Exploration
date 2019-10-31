@@ -1,0 +1,1 @@
+{"Id": 1, "BeginOffset": 24, "EndOffset": 45, "Score": 0.5259907841682434, "Text": "symptomatic condition", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SIGN", "Score": 0.8227255344390869}]}

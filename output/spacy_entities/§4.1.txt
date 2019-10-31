@@ -1,0 +1,4 @@
+a period of many years	DATE
+41	CARDINAL
+11292	DATE
+Mar. 18, 1976]	DATE

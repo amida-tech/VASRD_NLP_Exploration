@@ -1,0 +1,1 @@
+{"Id": 1, "BeginOffset": 27, "EndOffset": 56, "Score": 0.8340985774993896, "Text": "disseminated strongyloidiasis", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "DIAGNOSIS", "Score": 0.9366667866706848}, {"Name": "NEGATION", "Score": 0.43569111824035645}]}

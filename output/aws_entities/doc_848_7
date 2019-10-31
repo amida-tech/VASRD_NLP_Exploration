@@ -1,0 +1,1 @@
+{"Id": 6, "BeginOffset": 146, "EndOffset": 154, "Score": 0.9988623857498169, "Text": "diarrhea", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SYMPTOM", "Score": 0.757637619972229}]}

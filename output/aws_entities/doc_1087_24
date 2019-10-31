@@ -1,0 +1,1 @@
+{"Id": 22, "BeginOffset": 1233, "EndOffset": 1285, "Score": 0.6941590905189514, "Text": "impairment Criteria Memory, attention, concentration", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SYMPTOM", "Score": 0.5316966772079468}, {"Name": "NEGATION", "Score": 0.4085729122161865}]}

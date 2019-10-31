@@ -1,0 +1,1 @@
+{"Id": 53, "BeginOffset": 2016, "EndOffset": 2034, "Score": 0.8597581386566162, "Text": "difficulty walking", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SIGN", "Score": 0.4587177634239197}, {"Name": "SYMPTOM", "Score": 0.5467865467071533}]}

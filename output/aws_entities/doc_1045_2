@@ -1,0 +1,1 @@
+{"Id": 1, "BeginOffset": 60, "EndOffset": 67, "Score": 0.9848706126213074, "Text": "insulin", "Category": "MEDICATION", "Type": "GENERIC_NAME", "Traits": [], "Attributes": [{"Type": "ROUTE_OR_MODE", "Score": 0.43622633814811707, "RelationshipScore": 0.998676598072052, "Id": 0, "BeginOffset": 47, "EndOffset": 56, "Text": "injection", "Traits": []}]}

@@ -1,0 +1,1 @@
+{"Id": 9, "BeginOffset": 250, "EndOffset": 272, "Score": 0.8351160287857056, "Text": "inappropriate behavior", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SIGN", "Score": 0.42312517762184143}, {"Name": "SYMPTOM", "Score": 0.5349746346473694}]}

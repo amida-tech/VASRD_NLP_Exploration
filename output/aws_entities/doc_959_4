@@ -1,0 +1,1 @@
+{"Id": 2, "BeginOffset": 89, "EndOffset": 100, "Score": 0.9959120750427246, "Text": "Vitamin B12", "Category": "MEDICATION", "Type": "GENERIC_NAME", "Traits": [], "Attributes": [{"Type": "ROUTE_OR_MODE", "Score": 0.9328683614730835, "RelationshipScore": 0.9999969005584717, "Id": 3, "BeginOffset": 101, "EndOffset": 111, "Text": "injections", "Traits": []}]}

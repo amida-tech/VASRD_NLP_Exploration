@@ -1,0 +1,1 @@
+{"Id": 9, "BeginOffset": 173, "EndOffset": 192, "Score": 0.83649742603302, "Text": "bile duct disorders", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "DIAGNOSIS", "Score": 0.8216308951377869}, {"Name": "NEGATION", "Score": 0.40337544679641724}]}

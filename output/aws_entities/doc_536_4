@@ -1,0 +1,1 @@
+{"Id": 0, "BeginOffset": 137, "EndOffset": 150, "Score": 0.5559653639793396, "Text": "T4 cell count", "Category": "TEST_TREATMENT_PROCEDURE", "Type": "TEST_NAME", "Traits": [], "Attributes": [{"Type": "TEST_VALUE", "Score": 0.3934377431869507, "RelationshipScore": 0.9999991655349731, "Id": 1, "BeginOffset": 151, "EndOffset": 160, "Text": "less than", "Traits": []}]}

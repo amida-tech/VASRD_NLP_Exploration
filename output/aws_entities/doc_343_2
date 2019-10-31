@@ -1,0 +1,1 @@
+{"Id": 2, "BeginOffset": 32, "EndOffset": 47, "Score": 0.47343698143959045, "Text": "plantar flexion", "Category": "TEST_TREATMENT_PROCEDURE", "Type": "TEST_NAME", "Traits": [], "Attributes": [{"Type": "TEST_VALUE", "Score": 0.38980430364608765, "RelationshipScore": 0.7498769760131836, "Id": 3, "BeginOffset": 57, "EndOffset": 58, "Text": "1", "Traits": []}]}

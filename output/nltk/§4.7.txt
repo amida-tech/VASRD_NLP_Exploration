@@ -1,0 +1,1 @@
+Otherwise, the lower rating will be assigned.

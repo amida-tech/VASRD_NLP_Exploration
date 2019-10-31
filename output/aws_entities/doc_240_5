@@ -1,0 +1,1 @@
+{"Id": 0, "BeginOffset": 55, "EndOffset": 71, "Score": 0.4162839949131012, "Text": "ankle disability", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SIGN", "Score": 0.50461345911026}, {"Name": "DIAGNOSIS", "Score": 0.48994699120521545}]}

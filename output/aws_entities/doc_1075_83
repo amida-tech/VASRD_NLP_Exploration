@@ -1,0 +1,1 @@
+{"Id": 72, "BeginOffset": 4279, "EndOffset": 4301, "Score": 0.9155254364013672, "Text": "impaired consciousness", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SYMPTOM", "Score": 0.7589870691299438}, {"Name": "NEGATION", "Score": 0.6816019415855408}]}

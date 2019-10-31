@@ -1,0 +1,111 @@
+Graves	ORG
+six months	DATE
+30	CARDINAL
+2	CARDINAL
+6061-6066	DATE
+§4.79	DATE
+7901	DATE
+1	CARDINAL
+DC 7900	ORG
+Graves	ORG
+2	CARDINAL
+DC 7800	ORG
+Thyroid	ORG
+1	CARDINAL
+larynx	GPE
+2	CARDINAL
+DC 7800	ORG
+six months	DATE
+Thereafter	PERSON
+30	CARDINAL
+2	CARDINAL
+six months	DATE
+§4.79, Schedule of Ratings	DATE
+DC 6090	ORG
+6061-6066	DATE
+six months from date	DATE
+100	CARDINAL
+1	CARDINAL
+six months	DATE
+at least one	CARDINAL
+3-3.5 mmol/L	QUANTITY
+5.6	CARDINAL
+2-2.5 mmol/L	QUANTITY
+less than 60	CARDINAL
+mL/min	ORG
+less than 2.5 SD	MONEY
+60
+	MONEY
+2	CARDINAL
+the day	DATE
+3	CARDINAL
+six months	DATE
+six months	DATE
+three months	DATE
+100	CARDINAL
+Thyroiditis	NORP
+Graves	PERSON
+60	CARDINAL
+30	CARDINAL
+six months	DATE
+six months	DATE
+60	CARDINAL
+three months	DATE
+30	CARDINAL
+Thereafter	PERSON
+polyuria	PERSON
+10	CARDINAL
+Addison	PERSON
+the past year 60	DATE
+the past year	DATE
+five	CARDINAL
+the past year 40	DATE
+two	CARDINAL
+the past year	DATE
+two to four	CARDINAL
+the past year	DATE
+20	CARDINAL
+Addisonian	NORP
+2	CARDINAL
+Addisonian	NORP
+VA	NORP
+Addisonian	NORP
+3	CARDINAL
+Tuberculous Addison's	PERSON
+50 percent	PERCENT
+30 percent	PERCENT
+4.88b	DATE
+Polyglandular	ORG
+Addison	PERSON
+more than one	CARDINAL
+daily	DATE
+at least three	CARDINAL
+weekly	DATE
+one	CARDINAL
+daily	DATE
+one	CARDINAL
+two	CARDINAL
+60	CARDINAL
+one	CARDINAL
+daily	DATE
+40	CARDINAL
+one	CARDINAL
+daily	DATE
+20	CARDINAL
+only 10	CARDINAL
+1	CARDINAL
+DC 7913	DATE
+Neoplasm	PERSON
+100	CARDINAL
+100 percent	PERCENT
+Six months	DATE
+VA	GPE
+§3.105(e	PERSON
+Neoplasm	PERSON
+7916	DATE
+DC 7914	DATE
+DC 7903	LAW
+61	CARDINAL
+May 7, 1996	DATE
+82	CARDINAL
+Nov. 2, 2017	DATE

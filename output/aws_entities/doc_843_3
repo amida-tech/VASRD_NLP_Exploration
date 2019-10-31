@@ -1,0 +1,1 @@
+{"Id": 2, "BeginOffset": 33, "EndOffset": 41, "Score": 0.9972800016403198, "Text": "vomiting", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SYMPTOM", "Score": 0.88761967420578}]}

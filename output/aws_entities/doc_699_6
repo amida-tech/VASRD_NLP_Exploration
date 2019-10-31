@@ -1,0 +1,1 @@
+{"Id": 2, "BeginOffset": 131, "EndOffset": 148, "Score": 0.6772226095199585, "Text": "systolic pressure", "Category": "TEST_TREATMENT_PROCEDURE", "Type": "TEST_NAME", "Traits": [], "Attributes": [{"Type": "TEST_VALUE", "Score": 0.4565371572971344, "RelationshipScore": 0.99998939037323, "Id": 3, "BeginOffset": 163, "EndOffset": 166, "Text": "200", "Traits": []}]}

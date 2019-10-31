@@ -1,0 +1,1 @@
+{"Id": 8, "BeginOffset": 129, "EndOffset": 151, "Score": 0.8577354550361633, "Text": "drug-induced hepatitis", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "DIAGNOSIS", "Score": 0.8555099368095398}, {"Name": "NEGATION", "Score": 0.5877867341041565}]}

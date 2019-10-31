@@ -1,0 +1,1 @@
+{"Id": 3, "BeginOffset": 42, "EndOffset": 54, "Score": 0.9342444539070129, "Text": "pericarditis", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "DIAGNOSIS", "Score": 0.9138137102127075}]}

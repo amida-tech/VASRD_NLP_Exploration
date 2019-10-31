@@ -1,0 +1,1 @@
+{"Id": 4, "BeginOffset": 259, "EndOffset": 276, "Score": 0.4060511887073517, "Text": "severely impaired", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SIGN", "Score": 0.6832679510116577}, {"Name": "SYMPTOM", "Score": 0.4851161241531372}]}

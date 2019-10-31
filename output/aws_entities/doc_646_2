@@ -1,0 +1,1 @@
+{"Id": 4, "BeginOffset": 31, "EndOffset": 55, "Score": 0.9818316698074341, "Text": "congestive heart failure", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "DIAGNOSIS", "Score": 0.954624354839325}]}

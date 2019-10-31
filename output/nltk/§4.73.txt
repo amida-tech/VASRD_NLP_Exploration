@@ -1,0 +1,30 @@
+Anterior thigh group: (1) Sartorius; (2) rectus femoris; (3) vastus externus;
+(4) vastus intermedius; (5) vastus internus; (6) tensor vaginae femoris
+Severe 40
+Moderately Severe 30
+Moderate 10
+Slight 0
+5315   Group XV. (1)
+Trapezius I (clavicular insertion); (2) sternocleidomastoid; (3) the “hyoid” muscles; (4) sternothyroid; (5) digastric
+Severe 30
+Moderately Severe 20
+Moderate 10
+Slight 0
+5323   Group XXIII. Muscles of the abdominal wall: (1) Rectus abdominis; (2) external oblique; (3) internal oblique; (4) transversalis; (5) quadratus lumborum
+Severe 50
+Moderately Severe 30
+Moderate 10
+Slight 0
+5320   Group XX. Function: Propulsion, plantar flexion of foot (1); stabilization of arch (2, 3); flexion of toes (4, 5); Flexion of knee (6). Mesial thigh group: (1) Adductor longus; (2) adductor brevis; (3) adductor
+magnus; (4) gracilis
+Severe 30
+Moderately Severe 20
+Moderate 10
+Slight 0
+5316   Group XVI. Function: Adduction of hip (1, 2, 3, 4); flexion of hip (1, 2); flexion of knee (4). Extrinsic muscles of shoulder girdle: (1) Trapezius; (2) levator
+scapulae; (3) serratus magnus
+Severe 40 30
+Moderately Severe 30 20
+Moderate 10 10
+Slight 0 0
+5302   Group II.

@@ -1,0 +1,1 @@
+{"Id": 8, "BeginOffset": 179, "EndOffset": 191, "Score": 0.9995816349983215, "Text": "paresthesias", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SYMPTOM", "Score": 0.973042905330658}, {"Name": "NEGATION", "Score": 0.9409114718437195}]}

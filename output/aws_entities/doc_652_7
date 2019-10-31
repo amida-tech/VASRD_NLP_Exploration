@@ -1,0 +1,1 @@
+{"Id": 8, "BeginOffset": 115, "EndOffset": 121, "Score": 0.9958357810974121, "Text": "angina", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SYMPTOM", "Score": 0.8686741590499878}, {"Name": "NEGATION", "Score": 0.9367783069610596}]}

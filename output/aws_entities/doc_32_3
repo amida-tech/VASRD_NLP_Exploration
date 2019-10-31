@@ -1,0 +1,1 @@
+{"Id": 2, "BeginOffset": 75, "EndOffset": 89, "Score": 0.6923367381095886, "Text": "painful motion", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SIGN", "Score": 0.5030291080474854}, {"Name": "SYMPTOM", "Score": 0.5339890718460083}]}

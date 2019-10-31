@@ -1,0 +1,1 @@
+{"Id": 5, "BeginOffset": 190, "EndOffset": 203, "Score": 0.5195038318634033, "Text": "finding words", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SYMPTOM", "Score": 0.8558493852615356}]}

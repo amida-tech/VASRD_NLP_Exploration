@@ -1,0 +1,1 @@
+{"Id": 2, "BeginOffset": 112, "EndOffset": 129, "Score": 0.3964115083217621, "Text": "joint involvement", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SIGN", "Score": 0.46624618768692017}, {"Name": "DIAGNOSIS", "Score": 0.577222466468811}]}

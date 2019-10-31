@@ -1,0 +1,1 @@
+{"Id": 10, "BeginOffset": 123, "EndOffset": 137, "Score": 0.9767392873764038, "Text": "bronchodilator", "Category": "MEDICATION", "Type": "GENERIC_NAME", "Traits": [], "Attributes": [{"Type": "ROUTE_OR_MODE", "Score": 0.2521173655986786, "RelationshipScore": 0.9999967813491821, "Id": 9, "BeginOffset": 118, "EndOffset": 122, "Text": "oral", "Traits": []}]}

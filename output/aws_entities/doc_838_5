@@ -1,0 +1,1 @@
+{"Id": 5, "BeginOffset": 72, "EndOffset": 88, "Score": 0.828440248966217, "Text": "active hepatitis", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "DIAGNOSIS", "Score": 0.8939597606658936}, {"Name": "NEGATION", "Score": 0.6137978434562683}]}

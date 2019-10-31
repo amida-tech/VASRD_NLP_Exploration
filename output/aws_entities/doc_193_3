@@ -1,0 +1,1 @@
+{"Id": 15, "BeginOffset": 134, "EndOffset": 173, "Score": 0.6628739833831787, "Text": "limited to, bowel or bladder impairment", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SIGN", "Score": 0.4492136240005493}, {"Name": "SYMPTOM", "Score": 0.6930383443832397}, {"Name": "NEGATION", "Score": 0.8896715641021729}]}

@@ -1,0 +1,1 @@
+{"Id": 4, "BeginOffset": 64, "EndOffset": 73, "Score": 0.7526435256004333, "Text": "FEV-1/FVC", "Category": "TEST_TREATMENT_PROCEDURE", "Type": "TEST_NAME", "Traits": [], "Attributes": [{"Type": "TEST_VALUE", "Score": 0.9510303735733032, "RelationshipScore": 0.9999178647994995, "Id": 5, "BeginOffset": 77, "EndOffset": 93, "Text": "40 to 55 percent", "Traits": []}]}

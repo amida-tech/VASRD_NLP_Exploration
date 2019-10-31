@@ -1,0 +1,1 @@
+{"Id": 1, "BeginOffset": 73, "EndOffset": 82, "Score": 0.9555285573005676, "Text": "infection", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "DIAGNOSIS", "Score": 0.847086489200592}]}

@@ -1,0 +1,1 @@
+{"Id": 8, "BeginOffset": 214, "EndOffset": 229, "Score": 0.7222763895988464, "Text": "immune globulin", "Category": "MEDICATION", "Type": "GENERIC_NAME", "Traits": [], "Attributes": [{"Type": "ROUTE_OR_MODE", "Score": 0.7628685832023621, "RelationshipScore": 0.9999505281448364, "Id": 7, "BeginOffset": 202, "EndOffset": 213, "Text": "intravenous", "Traits": []}]}

@@ -1,0 +1,1 @@
+{"Id": 0, "BeginOffset": 0, "EndOffset": 11, "Score": 0.33352407813072205, "Text": "Hepatitis C", "Category": "TEST_TREATMENT_PROCEDURE", "Type": "TEST_NAME", "Traits": [], "Attributes": [{"Type": "TEST_VALUE", "Score": 0.4717733860015869, "RelationshipScore": 0.9903401732444763, "Id": 1, "BeginOffset": 16, "EndOffset": 21, "Text": "non-A", "Traits": []}]}

@@ -1,0 +1,16 @@
+50 percent	PERCENT
+Rating
+Unstabilized	PERSON
+100	CARDINAL
+50	CARDINAL
+1	CARDINAL
+Department of Veterans Affairs	ORG
+one	CARDINAL
+earlier than 6 months	DATE
+more than 12 months	DATE
+the end of the 12th month	DATE
+monthly	DATE
+2	CARDINAL
+35	CARDINAL
+11906	DATE
+July 24, 1970	DATE

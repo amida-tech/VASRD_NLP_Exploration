@@ -1,0 +1,1 @@
+{"Id": 4, "BeginOffset": 107, "EndOffset": 115, "Score": 0.9153108596801758, "Text": "guarding", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SIGN", "Score": 0.49533671140670776}, {"Name": "SYMPTOM", "Score": 0.4952988028526306}]}

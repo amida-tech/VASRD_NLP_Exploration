@@ -1,0 +1,1 @@
+{"Id": 1, "BeginOffset": 76, "EndOffset": 88, "Score": 0.8635980486869812, "Text": "skin growths", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "DIAGNOSIS", "Score": 0.6029276251792908}, {"Name": "NEGATION", "Score": 0.4848061800003052}]}

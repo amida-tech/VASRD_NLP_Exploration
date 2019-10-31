@@ -1,0 +1,1 @@
+{"Id": 3, "BeginOffset": 102, "EndOffset": 110, "Score": 0.9923958778381348, "Text": "seizures", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "DIAGNOSIS", "Score": 0.9219197034835815}]}

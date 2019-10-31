@@ -1,0 +1,6 @@
+less than 50 percent	PERCENT
+the six month	DATE
+38	CARDINAL
+1155	DATE
+61	CARDINAL
+52700, Oct. 8, 1996	DATE

@@ -1,0 +1,1 @@
+{"Id": 9, "BeginOffset": 186, "EndOffset": 193, "Score": 0.9646915197372437, "Text": "dyspnea", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SYMPTOM", "Score": 0.7489263415336609}, {"Name": "NEGATION", "Score": 0.4289899170398712}]}

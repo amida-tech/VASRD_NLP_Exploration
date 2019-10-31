@@ -1,0 +1,1 @@
+{"Id": 4, "BeginOffset": 85, "EndOffset": 107, "Score": 0.8511452674865723, "Text": "physiologic impairment", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SIGN", "Score": 0.5401032567024231}, {"Name": "NEGATION", "Score": 0.9076045751571655}]}

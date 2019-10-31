@@ -1,0 +1,1 @@
+{"Id": 0, "BeginOffset": 35, "EndOffset": 42, "Score": 0.6388500928878784, "Text": "Flexion", "Category": "TEST_TREATMENT_PROCEDURE", "Type": "TEST_NAME", "Traits": [], "Attributes": [{"Type": "TEST_VALUE", "Score": 0.40671423077583313, "RelationshipScore": 0.9998624324798584, "Id": 1, "BeginOffset": 43, "EndOffset": 57, "Text": "limited to 70\u00b0", "Traits": []}]}

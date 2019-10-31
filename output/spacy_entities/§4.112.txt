@@ -1,0 +1,12 @@
+4.114	CARDINAL
+greater than 20 percent	PERCENT
+three
+months	DATE
+10 to 20 percent	PERCENT
+three months	DATE
+two-year-period	DATE
+38	CARDINAL
+1155	DATE
+66	CARDINAL
+29488	DATE
+May 31, 2001	DATE

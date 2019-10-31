@@ -1,0 +1,1 @@
+{"Id": 0, "BeginOffset": 81, "EndOffset": 99, "Score": 0.5400995016098022, "Text": "Diastolic pressure", "Category": "TEST_TREATMENT_PROCEDURE", "Type": "TEST_NAME", "Traits": [], "Attributes": [{"Type": "TEST_VALUE", "Score": 0.5883462429046631, "RelationshipScore": 0.999995231628418, "Id": 1, "BeginOffset": 114, "EndOffset": 125, "Text": "120 or more", "Traits": []}]}

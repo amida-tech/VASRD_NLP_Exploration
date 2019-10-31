@@ -1,0 +1,1 @@
+{"Id": 8, "BeginOffset": 31, "EndOffset": 43, "Score": 0.9957970380783081, "Text": "hypertension", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "DIAGNOSIS", "Score": 0.9480970501899719}]}

@@ -1,0 +1,299 @@
+Two	CARDINAL
+4.25	CARDINAL
+two	CARDINAL
+Burn scar(s	PERSON
+three	CARDINAL
+six	CARDINAL
+two	CARDINAL
+four or five	CARDINAL
+one	CARDINAL
+two	CARDINAL
+three	CARDINAL
+one	CARDINAL
+10	CARDINAL
+1):The 8	CARDINAL
+4.118	CARDINAL
+5 or more inches	QUANTITY
+13 or more cm	QUANTITY
+at least one-quarter	CARDINAL
+0.6 cm	QUANTITY
+six square inches	QUANTITY
+39	CARDINAL
+cm	PERSON
+scaly	PERSON
+six square inches	QUANTITY
+39	CARDINAL
+cm	PERSON
+six square inches	QUANTITY
+39	CARDINAL
+cm	PERSON
+six square inches	QUANTITY
+39	CARDINAL
+cm	PERSON
+2	CARDINAL
+6063	DATE
+one	CARDINAL
+3	CARDINAL
+4	CARDINAL
+4.25	CARDINAL
+5	CARDINAL
+one	CARDINAL
+Burn scar(s	PERSON
+144 square inches	QUANTITY
+929	CARDINAL
+cm	PERSON
+40	CARDINAL
+at least 72 square inches	QUANTITY
+465	CARDINAL
+cm	PERSON
+less than 144 square inches	QUANTITY
+929	CARDINAL
+cm	PERSON
+30	CARDINAL
+at least 12 square inches	QUANTITY
+77	CARDINAL
+cm	PERSON
+less than 72 square inches	QUANTITY
+465	CARDINAL
+cm	PERSON
+20	CARDINAL
+at least 6 square inches	QUANTITY
+39	CARDINAL
+cm	PERSON
+less than 12 square inches	QUANTITY
+77 sq	QUANTITY
+cm	PERSON
+10	CARDINAL
+1	CARDINAL
+7801	DATE
+7802	DATE
+six	CARDINAL
+6	CARDINAL
+2	CARDINAL
+4.25	CARDINAL
+144 square inches	QUANTITY
+929	CARDINAL
+cm	PERSON
+10	CARDINAL
+1	CARDINAL
+7801	DATE
+7802	DATE
+six	CARDINAL
+6	CARDINAL
+2	CARDINAL
+4.25	CARDINAL
+30	CARDINAL
+Three or four	CARDINAL
+20	CARDINAL
+two	CARDINAL
+10	CARDINAL
+1	CARDINAL
+2	CARDINAL
+one	CARDINAL
+10 percent	PERCENT
+3	CARDINAL
+7800, 7801, 7802	DATE
+7805	DATE
+Scars	PERSON
+7800, 7801, 7802	DATE
+7804	DATE
+7800-04	CARDINAL
+Rating Formula	PERSON
+7809	DATE
+7813-7816	DATE
+7820-7822	DATE
+7824	CARDINAL
+At least one	CARDINAL
+60	CARDINAL
+more than 40 percent	PERCENT
+more than 40 percent	PERCENT
+photochemotherapy	GPE
+the past 12-month period	DATE
+At least one	CARDINAL
+30	CARDINAL
+20 to 40 percent	PERCENT
+20 to 40 percent	PERCENT
+photochemotherapy	GPE
+PUVA	GPE
+6 weeks	DATE
+the past 12-month period
+	DATE
+At least one	CARDINAL
+10	CARDINAL
+at least 5 percent	PERCENT
+less than 20 percent	PERCENT
+At least 5 percent	PERCENT
+less than 20 percent	PERCENT
+photochemotherapy	GPE
+PUVA	GPE
+less than 6 weeks	DATE
+the past 12-month period	DATE
+the past 12-month period	DATE
+at least one	CARDINAL
+0	CARDINAL
+less than 5 percent	PERCENT
+less than 5 percent	PERCENT
+DC 7800	ORG
+7801, 7802, 7804	DATE
+7805	DATE
+DC 7824
+	ORG
+Dermatitis	ORG
+Rating Formula	PERSON
+American	NORP
+New World	ORG
+DC	GPE
+7801, 7802,	DATE
+7803	DATE
+7804	DATE
+7805	DATE
+DC 6301	PERSON
+Oriental	NORP
+DC	ORG
+7801	DATE
+7802	DATE
+7803	DATE
+7804	DATE
+7805	DATE
+DC 6301	PERSON
+Discoid	PERSON
+the General Rating Formula	LAW
+DC 6350	DATE
+Tuberculosis	ORG
+4.88c	CARDINAL
+4.89	CARDINAL
+tinea corporis	PERSON
+tinea capitis	PERSON
+tinea pedis	PERSON
+beard area	ORG
+jock itch	PERSON
+tinea cruris	PERSON
+the General Rating Formula	LAW
+pemphigus vulgaris	PERSON
+pemphigus foliaceous	PERSON
+dermatitis herpetiformis	ORG
+bullosa acquisita	PERSON
+Hailey-Hailey	ORG
+Rating Formula	PERSON
+Rating Formula	PERSON
+100	CARDINAL
+UVB	ORG
+the past 12 month period	DATE
+2	CARDINAL
+100	CARDINAL
+one	CARDINAL
+the past 12-month period	DATE
+1	CARDINAL
+60	CARDINAL
+6 weeks	DATE
+the past 12-month period	DATE
+less than 6 weeks	DATE
+the past 12-month period	DATE
+the past 12-month period 0
+	DATE
+25 percent	PERCENT
+four weeks	DATE
+DC	ORG
+7801, 7802,	DATE
+7803	DATE
+7804	DATE
+7805	DATE
+six months	DATE
+§3.105(e	PERSON
+DC 7800	ORG
+DC	ORG
+7801, 7802,	DATE
+7803	DATE
+7804	DATE
+7805	DATE
+fungal	ORG
+viral	ORG
+the General Rating Formula	LAW
+the General Rating Formula	LAW
+the General Rating Formula	LAW
+10	CARDINAL
+Darier	ORG
+palmoplantar keratoderma	PERSON
+the General Rating Formula	LAW
+the Skin
+	ORG
+Chronic	ORG
+a period of six weeks	DATE
+third	ORDINAL
+first	ORDINAL
+second	ORDINAL
+second	ORDINAL
+neutrophil inhibitors	ORG
+30	CARDINAL
+first	ORDINAL
+10	CARDINAL
+7826	DATE
+Vasculitis	PRODUCT
+60	CARDINAL
+30
+Recurrent	MONEY
+four	CARDINAL
+the past 12-month period	DATE
+30	CARDINAL
+At least one	CARDINAL
+10	CARDINAL
+one to three	CARDINAL
+the past 12-month period	DATE
+7801, 7802, 7804	DATE
+7805	DATE
+Toxic	PERSON
+four	CARDINAL
+the past 12-month period	DATE
+30	CARDINAL
+four	CARDINAL
+the past 12-month period	DATE
+At least one	CARDINAL
+10	CARDINAL
+three	CARDINAL
+7801, 7802, 7804	DATE
+7805	DATE
+DC	GPE
+one	CARDINAL
+40 percent	PERCENT
+30	CARDINAL
+less than 40 percent	PERCENT
+10	CARDINAL
+7801, 7802, 7804	DATE
+7805	DATE
+Chloracne	PERSON
+40 percent	PERCENT
+30	CARDINAL
+less than 40 percent	PERCENT
+DC 7800	ORG
+7801, 7802, 7804	DATE
+7805	DATE
+more than 40 percent	PERCENT
+20	CARDINAL
+20 to 40 percent	PERCENT
+10	CARDINAL
+less than 20 percent	PERCENT
+Alopecia	PERSON
+10	CARDINAL
+30	CARDINAL
+DC	ORG
+7801, 7802,	DATE
+7803	DATE
+7804	DATE
+7805	DATE
+DC 7800	ORG
+six months	DATE
+§3.105(e	PERSON
+38	CARDINAL
+1155	DATE
+67	CARDINAL
+July 31, 2002	DATE
+67	CARDINAL
+58448, 58449, Sept. 16, 2002	DATE
+73	CARDINAL
+Oct. 23, 2008	DATE
+77	CARDINAL
+2910, Jan. 20, 2012	DATE
+83	CARDINAL
+32597, July 13, 2018	DATE
+83	CARDINAL
+38663, Aug. 7, 2018	DATE

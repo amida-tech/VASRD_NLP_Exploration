@@ -1,0 +1,10 @@
+7532   Renal tubular disorders (such as renal glycosurias, aminoacidurias, renal tubular acidosis, Fanconi's syndrome, Bartter's syndrome, related disorders of Henle's loop
+and proximal or distal nephron function, etc. 7515   Bladder, calculus in, with symptoms interfering with function:
+Rate as voiding dysfunction
+7516   Bladder, fistula of:
+Rate as voiding dysfunction or urinary tract infection, whichever is predominant. 7535   Toxic nephropathy (antibotics, radiocontrast agents, nonsteroidal anti-inflammatory agents, heavy metals, and similar agents):
+Rate as renal dysfunction. 7527   Prostate gland injuries, infections, hypertrophy, postoperative residuals:
+Rate as voiding dysfunction or urinary tract infection, whichever is predominant. 7533   Cystic diseases of the kidneys (polycystic disease, uremic medullary cystic disease, Medullary sponge kidney, and similar conditions):
+Rate as renal dysfunction. 7500   Kidney, removal of one:
+Minimum evaluation 30
+Or rate as renal dysfunction if there is nephritis, infection, or pathology of the other. 7541   Renal involvement in diabetes mellitus, sickle cell anemia, systemic lupus erythematosus, vasculitis, or other systemic disease processes.

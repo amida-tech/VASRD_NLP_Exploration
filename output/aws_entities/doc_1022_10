@@ -1,0 +1,1 @@
+{"Id": 8, "BeginOffset": 181, "EndOffset": 201, "Score": 0.9817814826965332, "Text": "pericardial effusion", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "DIAGNOSIS", "Score": 0.884113073348999}, {"Name": "NEGATION", "Score": 0.6686002016067505}]}

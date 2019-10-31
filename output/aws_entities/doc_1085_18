@@ -1,0 +1,1 @@
+{"Id": 17, "BeginOffset": 633, "EndOffset": 656, "Score": 0.8627171516418457, "Text": "neurobehavioral effects", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SYMPTOM", "Score": 0.5213586091995239}, {"Name": "DIAGNOSIS", "Score": 0.4413277208805084}]}

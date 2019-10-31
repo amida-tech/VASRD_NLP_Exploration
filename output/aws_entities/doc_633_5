@@ -1,0 +1,1 @@
+{"Id": 10, "BeginOffset": 77, "EndOffset": 99, "Score": 0.8925266265869141, "Text": "valvular heart disease", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "DIAGNOSIS", "Score": 0.9619046449661255}]}

@@ -1,0 +1,1 @@
+{"Id": 9, "BeginOffset": 560, "EndOffset": 577, "Score": 0.5222324728965759, "Text": "abnormal kyphosis", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SIGN", "Score": 0.9340853095054626}, {"Name": "NEGATION", "Score": 0.7161304950714111}]}

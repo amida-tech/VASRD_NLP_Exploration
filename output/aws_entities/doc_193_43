@@ -1,0 +1,1 @@
+{"Id": 63, "BeginOffset": 2322, "EndOffset": 2341, "Score": 0.868725597858429, "Text": "neurologic symptoms", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SYMPTOM", "Score": 0.4995983839035034}, {"Name": "NEGATION", "Score": 0.48696789145469666}]}

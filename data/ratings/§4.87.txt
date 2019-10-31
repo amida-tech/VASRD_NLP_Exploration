@@ -1,0 +1,13 @@
+6200   Chronic suppurative otitis media, mastoiditis, or cholesteatoma (or any combination): During suppuration, or with aural polyps 10
+6204   Peripheral vestibular disorders: Dizziness and occasional staggering 30
+6204   Peripheral vestibular disorders: Occasional dizziness 10
+6205   Meniere's syndrome (endolymphatic hydrops): Hearing impairment with attacks of vertigo and cerebellar gait occurring more than once weekly, with or without tinnitus 100
+6205   Meniere's syndrome (endolymphatic hydrops): Hearing impairment with attacks of vertigo and cerebellar gait occurring from one to four times a month, with or without tinnitus 60
+6205   Meniere's syndrome (endolymphatic hydrops): Hearing impairment with vertigo less than once a month, with or without tinnitus 30
+6207 Loss of auricle: Complete loss of both 50
+6207 Loss of auricle: Complete loss of one 30
+6207 Loss of auricle: Deformity of one, with loss of one-third or more of the substance 10
+6208   Malignant neoplasm of the ear (other than skin only) 100
+6210   Chronic otitis externa: Swelling, dry and scaly or serous discharge, and itching requiring frequent and prolonged treatment 10
+6211   Tympanic membrane, perforation of 0
+6260   Tinnitus, recurrent 10

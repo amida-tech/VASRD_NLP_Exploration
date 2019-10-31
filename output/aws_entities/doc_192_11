@@ -1,0 +1,1 @@
+{"Id": 3, "BeginOffset": 480, "EndOffset": 485, "Score": 0.9670605063438416, "Text": "spasm", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SIGN", "Score": 0.9432017207145691}, {"Name": "NEGATION", "Score": 0.8114755153656006}]}

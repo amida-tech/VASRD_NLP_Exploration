@@ -1,0 +1,1 @@
+{"Id": 7, "BeginOffset": 555, "EndOffset": 578, "Score": 0.8112273812294006, "Text": "abnormal spinal contour", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SIGN", "Score": 0.8749557137489319}, {"Name": "NEGATION", "Score": 0.8679277896881104}]}

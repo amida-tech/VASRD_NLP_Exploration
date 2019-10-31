@@ -1,0 +1,1 @@
+{"Id": 1, "BeginOffset": 48, "EndOffset": 63, "Score": 0.975162923336029, "Text": "Graves' disease", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "DIAGNOSIS", "Score": 0.9244236946105957}, {"Name": "NEGATION", "Score": 0.5915073156356812}]}

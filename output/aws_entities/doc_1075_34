@@ -1,0 +1,1 @@
+{"Id": 30, "BeginOffset": 1949, "EndOffset": 1964, "Score": 0.9744629859924316, "Text": "mental disorder", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "DIAGNOSIS", "Score": 0.9340195655822754}, {"Name": "NEGATION", "Score": 0.7796903848648071}]}

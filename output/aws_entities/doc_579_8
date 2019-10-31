@@ -1,0 +1,1 @@
+{"Id": 12, "BeginOffset": 164, "EndOffset": 192, "Score": 0.40649858117103577, "Text": "anti-inflammatory medication", "Category": "MEDICATION", "Type": "GENERIC_NAME", "Traits": [], "Attributes": [{"Type": "ROUTE_OR_MODE", "Score": 0.32163211703300476, "RelationshipScore": 0.9992710947990417, "Id": 11, "BeginOffset": 151, "EndOffset": 163, "Text": "inhalational", "Traits": []}]}

@@ -1,0 +1,1 @@
+{"Id": 2, "BeginOffset": 23, "EndOffset": 39, "Score": 0.6201091408729553, "Text": "non-B hepatitis)", "Category": "TEST_TREATMENT_PROCEDURE", "Type": "TEST_NAME", "Traits": [], "Attributes": [{"Type": "TEST_VALUE", "Score": 0.958997905254364, "RelationshipScore": 0.9991787075996399, "Id": 3, "BeginOffset": 41, "EndOffset": 55, "Text": "Nonsymptomatic", "Traits": []}]}

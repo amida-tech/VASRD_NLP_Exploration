@@ -1,0 +1,1 @@
+{"Id": 2, "BeginOffset": 56, "EndOffset": 73, "Score": 0.7760564684867859, "Text": "prolonged attacks", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SYMPTOM", "Score": 0.4911563992500305}, {"Name": "DIAGNOSIS", "Score": 0.45244336128234863}]}

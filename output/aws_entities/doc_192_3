@@ -1,0 +1,1 @@
+{"Id": 0, "BeginOffset": 23, "EndOffset": 43, "Score": 0.5466042757034302, "Text": "limitation of motion", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SIGN", "Score": 0.5102748274803162}, {"Name": "SYMPTOM", "Score": 0.5264094471931458}]}

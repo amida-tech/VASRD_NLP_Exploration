@@ -1,0 +1,1 @@
+{"Id": 2, "BeginOffset": 74, "EndOffset": 88, "Score": 0.8632354736328125, "Text": "varicose veins", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SIGN", "Score": 0.593955397605896}, {"Name": "DIAGNOSIS", "Score": 0.4398210644721985}, {"Name": "NEGATION", "Score": 0.5095077753067017}]}

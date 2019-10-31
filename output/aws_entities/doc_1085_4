@@ -1,0 +1,1 @@
+{"Id": 3, "BeginOffset": 176, "EndOffset": 188, "Score": 0.9937422871589661, "Text": "Irritability", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SYMPTOM", "Score": 0.5932793617248535}, {"Name": "DIAGNOSIS", "Score": 0.40579354763031006}]}

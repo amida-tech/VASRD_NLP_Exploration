@@ -1,0 +1,1 @@
+{"Id": 4, "BeginOffset": 58, "EndOffset": 60, "Score": 0.9392271637916565, "Text": "SB", "Category": "TEST_TREATMENT_PROCEDURE", "Type": "TEST_NAME", "Traits": [], "Attributes": [{"Type": "TEST_VALUE", "Score": 0.6539323329925537, "RelationshipScore": 0.9682355523109436, "Id": 5, "BeginOffset": 65, "EndOffset": 74, "Text": "40- to 55", "Traits": []}]}

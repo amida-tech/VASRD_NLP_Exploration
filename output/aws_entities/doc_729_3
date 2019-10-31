@@ -1,0 +1,1 @@
+{"Id": 2, "BeginOffset": 37, "EndOffset": 58, "Score": 0.5007643103599548, "Text": "laryngeal involvement", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SIGN", "Score": 0.43971461057662964}, {"Name": "DIAGNOSIS", "Score": 0.45058414340019226}, {"Name": "NEGATION", "Score": 0.6887431144714355}]}

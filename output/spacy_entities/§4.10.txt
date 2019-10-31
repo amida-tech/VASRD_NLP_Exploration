@@ -1,0 +1,5 @@
+daily	DATE
+psyche	ORG
+41	CARDINAL
+11292	DATE
+Mar. 18, 1976]	DATE

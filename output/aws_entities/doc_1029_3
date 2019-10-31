@@ -1,0 +1,1 @@
+{"Id": 1, "BeginOffset": 25, "EndOffset": 41, "Score": 0.9558234810829163, "Text": "thyroid function", "Category": "TEST_TREATMENT_PROCEDURE", "Type": "TEST_NAME", "Traits": [], "Attributes": [{"Type": "TEST_VALUE", "Score": 0.3385486900806427, "RelationshipScore": 0.9999744892120361, "Id": 0, "BeginOffset": 18, "EndOffset": 24, "Text": "normal", "Traits": []}]}

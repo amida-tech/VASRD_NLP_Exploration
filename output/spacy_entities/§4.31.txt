@@ -1,0 +1,5 @@
+zero percent	PERCENT
+zero percent	PERCENT
+58	CARDINAL
+52018	DATE
+Oct. 6, 1993	DATE

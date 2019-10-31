@@ -1,0 +1,1 @@
+{"Id": 0, "BeginOffset": 13, "EndOffset": 29, "Score": 0.447744220495224, "Text": "light perception", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SIGN", "Score": 0.5457492470741272}, {"Name": "NEGATION", "Score": 0.48317283391952515}]}

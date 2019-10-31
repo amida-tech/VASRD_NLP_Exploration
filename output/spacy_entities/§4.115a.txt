@@ -1,0 +1,39 @@
+one	CARDINAL
+edema	PERSON
+albuminuria	PERSON
+creatinine
+	PERSON
+edema	PERSON
+albuminuria	PERSON
+4	CARDINAL
+at least 40 percent	PERCENT
+at least 10 percent	PERCENT
+more than 4	CARDINAL
+60	CARDINAL
+2	CARDINAL
+4	CARDINAL
+40	CARDINAL
+less than 2	CARDINAL
+20	CARDINAL
+less than one hour	TIME
+five	CARDINAL
+between one and two hours	TIME
+three to four	CARDINAL
+two and three hours	TIME
+two	CARDINAL
+30	CARDINAL
+one	CARDINAL
+greater than 150	CARDINAL
+less than 10	CARDINAL
+every 2 to 3 months 10	DATE
+1	CARDINAL
+2	CARDINAL
+two	CARDINAL
+30	CARDINAL
+1	CARDINAL
+10	CARDINAL
+59	CARDINAL
+2527, Jan. 18, 1994	DATE
+59	CARDINAL
+10676	DATE
+Mar. 7, 1994	DATE

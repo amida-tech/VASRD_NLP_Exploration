@@ -1,0 +1,1 @@
+{"Id": 4, "BeginOffset": 103, "EndOffset": 124, "Score": 0.5263976454734802, "Text": "impairing mastication", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SIGN", "Score": 0.4056414067745209}, {"Name": "NEGATION", "Score": 0.6367527842521667}]}

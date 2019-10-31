@@ -1,0 +1,1 @@
+{"Id": 6, "BeginOffset": 165, "EndOffset": 173, "Score": 0.9400081038475037, "Text": "tinnitus", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SYMPTOM", "Score": 0.5000392198562622}, {"Name": "NEGATION", "Score": 0.6596050262451172}]}

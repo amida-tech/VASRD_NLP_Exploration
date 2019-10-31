@@ -1,0 +1,1 @@
+{"Id": 12, "BeginOffset": 255, "EndOffset": 264, "Score": 0.9606583714485168, "Text": "discharge", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SYMPTOM", "Score": 0.7750413417816162}]}

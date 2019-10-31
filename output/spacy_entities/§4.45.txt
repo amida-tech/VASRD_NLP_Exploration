@@ -1,0 +1,2 @@
+metacarpal	GPE
+carpal joints	PERSON

@@ -1,0 +1,1 @@
+{"Id": 2, "BeginOffset": 76, "EndOffset": 83, "Score": 0.9443850517272949, "Text": "leakage", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SIGN", "Score": 0.810912549495697}, {"Name": "NEGATION", "Score": 0.8762515187263489}]}

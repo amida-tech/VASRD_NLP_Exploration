@@ -1,0 +1,316 @@
+NOSE	GPE
+Septum	ORG
+one	CARDINAL
+Nose	PERSON
+30	CARDINAL
+one	CARDINAL
+10	CARDINAL
+DC 7800	ORG
+Sinusitis	PERSON
+Sinusitis	PERSON
+Sinusitis	PERSON
+Sinusitis	PERSON
+Sinusitis	PERSON
+Rating Formula	PERSON
+Sinusitis (	ORG
+6510	CARDINAL
+6514	DATE
+four to six weeks	DATE
+more than six	CARDINAL
+two	CARDINAL
+four to six weeks	DATE
+three	CARDINAL
+six	CARDINAL
+Laryngitis	PERSON
+4.88c	CARDINAL
+4.89	CARDINAL
+6516	DATE
+Laryngitis	PERSON
+30	CARDINAL
+Laryngectomy	ORG
+100	CARDINAL
+aphonia	GPE
+larynx	GPE
+Aphonia	GPE
+100	CARDINAL
+60	CARDINAL
+aphonia	GPE
+laryngitis	GPE
+chronic	ORG
+Larynx	GPE
+one second	TIME
+less than 40 percent	PERCENT
+Flow-Volume Loop	PERSON
+Flow-Volume Loop	PERSON
+60	CARDINAL
+Flow-Volume Loop	PERSON
+Flow-Volume Loop	PERSON
+10	CARDINAL
+aphonia	GPE
+Pharynx	GPE
+pharynx	GPE
+nasopharynx	GPE
+Allergic	PRODUCT
+30	CARDINAL
+one	CARDINAL
+6523	DATE
+Bacterial	ORG
+50	CARDINAL
+one	CARDINAL
+100	CARDINAL
+20	CARDINAL
+6600	DATE
+Bronchitis	PERSON
+less than 40 percent	PERCENT
+Forced Expiratory Volume	WORK_OF_ART
+one second	TIME
+less than 40 percent	PERCENT
+cor pulmonale	PERSON
+Echo	ORG
+FEV-1/FVC	ORG
+40 to 55 percent	PERCENT
+DLCO	ORG
+SB	ORG
+15 to 20	CARDINAL
+kg/min	ORG
+FEV-1/FVC	ORG
+56 to 70 percent	PERCENT
+DLCO	ORG
+SB	ORG
+30	CARDINAL
+FEV-1/FVC	ORG
+71 to 80 percent	PERCENT
+DLCO	ORG
+SB	ORG
+10	CARDINAL
+at least six weeks	DATE
+100	CARDINAL
+four to six weeks	DATE
+frank hemoptysis	PERSON
+two to four weeks	DATE
+daily	DATE
+four to six weeks	DATE
+a year 10	DATE
+Asthma	ORG
+less than 40 percent	PERCENT
+more than one	CARDINAL
+daily	DATE
+immuno	GPE
+FEV-1/FVC	ORG
+40 to 55 percent	PERCENT
+monthly	DATE
+FEV-1/FVC	ORG
+56 to 70 percent	PERCENT
+daily	DATE
+30	CARDINAL
+FEV-1/FVC	ORG
+71 to 80 percent	PERCENT
+10	CARDINAL
+6603	DATE
+Emphysema	PERSON
+less than 40 percent	PERCENT
+Forced Expiratory Volume	WORK_OF_ART
+one second	TIME
+less than 40 percent	PERCENT
+cor pulmonale	PERSON
+Echo	ORG
+FEV-1/FVC	ORG
+40 to 55 percent	PERCENT
+DLCO	ORG
+SB	ORG
+15 to 20	CARDINAL
+kg/min	ORG
+FEV-1/FVC	ORG
+56 to 70 percent	PERCENT
+DLCO	ORG
+SB	ORG
+30	CARDINAL
+FEV-1/FVC	ORG
+71 to 80 percent	PERCENT
+DLCO	ORG
+SB	ORG
+10	CARDINAL
+Chronic	ORG
+one second	TIME
+less than 40 percent	PERCENT
+cor pulmonale	PERSON
+Echo	ORG
+FEV-1/FVC	ORG
+40 to 55 percent	PERCENT
+DLCO	ORG
+SB	ORG
+15 to 20	CARDINAL
+kg/min	ORG
+FEV-1/FVC	ORG
+56 to 70 percent	PERCENT
+DLCO	ORG
+SB	ORG
+30	CARDINAL
+FEV-1/FVC	ORG
+71 to 80 percent	PERCENT
+DLCO	ORG
+SB	ORG
+10	CARDINAL
+Pulmonary Tuberculosis	ORG
+August 19, 1968
+	DATE
+Tuberculosis	ORG
+100	CARDINAL
+Tuberculosis	ORG
+100	CARDINAL
+Tuberculosis	ORG
+100	CARDINAL
+Tuberculosis	ORG
+100	CARDINAL
+Tuberculosis	ORG
+Tuberculosis	ORG
+6723	DATE
+Tuberculosis	ORG
+Tuberculosis	ORG
+Rating Formula	PERSON
+two years	DATE
+four years	DATE
+six years	DATE
+50	CARDINAL
+five years	DATE
+eleven years	DATE
+30	CARDINAL
+30	CARDINAL
+20	CARDINAL
+1	CARDINAL
+6701	CARDINAL
+6724	DATE
+50 percent	PERCENT
+1	CARDINAL
+38	CARDINAL
+356	CARDINAL
+Public Law 90-493	LAW
+the Veterans Service Center	ORG
+2	CARDINAL
+30 percent and 20 percent	PERCENT
+Pulmonary Tuberculosis Initially	ORG
+August 19, 1968	DATE
+6730	DATE
+Tuberculosis	ORG
+100	CARDINAL
+the end of six months	DATE
+12 months	DATE
+X-ray	PERSON
+6731	DATE
+Tuberculosis	ORG
+DC 5297	ORG
+DC 6730	ORG
+§3.105(e	PERSON
+6732	DATE
+Pleurisy	PERSON
+4.88c	CARDINAL
+4.89	CARDINAL
+cor pulmonale
+	ORG
+100
+Chronic	MONEY
+30	CARDINAL
+Neoplasms	PERSON
+100	CARDINAL
+100 percent	PERCENT
+Six months	DATE
+VA	GPE
+§3.105(e	PERSON
+Neoplasms	PERSON
+6822	DATE
+Nocardiosis	PERSON
+6824	DATE
+Chronic	ORG
+Rating Formula	PERSON
+6822	CARDINAL
+6824	DATE
+100	CARDINAL
+Diffuse	ORG
+6826	DATE
+6827	DATE
+6828	DATE
+Rating Formula	PERSON
+6825	CARDINAL
+6833	DATE
+less than 15	CARDINAL
+DLCO	ORG
+SB	ORG
+15 to 20	CARDINAL
+DLCO	ORG
+SB	ORG
+30	CARDINAL
+DLCO	PERSON
+SB	ORG
+10	CARDINAL
+6834	DATE
+Histoplasmosis	PERSON
+Blastomycosis	PERSON
+Cryptococcosis	PERSON
+6838	DATE
+Aspergillosis	ORG
+Mucormycosis	ORG
+Rating Formula	PERSON
+6834	CARDINAL
+6839	DATE
+100	CARDINAL
+50	CARDINAL
+30	CARDINAL
+0	CARDINAL
+up to 21 days	DATE
+six months	DATE
+up to many years	DATE
+United States	GPE
+6840	DATE
+6841	DATE
+hernia	GPE
+Chronic	ORG
+Rating Formula	PERSON
+6840	CARDINAL
+6845	DATE
+less than 40 percent	PERCENT
+Forced Expiratory Volume	WORK_OF_ART
+one second	TIME
+less than 40 percent	PERCENT
+cor pulmonale	PERSON
+Echo	ORG
+FEV-1/FVC	ORG
+40 to 55 percent	PERCENT
+DLCO	ORG
+SB	ORG
+15 to 20	CARDINAL
+kg/min	ORG
+FEV-1/FVC	ORG
+56 to 70 percent	PERCENT
+DLCO	ORG
+SB	ORG
+30	CARDINAL
+FEV-1/FVC	ORG
+71 to 80 percent	PERCENT
+DLCO	ORG
+SB	ORG
+10	CARDINAL
+1	CARDINAL
+2	CARDINAL
+100 percent	PERCENT
+three months	DATE
+the first day of the month	DATE
+3	CARDINAL
+Muscle Group	ORG
+DC 5321	PERSON
+6846	DATE
+Sarcoidosis	PERSON
+100	CARDINAL
+60	CARDINAL
+30	CARDINAL
+Central	ORG
+100	CARDINAL
+50	CARDINAL
+30	CARDINAL
+0
+Review	ORG
+monthly	DATE
+§3.350	LAW
+61	CARDINAL
+Sept. 5, 1996	DATE
+71	CARDINAL
+May 17, 2006	DATE

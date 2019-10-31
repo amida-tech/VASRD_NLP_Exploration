@@ -1,0 +1,1 @@
+{"Id": 10, "BeginOffset": 203, "EndOffset": 227, "Score": 0.9185752272605896, "Text": "irritable bowel symptoms", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SYMPTOM", "Score": 0.958396315574646}, {"Name": "NEGATION", "Score": 0.8835864663124084}]}

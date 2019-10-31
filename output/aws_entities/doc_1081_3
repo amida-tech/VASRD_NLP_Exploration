@@ -1,0 +1,1 @@
+{"Id": 2, "BeginOffset": 61, "EndOffset": 92, "Score": 0.9131096601486206, "Text": "lost in unfamiliar surroundings", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SIGN", "Score": 0.4134922921657562}, {"Name": "SYMPTOM", "Score": 0.6025474071502686}]}

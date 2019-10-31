@@ -1,0 +1,1 @@
+{"Id": 1, "BeginOffset": 52, "EndOffset": 69, "Score": 0.6892378330230713, "Text": "hernia protrusion", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SIGN", "Score": 0.6482135057449341}, {"Name": "DIAGNOSIS", "Score": 0.5378034114837646}, {"Name": "NEGATION", "Score": 0.8227418661117554}]}

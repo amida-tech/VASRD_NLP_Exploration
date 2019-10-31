@@ -1,0 +1,1 @@
+{"Id": 9, "BeginOffset": 193, "EndOffset": 201, "Score": 0.9992444515228271, "Text": "headache", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SYMPTOM", "Score": 0.9762707352638245}, {"Name": "NEGATION", "Score": 0.9358119368553162}]}

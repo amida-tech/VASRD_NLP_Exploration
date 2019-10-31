@@ -1,0 +1,1 @@
+{"Id": 12, "BeginOffset": 241, "EndOffset": 248, "Score": 0.9978511333465576, "Text": "anxiety", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SYMPTOM", "Score": 0.9495179057121277}, {"Name": "NEGATION", "Score": 0.8960936665534973}]}

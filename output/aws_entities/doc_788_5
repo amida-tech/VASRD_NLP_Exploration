@@ -1,0 +1,1 @@
+{"Id": 3, "BeginOffset": 72, "EndOffset": 102, "Score": 0.789924144744873, "Text": "disturbances of bowel function", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SIGN", "Score": 0.554481029510498}, {"Name": "SYMPTOM", "Score": 0.7362737059593201}]}

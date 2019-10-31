@@ -1,0 +1,110 @@
+6010   Tuberculosis of eye: Active 100
+6011   Retinal scars, atrophy, or irregularities: Localized scars, atrophy, or irregularities of the retina, unilateral or bilateral, that are centrally located and that result in an irregular, duplicated, enlarged, or diminished image 10
+6012   Angle-closure glaucoma Evaluate under the General Rating Formula for Diseases of the Eye. Minimum evaluation if continuous medication is required 10
+6013   Open-angle glaucoma Evaluate under the General Rating Formula for Diseases of the Eye. Minimum evaluation if continuous medication is required 10
+6014   Malignant neoplasms of the eye, orbit, and adnexa (excluding skin): Malignant neoplasms of the eye, orbit, and adnexa (excluding skin) that require therapy that is comparable to those used for systemic malignancies, i.e., systemic chemotherapy, X-ray therapy more extensive than to the area of the eye, or surgery more extensive than enucleation 100
+6016   Nystagmus, central 10
+6017   Trachomatous conjunctivitis: Active: Evaluate under the General Rating Formula for Diseases of the Eye, minimum rating 30
+6018   Chronic conjunctivitis (nontrachomatous): Active: Evaluate under the General Rating Formula for Diseases of the Eye, minimum rating 10
+6020   Ectropion: Bilateral 20
+6020   Ectropion: Unilateral 10
+6021   Entropion: Bilateral 20
+6021   Entropion: Unilateral 10
+6022   Lagophthalmos: Bilateral 20
+6022   Lagophthalmos: Unilateral 10
+6023   Loss of eyebrows, complete, unilateral or bilateral 10
+6024   Loss of eyelashes, complete, unilateral or bilateral 10
+6025   Disorders of the lacrimal apparatus (epiphora, dacryocystitis, etc.): Bilateral 20
+6025   Disorders of the lacrimal apparatus (epiphora, dacryocystitis, etc.): Unilateral 10
+6029   Aphakia or dislocation of crystalline lens: Evaluate based on visual impairment, and elevate the resulting level of visual impairment one step. Minimum (unilateral or bilateral) 30
+6030   Paralysis of accommodation (due to neuropathy of the Oculomotor Nerve (cranial nerve III)). 20
+6034   Pterygium: Evaluate under the General Rating Formula for Diseases of the Eye, disfigurement (diagnostic code 7800), conjunctivitis (diagnostic code 6018), etc., depending on the particular findings, and combine in accordance with §4.25
+6036   Status post corneal transplant: Evaluate under the General Rating Formula for Diseases of the Eye. Minimum, if there is pain, photophobia, and glare sensitivity 10
+6061   Anatomical loss of both eyes 100
+6062   No more than light perception in both eyes 100
+6063   Anatomical loss of one eye: In the other eye 5/200 (1.5/60) 100
+6063   Anatomical loss of one eye: In the other eye 10/200 (3/60) 90
+6063   Anatomical loss of one eye: In the other eye 15/200 (4.5/60) 80
+6063   Anatomical loss of one eye: In the other eye 20/200 (6/60) 70
+6063   Anatomical loss of one eye: In the other eye 20/100 (6/30) 60
+6063   Anatomical loss of one eye: In the other eye 20/70 (6/21) 60
+6063   Anatomical loss of one eye: In the other eye 20/50 (6/15) 50
+6063   Anatomical loss of one eye: In the other eye 20/40 (6/12) 40
+6064   No more than light perception in one eye: In the other eye 5/200 (1.5/60) 100
+6064   No more than light perception in one eye: In the other eye 10/200 (3/60) 90
+6064   No more than light perception in one eye: In the other eye 15/200 (4.5/60) 80
+6064   No more than light perception in one eye: In the other eye 20/200 (6/60) 70
+6064   No more than light perception in one eye: In the other eye 20/100 (6/30) 60
+6064   No more than light perception in one eye: In the other eye 20/70 (6/21) 50
+6064   No more than light perception in one eye: 1
+6064   No more than light perception in one eye: 1
+6064   No more than light perception in one eye: 1
+6064   No more than light perception in one eye: 1
+6064   No more than light perception in one eye: In the other eye 20/50 (6/15) 40
+6064   No more than light perception in one eye: In the other eye 20/40 (6/12) 30
+6065   Vision in one eye 5/200 (1.5/60): In the other eye 5/200 (1.5/60) 100
+6065   Vision in one eye 5/200 (1.5/60): In the other eye 10/200 (3/60) 90
+6065   Vision in one eye 5/200 (1.5/60): In the other eye 15/200 (4.5/60) 80
+6065   Vision in one eye 5/200 (1.5/60): In the other eye 20/200 (6/60) 70
+6065   Vision in one eye 5/200 (1.5/60): In the other eye 20/100 (6/30) 60
+6065   Vision in one eye 5/200 (1.5/60): In the other eye 20/70 (6/21) 50
+6065   Vision in one eye 5/200 (1.5/60): In the other eye 20/50 (6/15) 40
+6065   Vision in one eye 5/200 (1.5/60): In the other eye 20/40 (6/12) 30
+6066   Visual acuity in one eye 10/200 (3/60) or better: Vision in one eye 10/200 (3/60): In the other eye 10/200 (3/60) 90
+6066   Visual acuity in one eye 10/200 (3/60) or better: In the other eye 15/200 (4.5/60) 80
+6066   Visual acuity in one eye 10/200 (3/60) or better: In the other eye 20/200 (6/60) 70
+6066   Visual acuity in one eye 10/200 (3/60) or better: In the other eye 20/100 (6/30) 60
+6066   Visual acuity in one eye 10/200 (3/60) or better: In the other eye 20/70 (6/21) 50
+6066   Visual acuity in one eye 10/200 (3/60) or better: In the other eye 20/50 (6/15) 40
+6066   Visual acuity in one eye 10/200 (3/60) or better: In the other eye 20/40 (6/12) 30
+6066   Visual acuity in one eye 10/200 (3/60) or better: Vision in one eye 15/200 (4.5/60): In the other eye 15/200 (4.5/60) 80
+6066   Visual acuity in one eye 10/200 (3/60) or better: In the other eye 20/200 (6/60) 70
+6066   Visual acuity in one eye 10/200 (3/60) or better: In the other eye 20/100 (6/30) 60
+6066   Visual acuity in one eye 10/200 (3/60) or better: In the other eye 20/70 (6/21) 40
+6066   Visual acuity in one eye 10/200 (3/60) or better: In the other eye 20/50 (6/15) 30
+6066   Visual acuity in one eye 10/200 (3/60) or better: In the other eye 20/40 (6/12) 20
+6066   Visual acuity in one eye 10/200 (3/60) or better: Vision in one eye 20/200 (6/60): In the other eye 20/200 (6/60) 70
+6066   Visual acuity in one eye 10/200 (3/60) or better: In the other eye 20/100 (6/30) 60
+6066   Visual acuity in one eye 10/200 (3/60) or better: In the other eye 20/70 (6/21) 40
+6066   Visual acuity in one eye 10/200 (3/60) or better: In the other eye 20/50 (6/15) 30
+6066   Visual acuity in one eye 10/200 (3/60) or better: In the other eye 20/40 (6/12) 20
+6066   Visual acuity in one eye 10/200 (3/60) or better: Vision in one eye 20/100 (6/30): In the other eye 20/100 (6/30) 50
+6066   Visual acuity in one eye 10/200 (3/60) or better: In the other eye 20/70 (6/21) 30
+6066   Visual acuity in one eye 10/200 (3/60) or better: In the other eye 20/50 (6/15) 20
+6066   Visual acuity in one eye 10/200 (3/60) or better: In the other eye 20/40 (6/12) 10
+6066   Visual acuity in one eye 10/200 (3/60) or better: Vision in one eye 20/70 (6/21): In the other eye 20/70 (6/21) 30
+6066   Visual acuity in one eye 10/200 (3/60) or better: In the other eye 20/50 (6/15) 20
+6066   Visual acuity in one eye 10/200 (3/60) or better: In the other eye 20/40 (6/12) 10
+6066   Visual acuity in one eye 10/200 (3/60) or better: Vision in one eye 20/50 (6/15): In the other eye 20/50 (6/15) 10
+6066   Visual acuity in one eye 10/200 (3/60) or better: In the other eye 20/40 (6/12) 10
+6066   Visual acuity in one eye 10/200 (3/60) or better: Vision in one eye 20/40 (6/12): In the other eye 20/40 (6/12) 0
+6080   Visual field defects: Homonymous hemianopsia 30
+6080   Visual field defects: Loss of temporal half of visual field: Bilateral 30
+6080   Visual field defects: Unilateral 10
+6080   Visual field defects: Or evaluate each affected eye as 20/70 (6/21) Loss of nasal half of visual field: Bilateral 10
+6080   Visual field defects: Unilateral 10
+6080   Visual field defects: Or evaluate each affected eye as 20/50 (6/15) Loss of inferior half of visual field: Bilateral 30
+6080   Visual field defects: Unilateral 10
+6080   Visual field defects: Or evaluate each affected eye as 20/70 (6/21) Loss of superior half of visual field: Bilateral 10
+6080   Visual field defects: Unilateral 10
+6080   Visual field defects: Or evaluate each affected eye as 20/50 (6/15) 1
+6080   Visual field defects: 1
+6080   Visual field defects: Concentric contraction of visual field: With remaining field of 5 degrees: Bilateral 100
+6080   Visual field defects: Unilateral 30
+6080   Visual field defects: Or evaluate each affected eye as 5/200 (1.5/60) With remaining field of 6 to 15 degrees: Bilateral 70
+6080   Visual field defects: Unilateral 20
+6080   Visual field defects: Or evaluate each affected eye as 20/200 (6/60) With remaining field of 16 to 30 degrees: Bilateral 50
+6080   Visual field defects: Unilateral 10
+6080   Visual field defects: Or evaluate each affected eye as 20/100 (6/30) With remaining field of 31 to 45 degrees: Bilateral 30
+6080   Visual field defects: Unilateral 10
+6080   Visual field defects: Or evaluate each affected eye as 20/70 (6/21) With remaining field of 46 to 60 degrees: Bilateral 10
+6080   Visual field defects: Unilateral 10
+6081   Scotoma, unilateral: Minimum, with scotoma affecting at least one-quarter of the visual field (quadrantanopsia) or with centrally located scotoma of any size 10
+6090   Diplopia (double vision): (a) Central 20 degrees 5/200
+6090   Diplopia (double vision): (1.5/60) (b) 21 degrees to 30 degrees (1) Down 15/200
+6090   Diplopia (double vision): (4.5/60) (2) Lateral 20/100
+6090   Diplopia (double vision): (6/30) (3) Up 20/70
+6090   Diplopia (double vision): (6/21) (c) 31 degrees to 40 degrees (1) Down 20/200
+6090   Diplopia (double vision): (6/60) (2) Lateral 20/70
+6090   Diplopia (double vision): (6/21) (3) Up 20/40
+6091   Symblepharon: Evaluate under the General Rating Formula for Diseases of the Eye, lagophthalmos (diagnostic code 6022), disfigurement (diagnostic code 7800), etc., depending on the particular findings, and combine in accordance with §4.25

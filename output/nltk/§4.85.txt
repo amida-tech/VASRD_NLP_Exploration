@@ -1,0 +1,6 @@
+(d) “Puretone threshold average,” as used in Tables VI and VIa, is the sum of the puretone thresholds at 1000, 2000, 3000 and 4000 Hertz, divided by four. (e) Table VII, “Percentage Evaluations for Hearing Impairment,” is used to determine the percentage evaluation by combining the Roman numeral designations for hearing
+impairment of each ear. View or download PDF (/graphics/pdfs/er11my99.005.pdf)
+View or download PDF (/graphics/pdfs/er11my99.006.pdf)
+[64 FR 25206, May 11, 1999] This average is used in all
+cases (including those in §4.86) to determine the Roman numeral designation for hearing impairment from Table VI or VIa. (h) Numeric tables VI, VIA*, and VII. The
+Roman numeral designation is located at the point where the percentage of speech discrimination and puretone threshold average intersect. The horizontal rows represent the ear having the better hearing and the vertical columns the ear having the poorer hearing.

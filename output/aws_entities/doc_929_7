@@ -1,0 +1,1 @@
+{"Id": 6, "BeginOffset": 176, "EndOffset": 190, "Score": 0.980043888092041, "Text": "corticosteroid", "Category": "MEDICATION", "Type": "GENERIC_NAME", "Traits": [], "Attributes": [{"Type": "ROUTE_OR_MODE", "Score": 0.615173876285553, "RelationshipScore": 0.9999983310699463, "Id": 5, "BeginOffset": 171, "EndOffset": 175, "Text": "oral", "Traits": []}]}

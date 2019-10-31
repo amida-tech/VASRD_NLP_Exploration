@@ -1,0 +1,1 @@
+{"Id": 2, "BeginOffset": 53, "EndOffset": 69, "Score": 0.9321331977844238, "Text": "abdominal cramps", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SYMPTOM", "Score": 0.9051885008811951}]}

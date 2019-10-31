@@ -1,0 +1,1 @@
+{"Id": 7, "BeginOffset": 164, "EndOffset": 175, "Score": 0.9891389012336731, "Text": "bradycardia", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "DIAGNOSIS", "Score": 0.6173290014266968}, {"Name": "NEGATION", "Score": 0.5342336893081665}]}

@@ -1,0 +1,1 @@
+{"Id": 11, "BeginOffset": 228, "EndOffset": 241, "Score": 0.996866762638092, "Text": "hyperhidrosis", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SYMPTOM", "Score": 0.4902523159980774}, {"Name": "DIAGNOSIS", "Score": 0.48205241560935974}]}

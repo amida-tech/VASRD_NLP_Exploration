@@ -1,0 +1,1 @@
+{"Id": 1, "BeginOffset": 47, "EndOffset": 61, "Score": 0.9581419229507446, "Text": "loss of memory", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SYMPTOM", "Score": 0.8591999411582947}]}

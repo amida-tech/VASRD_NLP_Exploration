@@ -1,0 +1,71 @@
+one	CARDINAL
+3.350	CARDINAL
+monthly	DATE
+monthly	DATE
+monthly	DATE
+Kidney	PERSON
+one	CARDINAL
+30	CARDINAL
+Kidney	PERSON
+Nephritis	PERSON
+Pyelonephritis	PERSON
+4.89	CARDINAL
+Nephrosclerosis	ORG
+one	CARDINAL
+more than two	CARDINAL
+30	CARDINAL
+20	CARDINAL
+10	CARDINAL
+one	CARDINAL
+more than two	CARDINAL
+one	CARDINAL
+more than two	CARDINAL
+Cystitis	NORP
+Bladder	NORP
+Bladder	ORG
+100	CARDINAL
+Bladder	ORG
+Urethra	PERSON
+7519	DATE
+Urethra	PERSON
+100	CARDINAL
+Penis	GPE
+half or more 30	CARDINAL
+Penis	GPE
+Penis	GPE
+7523	DATE
+Testis	PERSON
+Testis	GPE
+one	CARDINAL
+30 percent	PERCENT
+Testis	GPE
+4.89	CARDINAL
+100	CARDINAL
+100 percent	PERCENT
+the expiration of six months	DATE
+§3.105(e	PERSON
+Chronic	ORG
+100	CARDINAL
+30	CARDINAL
+100 percent	PERCENT
+VA	GPE
+one year	DATE
+§3.105(e	PERSON
+aminoacidurias	PERSON
+Fanconi	PERSON
+Bartter	LOC
+Henle	GPE
+20	CARDINAL
+Medullary	LOC
+Toxic	PERSON
+Glomerulonephritis	PERSON
+Renal	ORG
+Neurogenic	ORG
+monthly	DATE
+§3.350	LAW
+59	CARDINAL
+2527, Jan. 18, 1994	DATE
+59	CARDINAL
+Mar. 29, 1994	DATE
+59	CARDINAL
+Sept. 8, 1994	DATE

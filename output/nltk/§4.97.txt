@@ -1,0 +1,7 @@
+[61 FR 46728, Sept. 5, 1996, as amended at 71 FR 28586, May 17, 2006]
+The Cardiovascular System 100
+Rate the residuals of partial laryngectomy as laryngitis (DC 6516), aphonia (DC 6519), or stenosis of larynx (DC 6520). 6519   Aphonia, complete organic:
+Constant inability to communicate by speech 100
+Constant inability to speak above a whisper 60
+Note: Evaluate incomplete aphonia as laryngitis, chronic (DC 6516). 6732   Pleurisy, tuberculous, active or inactive:
+Rate under §§4.88c or 4.89, whichever is appropriate. 6843   Traumatic chest wall defect, pneumothorax, hernia, etc. 6844   Post-surgical residual (lobectomy, pneumonectomy, etc.). 6832   Pneumoconiosis (silicosis, anthracosis, etc.).

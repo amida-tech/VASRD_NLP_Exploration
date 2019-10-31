@@ -1,0 +1,1 @@
+{"Id": 0, "BeginOffset": 33, "EndOffset": 42, "Score": 0.37445560097694397, "Text": "Extension", "Category": "TEST_TREATMENT_PROCEDURE", "Type": "TEST_NAME", "Traits": [], "Attributes": [{"Type": "TEST_VALUE", "Score": 0.5251415967941284, "RelationshipScore": 0.9996893405914307, "Id": 1, "BeginOffset": 43, "EndOffset": 57, "Text": "limited to 30\u00b0", "Traits": []}]}

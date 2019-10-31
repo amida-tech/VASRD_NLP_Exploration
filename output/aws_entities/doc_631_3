@@ -1,0 +1,1 @@
+{"Id": 1, "BeginOffset": 34, "EndOffset": 57, "Score": 0.9120098948478699, "Text": "rheumatic heart disease", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "DIAGNOSIS", "Score": 0.9714078307151794}]}

@@ -1,0 +1,1 @@
+{"Id": 8, "BeginOffset": 90, "EndOffset": 110, "Score": 0.9897906184196472, "Text": "autoimmune hepatitis", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "DIAGNOSIS", "Score": 0.8779960870742798}, {"Name": "NEGATION", "Score": 0.6636301875114441}]}

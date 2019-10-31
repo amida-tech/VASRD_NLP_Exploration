@@ -1,0 +1,1 @@
+{"Id": 2, "BeginOffset": 117, "EndOffset": 135, "Score": 0.4576932489871979, "Text": "soft tissue damage", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "NEGATION", "Score": 0.7062658071517944}]}

@@ -1,0 +1,10 @@
+1	CARDINAL
+daily	DATE
+less than 50 percent	PERCENT
+at least six months	DATE
+2	CARDINAL
+3	CARDINAL
+six	CARDINAL
+24 hours	TIME
+59	CARDINAL
+Nov. 29, 1994	DATE

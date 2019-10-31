@@ -1,0 +1,1 @@
+{"Id": 3, "BeginOffset": 88, "EndOffset": 115, "Score": 0.9563776254653931, "Text": "involuntary bowel movements", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SIGN", "Score": 0.4471464455127716}, {"Name": "SYMPTOM", "Score": 0.6378577947616577}]}

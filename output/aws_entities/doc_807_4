@@ -1,0 +1,1 @@
+{"Id": 3, "BeginOffset": 96, "EndOffset": 111, "Score": 0.5850245356559753, "Text": "fecal discharge", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SYMPTOM", "Score": 0.5883679986000061}]}

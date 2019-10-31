@@ -1,0 +1,1 @@
+{"Id": 6, "BeginOffset": 134, "EndOffset": 139, "Score": 0.981198251247406, "Text": "cough", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SYMPTOM", "Score": 0.8195428848266602}]}

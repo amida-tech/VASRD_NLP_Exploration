@@ -1,0 +1,1 @@
+{"Id": 5, "BeginOffset": 498, "EndOffset": 520, "Score": 0.7734782099723816, "Text": "impairment of function", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SIGN", "Score": 0.6644574403762817}, {"Name": "SYMPTOM", "Score": 0.47151726484298706}]}

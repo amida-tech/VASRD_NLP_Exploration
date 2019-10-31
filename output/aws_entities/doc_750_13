@@ -1,0 +1,1 @@
+{"Id": 0, "BeginOffset": 243, "EndOffset": 248, "Score": 0.9191610217094421, "Text": "X-ray", "Category": "TEST_TREATMENT_PROCEDURE", "Type": "TEST_NAME", "Traits": [], "Attributes": [{"Type": "TEST_VALUE", "Score": 0.651268482208252, "RelationshipScore": 0.9994329810142517, "Id": 1, "BeginOffset": 278, "EndOffset": 310, "Text": "subarticular punched out lesions", "Traits": []}]}

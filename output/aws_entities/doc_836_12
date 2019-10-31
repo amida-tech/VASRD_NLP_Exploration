@@ -1,0 +1,1 @@
+{"Id": 14, "BeginOffset": 209, "EndOffset": 220, "Score": 0.9363388419151306, "Text": "weight loss", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SYMPTOM", "Score": 0.7943339943885803}, {"Name": "NEGATION", "Score": 0.9681812524795532}]}

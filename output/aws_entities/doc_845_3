@@ -1,0 +1,1 @@
+{"Id": 2, "BeginOffset": 70, "EndOffset": 84, "Score": 0.9500577449798584, "Text": "abdominal pain", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SYMPTOM", "Score": 0.436130166053772}, {"Name": "DIAGNOSIS", "Score": 0.4875820577144623}]}

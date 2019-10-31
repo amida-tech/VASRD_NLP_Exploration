@@ -1,0 +1,1 @@
+{"Id": 8, "BeginOffset": 240, "EndOffset": 284, "Score": 0.9413316249847412, "Text": "difficulty in understanding complex commands", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "SIGN", "Score": 0.7240634560585022}, {"Name": "SYMPTOM", "Score": 0.6125441193580627}]}

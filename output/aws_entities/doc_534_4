@@ -1,0 +1,1 @@
+{"Id": 3, "BeginOffset": 97, "EndOffset": 112, "Score": 0.9810448288917542, "Text": "lymphadenopathy", "Category": "MEDICAL_CONDITION", "Type": "DX_NAME", "Traits": [{"Name": "NEGATION", "Score": 0.8178943395614624}]}

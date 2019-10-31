@@ -1,0 +1,45 @@
+the American Psychiatric Association's	ORG
+Fifth
+Edition	ORG
+4.125	CARDINAL
+§4.125	DATE
+§4.130	ORG
+Schizophrenia
+	PERSON
+Delirium
+	PERSON
+Posttraumatic	ORG
+Panic	ORG
+amnesia	GPE
+Depersonalization/Derealization	ORG
+Somatic	NORP
+9425	DATE
+Cyclothymic	NORP
+Chronic	ORG
+Rating Formula	PERSON
+daily	DATE
+a week	DATE
+weekly	DATE
+Bulimia	GPE
+less than 80 percent	PERCENT
+at least six weeks	DATE
+100	CARDINAL
+less than 85 percent	PERCENT
+six or more weeks	DATE
+60	CARDINAL
+less than 85 percent	PERCENT
+more than two	CARDINAL
+less than six weeks	DATE
+30	CARDINAL
+up to two weeks	DATE
+1	CARDINAL
+2	CARDINAL
+Rating Formula	PERSON
+9520	DATE
+9521	DATE
+the General Rating Formula for Eating Disorders	LAW
+38	CARDINAL
+1155	DATE
+79	CARDINAL
+45100	DATE
+Aug. 4, 2014	DATE
