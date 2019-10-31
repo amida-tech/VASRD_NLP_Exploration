@@ -19,14 +19,15 @@ def read_all_entities(filename):
 read_all_entities('../output/aws_entity_list')
 
 def multilabel_encode(ners):
-    print(ners)
     X = np.zeros((len(ners), len(entities)))
     row = 0
     for ner_tuple in ners:
         for items in ner_tuple:
             for item in items:
-                if item not in entities:
+                normalized_item = item.lower()
+                if normalized_item not in entities:
                     continue
-                X[row][entities[item]]
+                # it's either 1 or 0, so 1 is true regardless of past state
+                X[row][entities[normalized_item]] = 1
         row +=1
     return X

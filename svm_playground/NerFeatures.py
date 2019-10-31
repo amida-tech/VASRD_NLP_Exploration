@@ -4,11 +4,10 @@ Created on Oct 29, 2019
 @author: gregory
 '''
 
-from joblib import dump, load
+from joblib import dump
 import numpy as np
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.multioutput import MultiOutputClassifier
-from sklearn.preprocessing import OneHotEncoder
 from sklearn.svm import LinearSVC
 from svm_playground import ManualEncoder, MockData
 
@@ -54,7 +53,7 @@ def get_bag_of_words_feature():
     return X
 
 def get_ner_feature(ners):
-    x = ManualEncoder.multilabel_encode(ners)    
+    x = ManualEncoder.multilabel_encode(ners)  
     return x
 
 def featurize():
